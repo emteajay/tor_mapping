@@ -1,20 +1,3624 @@
 LATVIA,(Unknown city),,,95.215.44.189 8080 0,normal
-(Unknown Country?),(Unknown City?),,,73.15.150.172,normal
-(Unknown Country?),(Unknown City?),,,151.236.6.198 9001 9030,normal
-(Unknown Country?),(Unknown City?),,,162.247.72.201,exit
-(Unknown Country?),(Unknown City?),,,185.13.39.197,normal
 GERMANY,Gunzenhausen,47.9833,9.3833,46.4.253.194,normal
 GERMANY,Erfurt,50.9667,11.0167,87.118.116.227,normal
-(Unknown Country?),(Unknown City?),,,89.179.127.124,normal
 GERMANY,Berlin,52.5,13.4167,78.47.148.174,normal
-(Unknown Country?),(Unknown City?),,,37.59.38.117,normal
 UNITED STATES,(Unknown city),,,66.172.33.106,normal
 NORWAY,Narvik,68.4356,17.4372,89.162.87.180,normal
-(Unknown Country?),(Unknown City?),,,91.97.46.155,normal
 GERMANY,Kassel,51.3167,9.48333,77.176.155.15,normal
-(Unknown Country?),(Unknown City?),,,94.253.14.98,normal
-(Unknown Country?),(Unknown City?),,,86.22.244.227,normal
-(Unknown Country?),(Unknown City?),,,99.122.19.26,normal
 FRANCE,Paris,48.8,2.33333,62.210.74.143,exit
 HONG KONG,(Unknown city),,,210.6.46.37,normal
 UNITED STATES,(Unknown city),,,24.187.20.8,normal
+UNITED KINGDOM,(Unknown city),,,84.40.112.70,normal
+NETHERLANDS,Hilversum,52.2333,5.18333,62.216.14.84,normal
+GERMANY,Berlin,52.5,13.4167,78.47.176.71,normal
+SPAIN,Madrid,40.4333,-3.7,87.222.156.60,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.1.34.31,normal
+FRANCE,Rennes,48.0833,-1.68333,82.229.60.245,normal
+UNITED STATES,"New Haven, CT",41.3101,-72.9241,130.132.177.126,normal
+LATVIA,Riga,56.8833,24.0833,159.148.181.90,normal
+UNITED STATES,"Woodinville, WA",47.7462,-122.112,198.252.153.100,normal
+UNITED KINGDOM,(Unknown city),,,82.15.86.74,normal
+NETHERLANDS,(Unknown city),,,83.162.205.68,normal
+GERMANY,Berlin,52.5,13.4167,78.52.116.168,normal
+GERMANY,(Unknown city),,,84.176.238.240,normal
+FRANCE,(Unknown city),,,195.154.105.57,normal
+NORWAY,(Unknown city),,,193.90.12.87,exit
+SWEDEN,(Unknown city),,,217.209.18.87,normal
+FRANCE,(Unknown city),,,80.119.179.192,exit
+RUSSIAN FEDERATION,Moskova,55.3167,55.1,95.220.44.215,normal
+UNITED STATES,"Manhattan, KS",39.1901,-96.59,129.130.0.183,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.194.135.61,normal
+FRANCE,(Unknown city),,,81.66.118.66,normal
+GERMANY,(Unknown city),,,217.13.197.5,exit
+FRANCE,Paris,48.8,2.33333,62.210.74.186,exit
+UNITED STATES,"Minneapolis, MN",44.9618,-93.2668,125.239.25.99,normal
+GERMANY,(Unknown city),,,144.76.39.202,normal
+FRANCE,(Unknown city),,,212.83.170.84,normal
+FRANCE,(Unknown city),,,62.210.92.11,normal
+FRANCE,(Unknown city),,,80.255.11.211,normal
+FRANCE,Paris,48.8,2.33333,94.23.36.84,normal
+SWEDEN,Kristianstad,56.0333,14.1333,212.181.193.188,exit
+JAPAN,(Unknown city),,,203.178.133.11,normal
+SWITZERLAND,(Unknown city),,,62.220.148.94,normal
+SWEDEN,(Unknown city),,,193.13.97.37,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.52.68,normal
+NETHERLANDS,(Unknown city),,,62.212.72.243,normal
+UNITED STATES,"Newark, NJ",40.7241,-74.1732,97.107.142.234,normal
+NETHERLANDS,(Unknown city),,,84.245.25.199,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,77.37.184.126,normal
+PORTUGAL,Aveiro,40.6333,-8.65,193.137.173.217,normal
+GERMANY,Neuermark,52.65,11.0333,176.9.148.176,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.206.24.109,normal
+UNITED KINGDOM,London,51.5,-0.1167,217.155.40.118,normal
+GERMANY,Berlin,52.5,13.4167,78.142.175.70,normal
+UNITED STATES,(Unknown city),,,216.218.134.12,exit
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.191.157,normal
+GERMANY,Berlin,52.5,13.4167,85.214.156.28,normal
+GERMANY,(Unknown city),,,62.143.207.70,normal
+FRANCE,(Unknown city),,,213.245.61.61,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.177.253.247,normal
+UNITED STATES,(Unknown city),,,167.88.40.125,exit
+GERMANY,Berlin,52.5,13.4167,78.53.125.236,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,78.107.239.213,normal
+UNITED STATES,(Unknown city),,,24.62.205.10,normal
+RUSSIAN FEDERATION,(Unknown city),,,217.114.147.245,normal
+FINLAND,Helsinki,60.2667,25,83.145.241.231,normal
+UNITED STATES,(Unknown city),,,67.190.76.236,normal
+AUSTRALIA,Sydney,-34,151,110.174.43.136,exit
+GERMANY,Cologne,50.9333,6.95,217.254.68.237,normal
+RUSSIAN FEDERATION,Yekaterinburg,56.85,60.6,88.86.215.213,normal
+AUSTRIA,(Unknown city),,,84.113.17.2,normal
+ITALY,Sondrio,46.1667,9.8667,95.224.245.59,normal
+GERMANY,Karlsruhe,49.05,8.4,81.169.153.167,normal
+UNITED KINGDOM,Exeter,50.7,-3.5333,91.84.246.241,normal
+FRANCE,Rennes,48.0833,-1.68333,95.130.9.121,normal
+SWEDEN,(Unknown city),,,80.216.123.252,normal
+FRANCE,Paris,48.8,2.33333,82.241.236.87,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,31.192.105.52,normal
+GERMANY,(Unknown city),,,144.76.8.73,normal
+GERMANY,(Unknown city),,,84.19.179.229,normal
+UNITED STATES,(Unknown city),,,54.88.114.52,normal
+ITALY,(Unknown city),,,212.71.255.41,normal
+FRANCE,Paris,48.8,2.33333,91.121.76.204,normal
+SWEDEN,Kalmar,56.6667,16.3667,81.228.60.187,normal
+GERMANY,Berlin,52.5,13.4167,78.47.139.98 9090 9091,normal
+FRANCE,Paris,48.8,2.33333,83.117.96.178,normal
+GERMANY,Ismaning,48.2333,11.6833,109.239.48.152,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.111.124,normal
+NORWAY,Narvik,68.4356,17.4372,158.39.25.29,normal
+UNITED KINGDOM,London,51.5,-0.1167,81.152.194.29,normal
+ESTONIA,Tallinn,59.4339,24.7281,212.47.226.9,normal
+NETHERLANDS,(Unknown city),,,77.247.181.166,exit
+UNITED STATES,(Unknown city),,,167.114.67.4,normal
+NETHERLANDS,(Unknown city),,,80.112.173.115,normal
+ITALY,Pescara,42.4667,14.2167,94.198.98.194,normal
+FRANCE,Paris,48.8,2.33333,91.121.147.65,normal
+IRELAND,(Unknown city),,,84.215.71.134,normal
+GERMANY,Frankfurt,50.1167,8.68333,46.165.240.130,normal
+GERMANY,(Unknown city),,,136.243.14.134,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.127.15.73,normal
+CANADA,"VICTORIA, BC",48.4167,-123.367,24.68.239.250,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.248.147,normal
+UNITED STATES,(Unknown city),,,137.135.8.233,normal
+FRANCE,(Unknown city),,,62.210.240.136,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,178.162.66.212 443 9030,normal
+UNITED STATES,(Unknown city),,,66.172.12.174,normal
+RUSSIAN FEDERATION,Barnaul,53.3667,83.75,83.246.164.187,normal
+UNITED STATES,"Cheyenne, WY",41.1455,-104.792,65.100.90.88,normal
+HONG KONG,(Unknown city),,,219.78.40.173,exit
+CANADA,"TORONTO, ON",43.65,-79.3833,76.10.128.120,normal
+GERMANY,Berlin,52.5,13.4167,85.214.54.254,normal
+GERMANY,Berlin,52.5,13.4167,78.111.201.9,normal
+UNITED STATES,"Skokie, IL",42.037,-87.7399,216.15.1.34,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.204.119,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,76.73.57.150,normal
+RUSSIAN FEDERATION,Chekhov,47.4333,141.983,109.196.18.54,normal
+GERMANY,Berlin,52.5,13.4167,141.20.33.79,normal
+GERMANY,(Unknown city),,,193.159.21.242,normal
+UKRAINE,Kiev,50.4333,30.5167,92.249.98.65,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.17.237.158,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.100.230,normal
+PORTUGAL,(Unknown city),,,193.136.204.117,normal
+AUSTRIA,Vienna,48.2333,16.3333,178.190.206.151,normal
+UNITED STATES,(Unknown city),,,14.162.164.19,exit
+FRANCE,(Unknown city),,,212.47.228.89,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,76.28.234.23,normal
+GERMANY,(Unknown city),,,84.60.167.150,normal
+BULGARIA,(Unknown city),,,82.118.242.30,normal
+NETHERLANDS,(Unknown city),,,80.100.92.244,normal
+UKRAINE,(Unknown city),,,217.12.204.147 9001 9030,normal
+GERMANY,(Unknown city),,,85.31.184.138,exit
+FRANCE,Sartrouville,48.95,2.1833,86.72.68.199,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.32.49.20,normal
+FRANCE,Paris,48.8,2.33333,195.154.221.237,normal
+UNITED STATES,(Unknown city),,,24.52.206.67,normal
+PANAMA,Panam,8.9667,-79.5333,190.123.47.116,normal
+FRANCE,Nantes,47.2167,-1.55,78.193.32.227,normal
+GERMANY,(Unknown city),,,62.146.132.47,normal
+SINGAPORE,(Unknown city),,,203.123.48.1 7777 7030,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.19.113.56,normal
+UNITED STATES,(Unknown city),,,54.165.162.74,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,89.179.241.30,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.95.91,normal
+FRANCE,(Unknown city),,,212.83.176.122,normal
+GERMANY,Berlin,52.5,13.4167,78.46.60.30 9001 0,normal
+UNITED KINGDOM,(Unknown city),,,212.117.180.107,normal
+NETHERLANDS,Nijmegen,51.8333,5.85,195.169.216.191,normal
+FRANCE,Nantes,47.2167,-1.55,78.236.54.158,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.204.129.245,normal
+UNITED STATES,(Unknown city),,,170.75.162.163,normal
+UNITED STATES,(Unknown city),,,209.126.105.7,normal
+SLOVAKIA,Bratislava,48.15,17.1167,92.52.36.155,normal
+GERMANY,Hamburg,53.55,10.0333,92.225.187.235,normal
+GERMANY,Berlin,52.5,13.4167,78.88.46.205,normal
+FRANCE,Boulogne Billancourt,48.8333,2.25,77.197.163.194,normal
+NORWAY,(Unknown city),,,195.159.162.194,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.141.158.237,normal
+SWITZERLAND,Zurich,47.35,8.51667,77.57.45.28,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.168.183.77,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,94.112.2.25,normal
+RUSSIAN FEDERATION,(Unknown city),,,83.166.234.108,normal
+FRANCE,(Unknown city),,,195.154.121.198,normal
+TURKEY,(Unknown city),,,80.244.243.158,normal
+SWITZERLAND,Baden,47.4667,8.3,84.75.12.73,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.163.99,normal
+SLOVENIA,Ljubljana,46.0558,14.5083,193.95.228.232,normal
+MEXICO,Mxico,19.4,-99.05,132.248.80.171,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.19.4,normal
+INDIA,Gurgaon,19.3333,77.2833,117.198.96.187,normal
+GERMANY,(Unknown city),,,84.168.162.83,exit
+GERMANY,(Unknown city),,,81.169.210.11,normal
+GERMANY,Berlin,52.5,13.4167,78.47.172.244,normal
+FINLAND,(Unknown city),,,193.167.187.186,normal
+FRANCE,(Unknown city),,,62.210.182.239,normal
+GERMANY,Karlsruhe,49.05,8.4,213.165.81.6,normal
+CYPRUS,(Unknown city),,,213.138.110.108,normal
+UNITED STATES,"Simpsonville, KY",38.2183,-85.3531,216.146.225.7,normal
+UNITED STATES,(Unknown city),,,148.100.41.251,normal
+RUSSIAN FEDERATION,(Unknown city),,,83.166.234.17,normal
+GERMANY,Berlin,52.5,13.4167,78.50.170.138,normal
+UNITED STATES,"College Park, MD",38.9961,-76.9348,128.8.126.92,normal
+UNITED KINGDOM,London,51.5,-0.1167,90.194.173.138,normal
+CANADA,"HALIFAX, NS",44.65,-63.6,129.173.67.99,normal
+UNITED STATES,(Unknown city),,,66.108.203.197,normal
+GERMANY,(Unknown city),,,84.200.10.209 443 80,normal
+SPAIN,Valencia,39.4667,-0.366667,81.203.150.85,normal
+UNITED STATES,"Racine, WI",42.7282,-87.8071,64.34.165.237,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.192.208.17,normal
+FINLAND,(Unknown city),,,193.166.167.74,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.173.104.141,normal
+FRANCE,(Unknown city),,,195.154.67.229,normal
+JAPAN,Tokyo,35.6667,139.75,195.154.97.17,normal
+BULGARIA,(Unknown city),,,83.228.93.76,normal
+UNITED STATES,(Unknown city),,,69.163.100.12,normal
+UNITED STATES,(Unknown city),,,67.220.22.191,normal
+UNITED STATES,(Unknown city),,,206.40.118.229,normal
+FRANCE,Brest,48.4,-4.4833,212.47.235.154,normal
+FRANCE,Paris,48.8,2.33333,91.121.93.160,normal
+UNITED STATES,(Unknown city),,,158.222.143.25,normal
+FRANCE,(Unknown city),,,83.114.77.215,normal
+ITALY,(Unknown city),,,212.71.253.226,normal
+NETHERLANDS,Zoetermeer,52.05,4.5,80.100.44.219,normal
+GERMANY,(Unknown city),,,80.152.151.118,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.109.149,normal
+SWITZERLAND,(Unknown city),,,80.219.140.41,normal
+DENMARK,(Unknown city),,,82.180.25.186,normal
+UNITED STATES,(Unknown city),,,68.64.161.238,exit
+GERMANY,Berlin,52.5,13.4167,85.214.130.17,normal
+GERMANY,Worms,49.6081,8.3664,188.194.201.174,normal
+GERMANY,(Unknown city),,,212.224.89.253,normal
+GERMANY,Berlin,52.5,13.4167,85.214.224.102,normal
+GERMANY,Karlsruhe,49.05,8.4,82.165.197.129,normal
+UNITED STATES,"Clearwater, FL",27.9794,-82.7655,24.28.21.134,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.28.63,normal
+FRANCE,(Unknown city),,,80.12.94.184,normal
+BELGIUM,Beernem,51.15,3.3333,81.243.141.184,normal
+UNITED STATES,(Unknown city),,,24.51.53.124,normal
+UNITED KINGDOM,(Unknown city),,,82.10.142.144,normal
+GERMANY,(Unknown city),,,82.211.19.143,exit
+RUSSIAN FEDERATION,(Unknown city),,,195.91.237.150,normal
+UNITED STATES,"Trenton, NJ",40.2234,-74.7642,66.175.217.78,normal
+NETHERLANDS,(Unknown city),,,77.247.181.164,exit
+GERMANY,Berlin,52.5,13.4167,78.46.45.242,normal
+UNITED STATES,"Chicago, IL",41.8371,-87.685,204.89.193.10,normal
+NETHERLANDS,(Unknown city),,,194.104.0.100,normal
+POLAND,(Unknown city),,,193.111.26.22,normal
+UNITED STATES,(Unknown city),,,168.235.150.100,exit
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.251,normal
+GREECE,Athens,37.9667,23.7167,147.102.216.242,normal
+GERMANY,Nrnberg,49.45,11.0833,91.12.205.190,normal
+SWITZERLAND,(Unknown city),,,83.78.16.5,normal
+NETHERLANDS,Delft,52.0167,4.36667,80.112.153.33 9001 9030,normal
+GERMANY,(Unknown city),,,213.136.92.169,normal
+GERMANY,(Unknown city),,,83.216.242.58,normal
+ISRAEL,BAT YAM,32.0231,34.7503,81.218.91.154,normal
+CANADA,Montreal,45.5167,-73.5667,198.100.144.20,normal
+GERMANY,Karlsruhe,49.05,8.4,212.227.251.35,normal
+UNITED STATES,(Unknown city),,,54.251.208.180,normal
+CANADA,"VANCOUVER, BC",49.2667,-123.117,209.17.191.117,exit
+AUSTRIA,Vienna,48.2333,16.3333,91.113.30.152,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,74.71.35.172,normal
+FINLAND,(Unknown city),,,193.166.167.75,normal
+UNITED STATES,"Columbus, OH",39.9889,-82.9874,24.160.162.200,normal
+GERMANY,Dsseldorf,51.2167,6.7667,95.223.47.99,normal
+CANADA,(Unknown city),,,142.4.207.59,normal
+ITALY,(Unknown city),,,212.71.252.116,normal
+NETHERLANDS,(Unknown city),,,83.149.127.140,normal
+GREECE,(Unknown city),,,83.212.98.112,normal
+UNITED STATES,"Orlando, FL",28.5047,-81.3742,50.89.246.55,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,198.52.247.131,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,66.171.179.194,exit
+UNITED STATES,"Las Vegas, NV",36.2057,-115.223,72.46.155.186,normal
+SWEDEN,(Unknown city),,,193.11.114.43 9001 9030,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.96.250,exit
+AUSTRIA,(Unknown city),,,84.114.241.223,normal
+GERMANY,Berlin,52.5,13.4167,81.169.130.52,normal
+UNITED STATES,"Bellevue, WA",47.6034,-122.155,67.168.100.183,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.99.69,normal
+GERMANY,Frankfurt Am Main,50.1167,8.6833,5.61.39.9,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.253.153,normal
+UNITED STATES,(Unknown city),,,209.126.100.238,exit
+FRANCE,(Unknown city),,,217.70.191.13,exit
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,192.155.80.111,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.103.35 35525 0,normal
+RUSSIAN FEDERATION,(Unknown city),,,212.74.254.243,normal
+AUSTRIA,Hagenberg,48.3667,14.5167,193.170.135.187,normal
+UNITED STATES,"MONTEREY PARK, CA",34.0468,-118.131,24.205.144.120,normal
+UKRAINE,Kharkiv,50,36.25,82.118.19.134,normal
+GERMANY,Berlin,52.5,13.4167,85.214.193.234,normal
+GERMANY,(Unknown city),,,144.76.14.145 443 143,normal
+DENMARK,Copenhagen,55.6667,12.5667,87.72.35.239,exit
+GERMANY,Bochum,51.4833,7.2167,178.201.41.181,normal
+UNITED STATES,(Unknown city),,,198.211.123.92,normal
+UKRAINE,Nikolaev,46.9667,32,37.229.210.254,exit
+NETHERLANDS,Rotterdam,51.9167,4.48333,212.238.237.208,normal
+FINLAND,(Unknown city),,,193.166.167.93,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,87.212.48.201,normal
+GERMANY,(Unknown city),,,62.158.227.253,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,192.81.223.118,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.216.101,normal
+UNITED KINGDOM,(Unknown city),,,82.31.41.215,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.14.159,normal
+GERMANY,Karlsruhe,49.05,8.4,81.169.155.156,normal
+BELGIUM,Holsbeek,50.8667,3.9333,83.101.5.83,normal
+ROMANIA,Reghin,46.7667,24.7,77.81.240.41,exit
+IRELAND,Dublin,53.3333,-6.25,193.1.193.156,normal
+ISRAEL,(Unknown city),,,84.108.121.54,normal
+UNITED STATES,(Unknown city),,,54.72.157.0,normal
+SWITZERLAND,(Unknown city),,,80.240.128.233,normal
+GERMANY,Frankfurt,50.1167,8.68333,178.162.197.5,exit
+EUROPEAN UNION,(Unknown city),,,149.210.171.69,normal
+GERMANY,(Unknown city),,,217.248.207.251,normal
+GERMANY,(Unknown city),,,84.200.149.229,normal
+GERMANY,(Unknown city),,,84.200.8.207,normal
+NETHERLANDS,(Unknown city),,,82.170.240.50,normal
+UNITED KINGDOM,Wolverhampton,52.5833,-2.1333,86.20.174.107,normal
+UNITED STATES,(Unknown city),,,68.187.64.252,normal
+FRANCE,Paris,48.8,2.33333,91.121.197.132,normal
+ITALY,Rende,39.3333,16.1833,160.97.47.30,normal
+UNITED STATES,"Fitchburg, WI",42.986,-89.4251,24.177.112.92,normal
+GERMANY,Berlin,52.5,13.4167,78.46.81.45,normal
+SWEDEN,Linkping,58.4167,15.6167,93.182.157.35,normal
+UNITED STATES,(Unknown city),,,54.148.237.14,exit
+UNITED STATES,(Unknown city),,,146.199.135.63,normal
+GERMANY,(Unknown city),,,89.238.69.93,normal
+SWEDEN,(Unknown city),,,192.71.151.36,normal
+GERMANY,(Unknown city),,,62.157.39.11,normal
+GERMANY,Lbeck,53.8667,10.7,85.233.16.248,normal
+GERMANY,(Unknown city),,,217.245.150.71,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.177.73,exit
+GERMANY,Nuremberg,49.45,11.0667,85.10.194.136,normal
+GERMANY,Berlin,52.5,13.4167,146.0.42.110 443 21,normal
+ITALY,Pescara,42.4667,14.2167,94.198.98.71,normal
+GERMANY,Nrnberg,49.45,11.0833,87.188.83.125,normal
+SWITZERLAND,(Unknown city),,,91.214.168.240,exit
+UNITED STATES,"New York, NY",40.6698,-73.9438,76.74.219.145,normal
+FRANCE,(Unknown city),,,195.154.81.108,normal
+SWEDEN,(Unknown city),,,81.231.226.38,exit
+UKRAINE,(Unknown city),,,91.213.8.89,normal
+GERMANY,(Unknown city),,,144.76.30.167,normal
+GERMANY,Darmstadt,49.8706,8.6494,213.157.27.99,normal
+SWEDEN,(Unknown city),,,213.114.150.111,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,71.126.142.68,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,82.161.109.71,normal
+UNITED KINGDOM,(Unknown city),,,81.109.105.182,normal
+SWITZERLAND,(Unknown city),,,62.113.250.180,normal
+UNITED STATES,(Unknown city),,,54.187.55.29,exit
+GERMANY,(Unknown city),,,144.76.96.7,normal
+ISRAEL,(Unknown city),,,213.183.56.140,normal
+UNITED STATES,(Unknown city),,,69.90.151.229,normal
+GERMANY,(Unknown city),,,95.169.188.103,normal
+GERMANY,Hrth,48.9333,10.9333,188.138.109.185,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.100.219.109,normal
+FRANCE,Roubaix,50.7,3.1667,37.59.47.27,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.191.95,normal
+NETHERLANDS,Dronten,52.5333,5.7167,146.185.253.221,exit
+GERMANY,(Unknown city),,,82.98.72.80,normal
+GERMANY,Cologne,50.9333,6.95,89.0.159.233,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.179.235,normal
+GERMANY,Darmstadt,49.8706,8.6494,130.83.218.93,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.22.5,normal
+NEW ZEALAND,(Unknown city),,,222.154.252.152,normal
+NETHERLANDS,(Unknown city),,,89.106.244.21,exit
+ROMANIA,Bucharest,44.4167,26.1167,95.77.145.75,normal
+COSTA RICA,(Unknown city),,,204.11.50.131,exit
+UNITED STATES,(Unknown city),,,64.251.14.17,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.100.196,normal
+UNITED ARAB EMIRATES,Dubai,25.2522,55.28,72.52.91.22,exit
+GERMANY,Eschborn,50.1333,8.55,88.71.140.184,normal
+GERMANY,Berlin,52.5,13.4167,188.138.9.208,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.206.12,normal
+GERMANY,(Unknown city),,,84.60.23.34,normal
+GERMANY,Berlin,52.5,13.4167,130.149.200.12,normal
+EUROPEAN UNION,(Unknown city),,,81.14.79.253,normal
+GERMANY,Karlsruhe,49.05,8.4,213.165.85.30,normal
+UNITED STATES,(Unknown city),,,166.84.7.148,normal
+ITALY,Milan,45.45,9.16667,149.132.5.189,normal
+AUSTRIA,(Unknown city),,,84.118.16.16,normal
+GERMANY,Hannover,52.4,9.73333,79.195.68.119,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.141.149.227,normal
+SWEDEN,(Unknown city),,,83.233.141.146,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.6,exit
+FRANCE,(Unknown city),,,82.224.138.9,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,74.162.154.249,normal
+GERMANY,(Unknown city),,,144.76.60.182,normal
+AUSTRIA,Vienna,48.2333,16.3333,84.113.245.177,normal
+UNITED STATES,(Unknown city),,,65.39.74.36,normal
+NETHERLANDS,(Unknown city),,,83.162.192.96,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.108.216.49,normal
+CANADA,(Unknown city),,,204.112.58.71,normal
+UNITED STATES,(Unknown city),,,54.76.196.75,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,185.45.192.81,exit
+UNITED STATES,(Unknown city),,,54.174.215.46,exit
+FRANCE,(Unknown city),,,212.47.234.185,exit
+JAPAN,Kyota,26.5414,127.969,217.115.10.131,exit
+UNITED STATES,(Unknown city),,,24.1.93.73,normal
+UNITED STATES,(Unknown city),,,68.69.169.131,normal
+GERMANY,(Unknown city),,,217.94.154.96,normal
+UNITED STATES,"Richmond, KY",37.7428,-84.2936,68.168.176.162,normal
+UNITED KINGDOM,(Unknown city),,,195.82.124.111,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.190.158,exit
+GERMANY,(Unknown city),,,91.209.211.140,normal
+IRAQ,Baghdd,33.3386,44.3939,97.107.139.28,normal
+UNITED STATES,(Unknown city),,,54.174.230.239,exit
+CANADA,Montreal,45.5167,-73.5667,192.99.21.196,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.211.53,exit
+GERMANY,(Unknown city),,,62.157.45.55,normal
+UNITED STATES,"Las Vegas, NV",36.2057,-115.223,68.104.119.157,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.142.179 443 0,normal
+UKRAINE,(Unknown city),,,91.213.8.116,normal
+GERMANY,(Unknown city),,,84.174.139.252,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.202,exit
+GERMANY,Dsseldorf,51.2167,6.7667,89.163.224.10,normal
+UNITED STATES,(Unknown city),,,192.3.150.170,normal
+LITHUANIA,Siauliai,55.6667,26.2667,5.199.167.138,normal
+GREECE,(Unknown city),,,217.170.205.113,normal
+AUSTRIA,(Unknown city),,,80.109.162.234,normal
+NORWAY,(Unknown city),,,83.243.236.121,normal
+SWITZERLAND,(Unknown city),,,80.240.135.63,exit
+UNITED STATES,(Unknown city),,,167.88.44.50,normal
+RUSSIAN FEDERATION,(Unknown city),,,85.141.228.244,normal
+GERMANY,Mannheim,49.4833,8.48333,95.89.76.223,normal
+CZECH REPUBLIC,Hlubok nad Vltavou,49.05,14.4333,46.28.111.62,exit
+UNITED STATES,"Davis, CA",38.555,-121.736,168.150.251.15,normal
+UNITED STATES,(Unknown city),,,24.9.125.72,normal
+UNITED STATES,(Unknown city),,,69.81.65.228,normal
+SWITZERLAND,(Unknown city),,,82.192.241.30,normal
+UNITED STATES,"Bethesda, MD",38.9897,-77.1203,216.164.57.229,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.240.250,normal
+FRANCE,(Unknown city),,,62.210.82.44,normal
+GERMANY,Nuremberg,49.45,11.0667,213.133.99.156,normal
+ITALY,Grosseto,42.7667,11.1333,82.52.63.217,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,64.231.238.132,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,192.43.244.8,normal
+RUSSIAN FEDERATION,(Unknown city),,,83.166.234.92,normal
+GERMANY,(Unknown city),,,81.169.140.27,normal
+UNITED STATES,"Madison, WI",43.0798,-89.3875,24.240.43.140,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,74.94.67.196,normal
+POLAND,Warszawa,52.25,21,87.205.225.234,normal
+UNITED STATES,(Unknown city),,,66.228.33.248,normal
+FRANCE,(Unknown city),,,212.47.227.202,normal
+SPAIN,Madrid,40.4333,-3.7,138.100.10.209,normal
+PAKISTAN,Lahore,30.4,68.7833,14.192.159.205,normal
+AUSTRALIA,(Unknown city),,,203.206.237.197,exit
+UNITED STATES,(Unknown city),,,209.210.210.21,normal
+GERMANY,Berlin,52.5,13.4167,81.169.136.206,normal
+UNITED STATES,"Redondo Beach, CA",33.8565,-118.376,66.146.193.31,exit
+FRANCE,(Unknown city),,,62.210.188.218,normal
+BELGIUM,(Unknown city),,,80.66.135.122,normal
+ICELAND,Reykjavk,64.15,-21.95,37.235.49.162,normal
+REUNION,Saint-Denis,-20.875,55.451,95.138.57.181,normal
+NETHERLANDS,(Unknown city),,,81.4.121.224,normal
+FRANCE,(Unknown city),,,62.210.198.152,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.190.82,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.141.174,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.45.93.68,normal
+GERMANY,Erfurt,50.9667,11.0167,84.19.178.7,exit
+GERMANY,Dsseldorf,51.2167,6.7667,89.163.224.166,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.229,normal
+SWEDEN,(Unknown city),,,83.251.64.230,normal
+CANADA,(Unknown city),,,142.4.213.113,exit
+FRANCE,Roubaix,50.7,3.1667,188.165.227.141,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,68.80.17.160,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.207.242,normal
+CANADA,(Unknown city),,,198.73.50.71,exit
+POLAND,Varsavia,52.25,21,37.235.48.247,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.201.21,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,198.52.247.250,exit
+GERMANY,Neuermark,52.65,11.0333,178.63.16.48,normal
+NETHERLANDS,(Unknown city),,,80.90.43.26,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.18.13,normal
+"KOREA, REPUBLIC OF",Seoul,37.55,126.967,125.131.189.45,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.34.224.152,normal
+UNITED STATES,(Unknown city),,,158.85.8.178,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.80.160.236,normal
+UNITED STATES,(Unknown city),,,149.154.154.146,normal
+CYPRUS,(Unknown city),,,213.138.110.88 443 80,exit
+EUROPEAN UNION,(Unknown city),,,143.176.125.182,normal
+NETHERLANDS,(Unknown city),,,81.4.104.16,normal
+GERMANY,Berlin,52.5,13.4167,78.48.199.178,exit
+GERMANY,Eschborn,50.1333,8.55,88.77.48.121,normal
+GERMANY,Berlin,52.5,13.4167,85.178.83.22,normal
+GERMANY,(Unknown city),,,192.44.30.40,normal
+UNITED STATES,(Unknown city),,,54.242.98.161,normal
+UNITED STATES,(Unknown city),,,69.28.82.48,normal
+GREECE,(Unknown city),,,212.114.109.33,normal
+UNITED STATES,"Tempe, AZ",33.3884,-111.931,209.250.2.254,normal
+AUSTRIA,(Unknown city),,,194.118.97.102,normal
+GERMANY,Frankfurt,50.1167,8.68333,178.162.194.30,normal
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,50.116.56.48,normal
+ROMANIA,Bucharest,44.4167,26.1167,109.163.234.8,exit
+UNITED STATES,(Unknown city),,,207.229.65.153,normal
+FRANCE,Paris,48.8,2.33333,94.23.48.186,normal
+AUSTRIA,(Unknown city),,,84.119.217.7,normal
+AUSTRALIA,Melbourne,-37.7833,144.967,150.101.217.3,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,77.109.141.138,exit
+DENMARK,Copenhagen,55.6667,12.5667,87.72.239.187,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,193.110.157.49,exit
+GERMANY,Berlin,52.5,13.4167,78.42.26.216,normal
+GERMANY,(Unknown city),,,84.58.31.121,normal
+ROMANIA,Bucharest,44.4167,26.1167,93.115.94.243,exit
+UNITED STATES,(Unknown city),,,24.162.245.108,normal
+PANAMA,Panam,8.9667,-79.5333,81.184.235.43,normal
+RUSSIAN FEDERATION,Barnaul,53.3667,83.75,83.246.217.133,normal
+VIET NAM,Ho Chi Minh City,10.75,106.667,203.113.172.146,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.51.232 443 80,normal
+INDIA,Hyderbd,17.3833,78.4667,49.205.25.235,normal
+UNITED KINGDOM,(Unknown city),,,188.220.0.117,normal
+GERMANY,(Unknown city),,,144.76.163.93,normal
+HUNGARY,(Unknown city),,,62.112.195.56,normal
+GERMANY,Berlin,52.5,13.4167,78.47.220.123,normal
+GERMANY,Berlin,52.5,13.4167,78.157.200.113,normal
+PORTUGAL,(Unknown city),,,217.23.1.163,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.174.52 443 0,normal
+GERMANY,Berlin,52.5,13.4167,78.41.233.192,normal
+GERMANY,Berlin,52.5,13.4167,85.178.201.113,normal
+JAPAN,(Unknown city),,,60.236.162.193,normal
+SWITZERLAND,(Unknown city),,,82.220.3.101,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.49.113,exit
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,67.215.255.140,exit
+FRANCE,Paris,48.8,2.33333,62.210.74.55,normal
+GERMANY,(Unknown city),,,84.180.96.176,normal
+GERMANY,(Unknown city),,,217.186.13.0,normal
+UNITED STATES,"Brea, CA",33.9236,-117.867,173.236.147.192,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.189.34.212,normal
+FINLAND,Vantaa,60.3,24.85,83.150.82.122,normal
+CANADA,Montreal,45.5167,-73.5667,192.95.40.137,normal
+RUSSIAN FEDERATION,(Unknown city),,,79.140.64.5,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,87.236.27.155,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.20.92,normal
+FRANCE,Brteau,46.9333,1.3667,195.154.166.113,normal
+NETHERLANDS,(Unknown city),,,81.4.104.82,exit
+NETHERLANDS,(Unknown city),,,81.4.109.47,normal
+GERMANY,(Unknown city),,,85.179.82.165,normal
+GERMANY,Nrnberg,49.45,11.0833,91.11.75.237,normal
+GERMANY,Munich,48.1333,11.5833,213.153.84.215,normal
+GERMANY,Darmstadt,49.8706,8.6494,93.207.50.114,normal
+UNITED STATES,"Hummelstown, PA",40.2664,-76.7129,68.54.129.155,normal
+UKRAINE,Kiev,50.4333,30.5167,77.121.149.238,normal
+CANADA,Montreal,45.5167,-73.5667,192.99.186.94,normal
+INDIA,Pusad,19.9,77.5833,91.194.84.106,normal
+UNITED STATES,"Wichita, KS",37.6874,-97.3427,68.102.158.163,normal
+CANADA,(Unknown city),,,132.216.54.2,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.255.223.91,normal
+RUSSIAN FEDERATION,(Unknown city),,,195.46.185.37,exit
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.200,exit
+GERMANY,(Unknown city),,,80.171.190.181,normal
+FRANCE,Villeneuve,42.4667,1.95,195.154.180.22,normal
+SWEDEN,Hallstavik,60.05,18.6,217.211.16.179,normal
+UNITED STATES,(Unknown city),,,8.28.153.3,normal
+GERMANY,Berlin,52.5,13.4167,78.46.218.11,normal
+ITALY,(Unknown city),,,62.122.54.161,normal
+GERMANY,Hamburg,53.55,10.0333,92.229.160.184,normal
+FINLAND,(Unknown city),,,193.166.167.78,normal
+GERMANY,(Unknown city),,,213.83.16.205,normal
+CZECH REPUBLIC,Pilsen,49.75,13.3667,81.201.60.237,normal
+NETHERLANDS,(Unknown city),,,81.4.107.68,normal
+FRANCE,(Unknown city),,,81.64.78.205,normal
+UNITED STATES,(Unknown city),,,24.6.103.97,normal
+UNITED STATES,(Unknown city),,,54.73.218.138,normal
+GERMANY,Berlin,52.5,13.4167,78.25.150.254,normal
+GERMANY,Berlin,52.5,13.4167,85.214.29.213,normal
+GERMANY,Berlin,52.5,13.4167,78.47.134.6 3451 3480,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.200.230,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,71.219.207.42,normal
+CZECH REPUBLIC,(Unknown city),,,213.151.89.4,normal
+FRANCE,Roubaix,50.7,3.1667,37.59.47.27,normal
+NETHERLANDS,Breda,51.5667,4.8,37.188.68.228,normal
+GERMANY,(Unknown city),,,217.160.23.208,normal
+UNITED STATES,(Unknown city),,,14.2.139.73,normal
+CANADA,(Unknown city),,,130.185.133.70,normal
+SPAIN,(Unknown city),,,83.35.20.95,normal
+UNITED STATES,(Unknown city),,,68.200.155.43,normal
+UNITED STATES,(Unknown city),,,192.3.52.99,exit
+CAYMAN ISLANDS,(Unknown city),,,78.129.166.57,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,79.165.223.209,exit
+GERMANY,Dsseldorf,51.2167,6.7667,217.79.182.95 9001 0,normal
+DENMARK,(Unknown city),,,193.163.220.143,exit
+ITALY,(Unknown city),,,82.53.36.168,normal
+AUSTRALIA,Hobart,-42.8833,147.317,121.223.146.191,normal
+POLAND,(Unknown city),,,217.172.255.229,normal
+UNITED STATES,(Unknown city),,,69.143.35.17,exit
+NETHERLANDS,(Unknown city),,,83.163.98.209,normal
+HONG KONG,(Unknown city),,,59.148.28.91,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.11.5,normal
+JAPAN,(Unknown city),,,60.46.237.179,normal
+GERMANY,(Unknown city),,,84.175.195.121,normal
+NETHERLANDS,(Unknown city),,,81.4.121.243,normal
+ITALY,(Unknown city),,,94.198.100.43,normal
+UNITED STATES,(Unknown city),,,167.114.66.219 993 110,normal
+SWITZERLAND,Wallisellen,47.4167,8.5833,31.25.120.37,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.163.100,normal
+HUNGARY,(Unknown city),,,193.6.222.110,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.55.239 993 80,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.235.215,normal
+UNITED STATES,(Unknown city),,,206.55.74.0,exit
+FRANCE,Paris,48.8,2.33333,91.121.84.92,normal
+GERMANY,Berlin,52.5,13.4167,78.46.126.102,normal
+UNITED STATES,"Blue Ash, OH",39.2467,-84.3808,208.102.208.189,normal
+GERMANY,Karlsruhe,49.05,8.4,212.227.248.118,exit
+UNITED STATES,(Unknown city),,,167.88.35.72,normal
+UNITED STATES,"Medina, OH",41.1362,-81.8674,24.239.204.196,normal
+GERMANY,(Unknown city),,,193.28.228.70 443 80,normal
+NETHERLANDS,Raamsdonkveer,51.7,4.9,83.82.192.230,normal
+GERMANY,Berlin,52.5,13.4167,78.108.63.44,exit
+FRANCE,Paris,48.8,2.33333,62.210.211.237,normal
+GERMANY,(Unknown city),,,144.76.54.53 443 80,normal
+EUROPEAN UNION,(Unknown city),,,194.150.168.79,exit
+UNITED STATES,"Birmingham, AL",33.5277,-86.7992,164.111.230.204,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.55.134,normal
+UNITED STATES,(Unknown city),,,66.228.33.248,normal
+GERMANY,Friedrichshafen,47.65,9.4833,84.57.146.171,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.111.119,normal
+EUROPEAN UNION,(Unknown city),,,164.39.42.254,normal
+GERMANY,Berlin,52.5,13.4167,78.47.155.171,normal
+FRANCE,Boulogne Billancourt,48.8333,2.25,77.194.141.221,normal
+FRANCE,(Unknown city),,,62.210.204.61,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.34.45,normal
+UNITED STATES,(Unknown city),,,68.186.75.194,normal
+POLAND,Warsaw,52.2333,21,95.49.134.41,normal
+URUGUAY,Montevideo,-34.8833,-56.1833,200.108.236.75,normal
+GERMANY,Karlsruhe,49.05,8.4,82.165.15.151,normal
+FRANCE,(Unknown city),,,212.83.190.203,exit
+CANADA,(Unknown city),,,142.4.215.38,normal
+UNITED STATES,(Unknown city),,,38.229.0.29,normal
+UNITED STATES,"Lawrence, KS",38.9628,-95.2554,129.237.123.57,normal
+GERMANY,(Unknown city),,,81.88.24.216,normal
+CZECH REPUBLIC,Praha,49.6667,13.8167,87.236.195.185,exit
+UNITED STATES,"San Diego, CA",32.8149,-117.136,216.17.99.157,exit
+UNITED STATES,(Unknown city),,,54.164.156.70,exit
+FRANCE,Roubaix,50.7,3.1667,87.98.185.5,normal
+UNITED STATES,(Unknown city),,,192.81.221.162,exit
+UNITED STATES,(Unknown city),,,69.64.48.168,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.214.175,exit
+GERMANY,(Unknown city),,,62.75.247.74,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.4.2.102,normal
+GERMANY,Berlin,52.5,13.4167,148.251.69.102,normal
+UNITED KINGDOM,(Unknown city),,,82.12.175.116,normal
+GERMANY,Berlin,52.5,13.4167,85.214.240.223,normal
+FRANCE,(Unknown city),,,82.233.117.151,normal
+UNITED STATES,"Cartersville, GA",34.1674,-84.8014,69.164.209.8,exit
+UNITED KINGDOM,London,51.5,-0.1167,212.112.242.159,normal
+POLAND,(Unknown city),,,83.28.99.50,normal
+UKRAINE,(Unknown city),,,91.213.8.235,exit
+BELGIUM,Brussels,50.8667,4.36667,164.15.167.7,normal
+NETHERLANDS,Zoetermeer,52.05,4.5,80.100.44.253,normal
+UNITED STATES,(Unknown city),,,204.27.58.202,exit
+FRANCE,(Unknown city),,,193.107.195.204,normal
+AUSTRIA,(Unknown city),,,80.110.55.196,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.141.136.24,normal
+VIET NAM,(Unknown city),,,210.245.95.79,normal
+GERMANY,Berlin,52.5,13.4167,78.47.216.28,normal
+JAPAN,Tokyo,35.6667,139.75,204.9.55.71,normal
+UNITED STATES,(Unknown city),,,128.237.157.114,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.32.186,normal
+GERMANY,Berlin,52.5,13.4167,78.156.117.236,normal
+NETHERLANDS,Rotterdam,51.9167,4.48333,80.57.124.58,normal
+FRANCE,(Unknown city),,,195.154.233.58,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,204.124.83.130,exit
+UNITED STATES,(Unknown city),,,63.231.97.228,normal
+GERMANY,Berlin,52.5,13.4167,62.75.241.127,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.196.167.96,normal
+UKRAINE,Kiev,50.4333,30.5167,62.149.2.188,normal
+NETHERLANDS,(Unknown city),,,81.4.101.93,normal
+UNITED STATES,"Phoenix, AZ",33.5425,-112.071,69.50.209.13,normal
+CANADA,"HALIFAX, NS",44.65,-63.6,129.173.67.100,normal
+CANADA,(Unknown city),,,142.54.176.178,normal
+SWEDEN,Lund,55.7,13.1833,81.186.243.119,normal
+UNITED STATES,(Unknown city),,,167.114.113.48,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.19,normal
+GERMANY,(Unknown city),,,84.200.77.102,exit
+BELGIUM,Veurne,51.0667,2.6667,81.83.19.45,normal
+GERMANY,(Unknown city),,,81.169.133.98 80 443,normal
+SWEDEN,(Unknown city),,,213.114.147.224,normal
+RUSSIAN FEDERATION,Vladivostok,43.1333,131.9,95.154.106.134,normal
+RUSSIAN FEDERATION,(Unknown city),,,195.182.154.234,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.203.42,normal
+POLAND,(Unknown city),,,188.165.145.157 443 80,normal
+NETHERLANDS,The Hague,52.0833,4.3,93.174.90.30,exit
+GERMANY,(Unknown city),,,81.169.199.225,normal
+UNITED STATES,(Unknown city),,,69.164.213.106,normal
+UNITED KINGDOM,(Unknown city),,,212.187.200.170,normal
+UNITED STATES,(Unknown city),,,69.14.126.164,normal
+LUXEMBOURG,(Unknown city),,,85.93.194.45,normal
+GERMANY,Berlin,52.5,13.4167,78.46.95.20,normal
+PORTUGAL,Leira,39.75,-8.8,85.240.165.32,normal
+UNITED STATES,(Unknown city),,,54.76.106.248,exit
+SWITZERLAND,Zrich,47.3667,8.55,84.73.112.2,normal
+UNITED STATES,"Enfield, CT",41.9837,-72.5561,70.181.1.61,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.66.78.234,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.6,exit
+GERMANY,Nuremberg,49.45,11.0667,213.239.216.222,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.138.27,normal
+GERMANY,Nrnberg,49.45,11.0833,87.154.160.225,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,62.197.71.43,normal
+NETHERLANDS,Rotterdam,51.9167,4.48333,80.113.1.11,normal
+FRANCE,Gometz-la-Ville,48.6667,2.1167,82.227.15.82,normal
+UNITED STATES,(Unknown city),,,67.0.180.201,normal
+GERMANY,(Unknown city),,,82.115.99.112,normal
+FRANCE,(Unknown city),,,212.129.50.246,normal
+FRANCE,(Unknown city),,,81.57.208.135,normal
+UNITED STATES,(Unknown city),,,68.169.135.164,normal
+FRANCE,(Unknown city),,,195.154.251.25,exit
+CZECH REPUBLIC,(Unknown city),,,62.245.118.204,normal
+UNITED STATES,"Saginaw, MI",43.4196,-83.9495,64.113.32.29,exit
+THAILAND,(Unknown city),,,202.172.16.57,normal
+RUSSIAN FEDERATION,(Unknown city),,,212.192.74.100,exit
+CANADA,(Unknown city),,,209.208.79.117,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.101.201.249,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.171.250,exit
+NORWAY,(Unknown city),,,84.201.35.225,normal
+SWEDEN,(Unknown city),,,213.113.119.144,normal
+FRANCE,Asnieres,45.8833,-0.5,82.237.216.233,normal
+UNITED KINGDOM,(Unknown city),,,213.163.74.22,exit
+UNITED STATES,(Unknown city),,,54.232.167.200,normal
+GERMANY,Hamburg,53.55,10.0333,77.244.254.229,exit
+UNITED STATES,"Lancaster, NY",42.9016,-78.6698,178.18.17.234,exit
+SWEDEN,(Unknown city),,,81.227.234.39,normal
+UKRAINE,(Unknown city),,,217.12.204.104,exit
+FRANCE,Toulouse,43.6,1.43333,195.154.107.86,normal
+UKRAINE,Kharkov,49.9261,36.2889,195.62.25.145,normal
+GERMANY,Berlin,52.5,13.4167,78.47.218.190,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,74.207.231.250,normal
+FRANCE,Paris,48.8,2.33333,212.83.154.33,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.6.224.161,normal
+UNITED STATES,(Unknown city),,,146.115.134.196,normal
+UNITED STATES,"Quincy, MA",42.2613,-71.007,140.186.70.48,normal
+FRANCE,(Unknown city),,,82.242.152.211,normal
+GERMANY,Duisburg,51.4167,6.76667,84.62.137.30,normal
+ITALY,(Unknown city),,,212.51.159.78,normal
+JAPAN,(Unknown city),,,157.14.246.4,normal
+FRANCE,Leuc,43.15,2.3333,5.39.76.36,normal
+UNITED STATES,"Rockville, MD",39.0812,-77.1539,206.72.198.152,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,69.164.195.240,normal
+FRANCE,Nantes,47.2167,-1.55,78.199.130.16,normal
+FRANCE,Paris,48.8,2.33333,91.121.76.207,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,89.176.140.190,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,172.245.43.182,normal
+GERMANY,Eschborn,50.1333,8.55,88.64.5.98,normal
+NETHERLANDS,(Unknown city),,,192.150.94.49,normal
+EUROPEAN UNION,(Unknown city),,,149.210.172.63,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.80.113.214,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,74.92.63.166,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,46.38.63.7,exit
+FRANCE,(Unknown city),,,62.210.206.25,exit
+UNITED STATES,(Unknown city),,,54.255.212.199,exit
+UNITED STATES,(Unknown city),,,32.211.224.182,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.23.179,normal
+NETHERLANDS,(Unknown city),,,83.128.148.9,normal
+GERMANY,Dsseldorf,51.2167,6.7667,89.163.224.166,normal
+TAIWAN,(Unknown city),,,203.217.173.146,exit
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.222.8,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.206.5,normal
+FRANCE,(Unknown city),,,83.202.120.26,normal
+IRELAND,(Unknown city),,,84.209.15.63,normal
+UNITED STATES,(Unknown city),,,209.51.191.190 443 993,normal
+UNITED STATES,(Unknown city),,,54.77.7.164,exit
+BELGIUM,Vlamertinge,50.85,2.8167,84.193.75.243,normal
+GERMANY,(Unknown city),,,84.182.116.169,normal
+GERMANY,(Unknown city),,,134.96.65.17,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,107.170.246.204,normal
+GERMANY,(Unknown city),,,87.106.208.236,normal
+GERMANY,(Unknown city),,,84.162.61.146,normal
+UNITED STATES,"Eugene, OR",44.053,-123.112,67.170.152.65,normal
+ISRAEL,Jerusalem,31.7667,35.2333,82.80.136.185,normal
+AUSTRIA,(Unknown city),,,212.186.43.99,normal
+JAPAN,(Unknown city),,,157.7.222.226,normal
+UNITED STATES,"Flagstaff, AZ",35.189,-111.62,24.121.93.74,normal
+ITALY,(Unknown city),,,213.88.40.185,normal
+UNITED STATES,"Kansas City, MO",39.1223,-94.552,50.115.173.138,normal
+UNITED STATES,(Unknown city),,,134.121.64.93,normal
+GERMANY,Berlin,52.5,13.4167,85.214.236.207,normal
+ISRAEL,Tel Aviv,32.0667,34.7667,82.80.33.99,normal
+GERMANY,(Unknown city),,,62.75.187.42,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.33.217,normal
+FRANCE,(Unknown city),,,195.154.109.157,normal
+GERMANY,Berlin,52.5,13.4167,193.104.220.35,normal
+GERMANY,Munich,48.1333,11.5833,92.226.113.143,normal
+AFGHANISTAN,Kandahr,31.6167,65.7167,173.254.216.67,exit
+UNITED STATES,"Lincoln, NE",40.8164,-96.6882,76.79.46.102,normal
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,50.116.40.6,normal
+HONG KONG,(Unknown city),,,202.85.233.34,exit
+UNITED STATES,(Unknown city),,,192.3.160.118,normal
+TAIWAN,(Unknown city),,,220.135.254.63,normal
+GERMANY,(Unknown city),,,212.3.147.37,normal
+FRANCE,Toulouse,43.6,1.43333,82.239.20.174,normal
+GERMANY,Berlin,52.5,13.4167,78.111.238.107,normal
+UNITED STATES,"Chicago, IL",41.8371,-87.685,140.192.218.139,normal
+UNITED KINGDOM,London,51.5,-0.1167,62.197.40.155,exit
+GERMANY,(Unknown city),,,217.79.190.25,normal
+SWEDEN,(Unknown city),,,85.226.63.243,exit
+GERMANY,Aachen,50.7833,6.08333,95.222.156.3,normal
+GERMANY,Nrnberg,49.45,11.0833,213.133.109.41,normal
+NETHERLANDS,(Unknown city),,,81.4.100.132,normal
+FRANCE,Brest,48.4,-4.4833,212.47.235.40,normal
+NETHERLANDS,(Unknown city),,,94.23.105.25,normal
+GERMANY,Berlin,52.5,13.4167,78.47.35.35,normal
+UNITED STATES,(Unknown city),,,54.149.242.174,normal
+FINLAND,(Unknown city),,,80.223.169.64,normal
+GERMANY,Erfurt,50.9667,11.0167,87.118.94.217,normal
+UNITED STATES,"St. Louis, MO",38.6361,-90.2443,69.64.39.180,normal
+GERMANY,(Unknown city),,,217.85.187.183,normal
+NETHERLANDS,(Unknown city),,,82.161.210.87,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,204.124.83.130,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.208.201,normal
+GERMANY,Dsseldorf,51.2167,6.7667,88.152.255.245,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.42.237.60,exit
+GERMANY,(Unknown city),,,217.79.181.56,normal
+GERMANY,Cologne,50.9333,6.95,89.0.235.31,normal
+GERMANY,Nrnberg,49.45,11.0833,91.18.136.45,normal
+INDONESIA,Medan,3.58333,98.6667,212.77.226.245,normal
+GERMANY,Stuttgart,48.7667,9.18333,94.218.14.81,normal
+GERMANY,(Unknown city),,,144.76.95.226,normal
+FRANCE,Paris,48.8,2.33333,62.210.132.56,normal
+GERMANY,Haina,50.4167,10.5333,5.9.49.118,normal
+NETHERLANDS,(Unknown city),,,83.82.105.240,normal
+DENMARK,(Unknown city),,,80.197.115.157,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.140.24,normal
+UNITED STATES,(Unknown city),,,204.17.56.42,exit
+SWITZERLAND,(Unknown city),,,83.150.16.244,normal
+SWEDEN,(Unknown city),,,83.177.174.194,normal
+FRANCE,(Unknown city),,,195.154.240.118 443 0,normal
+GERMANY,Berlin,52.5,13.4167,78.47.226.8,normal
+GERMANY,(Unknown city),,,84.200.12.61,normal
+LATVIA,(Unknown city),,,79.143.179.106,normal
+UNITED STATES,(Unknown city),,,65.129.136.138,exit
+FRANCE,(Unknown city),,,62.210.92.11,normal
+ITALY,Rome,41.9,12.45,79.18.80.91,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,74.71.250.84,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,72.14.181.82,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.203.71,normal
+SWEDEN,(Unknown city),,,79.136.14.23,normal
+NORWAY,(Unknown city),,,193.90.12.88,exit
+GERMANY,Berlin,52.5,13.4167,78.21.6.161,exit
+SWEDEN,(Unknown city),,,192.71.218.160,normal
+SWITZERLAND,(Unknown city),,,80.238.177.60,normal
+GERMANY,Nrnberg,49.45,11.0833,87.189.108.243,normal
+FRANCE,Pressy,46.4667,4.5167,91.121.116.34,normal
+UNITED STATES,(Unknown city),,,168.235.146.56,normal
+GERMANY,Berlin,52.5,13.4167,78.46.247.36,normal
+NETHERLANDS,(Unknown city),,,81.4.105.192,normal
+FRANCE,(Unknown city),,,81.64.230.253,normal
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.100.83.59,normal
+GERMANY,(Unknown city),,,213.7.77.62,normal
+NETHERLANDS,(Unknown city),,,82.74.4.243,normal
+SWEDEN,(Unknown city),,,81.170.149.56,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,79.165.180.243,normal
+UNITED KINGDOM,(Unknown city),,,81.7.10.68,normal
+FRANCE,Paris,48.8,2.33333,91.121.28.64,normal
+UNITED STATES,(Unknown city),,,38.77.22.251,normal
+GERMANY,(Unknown city),,,80.132.241.94,normal
+UNITED KINGDOM,London,51.5,-0.1167,87.98.250.222,exit
+FRANCE,(Unknown city),,,212.47.239.161,normal
+GERMANY,Berlin,52.5,13.4167,78.42.158.183,normal
+UNITED STATES,(Unknown city),,,192.3.30.223,normal
+SWEDEN,Stockholm,59.2833,18.05,193.105.134.156,normal
+FRANCE,Paris,48.8,2.33333,195.154.82.88,normal
+UNITED KINGDOM,Glasgow,55.8333,-4.25,195.40.181.35,normal
+SWEDEN,(Unknown city),,,217.210.165.43,exit
+FRANCE,Roubaix,50.7,3.1667,37.59.125.29,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.59.2.208,normal
+SWEDEN,(Unknown city),,,85.229.217.235,normal
+UNITED STATES,(Unknown city),,,141.239.145.33,exit
+GERMANY,Dusseldorf,51.2,6.78333,134.99.112.168,normal
+HUNGARY,(Unknown city),,,195.228.45.176,exit
+FINLAND,Oulu,65.0167,25.4667,85.23.65.156,normal
+NETHERLANDS,(Unknown city),,,83.85.209.107,normal
+UNITED STATES,(Unknown city),,,192.81.132.46,normal
+LUXEMBOURG,(Unknown city),,,85.93.218.204,exit
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,70.112.163.65,normal
+GERMANY,(Unknown city),,,82.211.0.201,normal
+FRANCE,Paris,48.8,2.33333,212.83.154.33,normal
+GERMANY,Berlin,52.5,13.4167,78.41.115.145,exit
+SWITZERLAND,(Unknown city),,,82.220.38.177,normal
+GERMANY,Leipzig,51.3167,12.3333,84.162.16.237,normal
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,50.116.42.245,normal
+AUSTRIA,(Unknown city),,,80.110.35.22,normal
+UNITED STATES,(Unknown city),,,167.160.44.226,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.106.207 34523 9030,normal
+GERMANY,Berlin,52.5,13.4167,84.186.192.228,normal
+UNITED STATES,"Tempe, AZ",33.3884,-111.931,68.0.182.208,normal
+NETHERLANDS,(Unknown city),,,84.105.220.255,normal
+GERMANY,Nrnberg,49.45,11.0833,87.158.21.111,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.181.5.37,normal
+SWEDEN,(Unknown city),,,195.252.47.245,normal
+GERMANY,(Unknown city),,,217.197.91.145,normal
+ITALY,(Unknown city),,,212.51.156.145,normal
+UNITED STATES,"Cumming, GA",34.2088,-84.1351,69.164.221.65,normal
+AFGHANISTAN,Kbol,34.5167,69.1833,109.163.233.169,normal
+ISRAEL,(Unknown city),,,83.130.105.208,normal
+UNITED STATES,(Unknown city),,,149.154.159.172,normal
+POLAND,(Unknown city),,,83.238.63.29,normal
+FRANCE,Lyon,45.75,4.85,195.154.5.149,exit
+GERMANY,(Unknown city),,,213.136.86.116 9001 9030,normal
+FRANCE,Nantes,47.2167,-1.55,78.211.30.58,normal
+DENMARK,Copenhagen,55.6667,12.5667,89.239.218.180,normal
+UKRAINE,Ivanov,49.4833,28.35,193.203.49.46,normal
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,76.217.149.240,normal
+SWEDEN,(Unknown city),,,217.72.20.30,normal
+SWEDEN,(Unknown city),,,85.229.39.153,normal
+UNITED STATES,"Redmond, WA",47.6742,-122.115,71.227.175.19,normal
+FINLAND,(Unknown city),,,193.166.167.72,normal
+FINLAND,(Unknown city),,,193.166.167.70,normal
+GERMANY,(Unknown city),,,84.182.168.23,normal
+UNITED KINGDOM,(Unknown city),,,62.108.36.155,normal
+FRANCE,Paris,48.8,2.33333,94.23.20.28,normal
+GERMANY,(Unknown city),,,84.19.180.80,normal
+UNITED KINGDOM,(Unknown city),,,62.30.54.85,normal
+UNITED STATES,(Unknown city),,,66.111.2.16,normal
+NEW ZEALAND,(Unknown city),,,130.123.3.27,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.122.162,normal
+GERMANY,Oldenburg,53.1333,8.21667,95.33.165.21,normal
+GERMANY,(Unknown city),,,217.88.157.243,normal
+SWITZERLAND,(Unknown city),,,80.219.64.91,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,74.95.158.5,normal
+UNITED KINGDOM,Sheffield,53.3667,-1.5,82.71.20.171,normal
+SWITZERLAND,(Unknown city),,,62.113.250.39,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.203.197,normal
+GERMANY,Eschborn,50.1333,8.55,88.64.11.41,normal
+AUSTRALIA,Canberra,-35.2833,149.133,114.181.253.234,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.16.214,normal
+UNITED STATES,(Unknown city),,,69.245.82.62,normal
+GERMANY,Hamburg,53.55,10.0333,195.180.11.159,normal
+SWEDEN,Stockholm,59.2833,18.05,90.225.64.84,normal
+ROMANIA,(Unknown city),,,84.247.62.45,normal
+GERMANY,Hamburg,53.55,10.0333,92.226.187.239,normal
+GERMANY,Berlin,52.5,13.4167,78.47.84.98,normal
+UNITED STATES,(Unknown city),,,54.164.50.160,exit
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.8,normal
+GERMANY,Berlin,52.5,13.4167,85.214.63.239,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,204.124.83.134,exit
+SWITZERLAND,(Unknown city),,,62.220.148.87,normal
+UNITED KINGDOM,London,51.5,-0.1167,82.43.168.96,normal
+CANADA,"Montral, le de",45.5,-73.6667,68.67.35.3,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.52.54,normal
+EUROPEAN UNION,(Unknown city),,,194.150.168.108,normal
+ICELAND,(Unknown city),,,82.221.101.26,normal
+UNITED STATES,"St Louis, MO",38.6361,-90.2443,71.95.40.252,normal
+UNITED KINGDOM,(Unknown city),,,84.45.76.10 9001 0,normal
+GERMANY,(Unknown city),,,144.76.112.85,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.108.32.82,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.234.212.46,normal
+GERMANY,Dsseldorf,51.2167,6.7667,5.199.142.93,exit
+UNITED KINGDOM,(Unknown city),,,84.45.76.11 9001 0,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.148.230,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,192.43.244.42,exit
+UNITED STATES,"Pacifica, CA",37.6113,-122.476,67.161.31.214,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.56.140,exit
+NETHERLANDS,(Unknown city),,,80.90.43.165,normal
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,173.255.209.181,normal
+UNITED STATES,(Unknown city),,,54.66.160.26,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.59.43,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,216.17.99.130,exit
+UNITED STATES,(Unknown city),,,54.172.179.111,exit
+SWITZERLAND,(Unknown city),,,212.232.29.101,normal
+CANADA,"KINGSTON, NB",44.2333,-76.5,130.15.189.45,normal
+CZECH REPUBLIC,(Unknown city),,,82.208.5.222,normal
+UNITED STATES,(Unknown city),,,54.174.246.48,exit
+GERMANY,Berlin,52.5,13.4167,85.214.101.233,normal
+SWITZERLAND,Zrich,47.3667,8.55,217.162.207.234,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.203,exit
+FRANCE,(Unknown city),,,195.154.70.130,normal
+SWEDEN,Stockholm,59.2833,18.05,83.226.238.55,normal
+CANADA,"VANCOUVER, BC",49.2667,-123.117,64.69.82.160,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.164.81,normal
+FRANCE,(Unknown city),,,62.210.170.143,normal
+ITALY,(Unknown city),,,213.167.193.36,normal
+UNITED STATES,(Unknown city),,,209.239.123.89,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,71.219.188.188,normal
+GERMANY,Berlin,52.5,13.4167,85.214.52.156,normal
+GERMANY,Karlsruhe,49.05,8.4,93.130.210.246,normal
+UKRAINE,Kharkiv,50,36.25,5.34.183.206,normal
+GERMANY,Neuermark,52.65,11.0333,5.9.140.195,normal
+CROATIA,Osijek,45.5511,18.6939,161.53.160.104,normal
+NETHERLANDS,(Unknown city),,,82.72.5.164,normal
+UNITED STATES,(Unknown city),,,64.128.30.232,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,217.197.4.220,normal
+UNITED STATES,(Unknown city),,,24.63.164.156,normal
+AUSTRIA,Wien,48.2,16.3667,213.47.75.67,normal
+UNITED KINGDOM,(Unknown city),,,81.7.11.70 443 0,normal
+GERMANY,Nrnberg,49.45,11.0833,78.46.21.40,exit
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.102.215.98,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.45.147,normal
+FRANCE,Lyon,45.75,4.85,84.151.232.223,normal
+SWEDEN,(Unknown city),,,81.170.217.107,normal
+GERMANY,(Unknown city),,,136.243.7.175,normal
+GERMANY,(Unknown city),,,213.187.84.190,normal
+FRANCE,Lyon,45.75,4.85,62.210.189.34,normal
+UNITED STATES,(Unknown city),,,66.172.33.31,normal
+GERMANY,(Unknown city),,,144.76.110.103,normal
+GERMANY,(Unknown city),,,84.186.107.185,normal
+GERMANY,(Unknown city),,,84.200.8.33,normal
+GERMANY,Berlin,52.5,13.4167,188.138.9.49,exit
+UNITED STATES,"San Jose, CA",37.304,-121.85,208.65.181.189,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.220.173.107,normal
+HUNGARY,Budapest,47.5,19.0833,178.238.223.67,exit
+SWEDEN,Norrkping,58.6,16.1833,83.168.200.204,normal
+SWITZERLAND,(Unknown city),,,194.96.74.131,normal
+UNITED STATES,"Houston, TX",29.7687,-95.3867,70.85.31.242,normal
+UNITED STATES,(Unknown city),,,209.159.138.19,exit
+FRANCE,(Unknown city),,,81.57.133.42,exit
+AFGHANISTAN,Candahar,31.6167,65.7167,111.118.177.101,normal
+GERMANY,Berlin,52.5,13.4167,78.31.164.41,exit
+SWITZERLAND,(Unknown city),,,195.210.29.237,normal
+GERMANY,Freiburg,50.9167,16.25,132.230.150.81,normal
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.96.125.54,normal
+ITALY,Bari,41.1333,16.85,85.31.186.211,normal
+EUROPEAN UNION,(Unknown city),,,159.149.141.24,normal
+GERMANY,Berlin,52.5,13.4167,78.69.86.153,normal
+UNITED KINGDOM,(Unknown city),,,217.173.74.91,exit
+UNITED KINGDOM,(Unknown city),,,82.23.159.249,normal
+GERMANY,(Unknown city),,,212.83.47.91,normal
+GERMANY,(Unknown city),,,84.139.248.228,normal
+UNITED STATES,"Princeton, NJ",40.3503,-74.6594,207.38.134.19,normal
+NORWAY,(Unknown city),,,194.187.207.45,normal
+UNITED STATES,(Unknown city),,,54.68.25.14,normal
+FRANCE,(Unknown city),,,81.28.197.133,normal
+HUNGARY,Budapest,47.5,19.0833,89.134.150.128,normal
+GERMANY,Nrnberg,49.45,11.0833,91.19.171.88,normal
+SPAIN,(Unknown city),,,84.125.115.234,normal
+NETHERLANDS,(Unknown city),,,82.72.118.90,normal
+GERMANY,Berlin,52.5,13.4167,141.20.33.68,normal
+GERMANY,Karlsruhe,49.05,8.4,93.129.90.244,normal
+UNITED STATES,"Corpus Christi, TX",27.7057,-97.2928,24.170.42.174,normal
+JAPAN,Tokyo,35.6667,139.75,106.186.123.148,exit
+GERMANY,Schwabach,49.3333,11.0333,212.114.250.18,normal
+GERMANY,(Unknown city),,,80.147.37.247,normal
+FRANCE,(Unknown city),,,82.238.208.173,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.35.172.123,normal
+GERMANY,Schwandorf,49.3333,12.1167,81.169.175.164,normal
+SWEDEN,(Unknown city),,,81.170.217.29,exit
+UNITED STATES,"Chicago, IL",41.8371,-87.685,184.155.187.205,normal
+UNITED STATES,(Unknown city),,,158.85.84.116,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.152.159 10050 10051,normal
+UNITED STATES,(Unknown city),,,66.117.9.10,normal
+POLAND,(Unknown city),,,213.149.1.171,normal
+UNITED KINGDOM,"Cambridge, Cambridgeshire",52.208,0.122374,128.232.18.57,normal
+GERMANY,Berlin,52.5,13.4167,78.47.145.153,normal
+FRANCE,(Unknown city),,,212.47.228.69,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.218.20,normal
+GERMANY,Nrnberg,49.45,11.0833,87.147.25.74,normal
+UNITED KINGDOM,Milton Keynes,52.0333,-0.7,109.169.23.202,exit
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.21.252.80,exit
+UNITED STATES,"Newark, NJ",40.7241,-74.1732,97.107.142.218,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,96.44.189.101,exit
+NETHERLANDS,Hilversum,52.2333,5.18333,188.142.112.246 9001 9030,normal
+FRANCE,(Unknown city),,,217.70.189.145,normal
+UNITED KINGDOM,London,51.5,-0.1167,213.229.73.4,normal
+UNITED STATES,(Unknown city),,,14.96.182.196,normal
+UNITED KINGDOM,London,51.5,-0.1167,94.11.53.149,normal
+GERMANY,(Unknown city),,,212.185.216.68,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.95.149,normal
+GERMANY,Berlin,52.5,13.4167,78.94.249.4,normal
+NETHERLANDS,(Unknown city),,,81.4.107.36,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.249.248,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,98.218.55.47,normal
+UNITED STATES,"Chapel Hill, NC",35.9276,-79.0406,76.182.99.72,normal
+UNITED STATES,(Unknown city),,,54.173.3.204,exit
+DENMARK,Kongens Lyngby,55.7667,12.5167,82.211.201.188,exit
+GERMANY,Berlin,52.5,13.4167,85.214.146.221,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.53.102.240,normal
+GERMANY,Nrnberg,49.45,11.0833,87.158.230.19,normal
+NETHERLANDS,(Unknown city),,,80.100.45.156,normal
+NETHERLANDS,(Unknown city),,,80.101.115.170 5061 80,normal
+UNITED STATES,"Longview, TX",32.5177,-94.7623,66.228.59.24,normal
+FRANCE,(Unknown city),,,195.154.9.55,exit
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,74.208.78.130,normal
+GERMANY,Hannover,52.4,9.73333,83.246.83.23,exit
+GERMANY,Berlin,52.5,13.4167,78.108.63.46,exit
+NETHERLANDS,(Unknown city),,,82.94.251.203,normal
+GERMANY,Kln,50.9333,6.95,88.153.24.58,normal
+UNITED STATES,(Unknown city),,,68.3.70.226,normal
+FRANCE,(Unknown city),,,195.154.105.179,normal
+GERMANY,(Unknown city),,,144.76.91.135,normal
+UNITED STATES,(Unknown city),,,54.175.2.134,exit
+AUSTRIA,(Unknown city),,,81.10.159.18,normal
+FRANCE,La Dfense,48.9,2.2333,77.207.111.206,normal
+UNITED KINGDOM,(Unknown city),,,82.9.238.246,normal
+UNITED STATES,(Unknown city),,,54.191.128.228,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.218.147,normal
+GERMANY,Neuermark,52.65,11.0333,176.9.148.37,normal
+GERMANY,Augsburg,48.3833,10.8833,188.138.113.102,normal
+GERMANY,Berlin,52.5,13.4167,78.47.229.107,exit
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.82.3.136,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.165.106.174,normal
+SPAIN,(Unknown city),,,82.213.146.67,normal
+GERMANY,(Unknown city),,,62.75.168.144,exit
+UNITED KINGDOM,(Unknown city),,,80.85.84.240,normal
+GERMANY,(Unknown city),,,212.21.66.6,exit
+UNITED STATES,(Unknown city),,,192.3.172.236,exit
+UNITED STATES,(Unknown city),,,35.0.127.52,exit
+FRANCE,Paris,48.8,2.33333,91.121.113.70,normal
+NETHERLANDS,(Unknown city),,,217.148.84.180,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.7.158,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.125.1.222,exit
+GERMANY,Berlin,52.5,13.4167,78.90.15.229,normal
+GERMANY,Cologne,50.9333,6.95,89.0.46.2,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.39,normal
+GERMANY,Berlin,52.5,13.4167,85.214.226.15,normal
+FRANCE,(Unknown city),,,82.248.159.166,exit
+SLOVAKIA,Kolrovo,47.9167,18,217.145.199.53,normal
+UNITED STATES,"Newark, NJ",40.7241,-74.1732,97.107.142.197,normal
+NETHERLANDS,(Unknown city),,,83.82.244.219,normal
+UNITED STATES,(Unknown city),,,8.225.191.186,normal
+RUSSIAN FEDERATION,(Unknown city),,,62.76.44.149,normal
+UNITED KINGDOM,(Unknown city),,,212.224.84.227,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.9.117.77,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.254.191,normal
+FRANCE,(Unknown city),,,62.210.82.169,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.150.91.20,normal
+ITALY,Roma,41.9,12.4833,94.23.70.222,normal
+GERMANY,Erfurt,50.9667,11.0167,84.19.178.101,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.206.107,normal
+FRANCE,Rennes,48.0833,-1.68333,95.130.9.89,exit
+UNITED STATES,(Unknown city),,,24.193.207.27,normal
+UNITED STATES,(Unknown city),,,216.230.230.247,normal
+GERMANY,(Unknown city),,,84.200.82.163,exit
+UNITED STATES,"Blue Springs, MO",39.022,-94.2737,69.243.242.33,normal
+NETHERLANDS,(Unknown city),,,84.245.32.195,normal
+GERMANY,Darmstadt,49.8706,8.6494,93.228.74.180,normal
+SWITZERLAND,Zrich,47.3667,8.55,84.226.109.109,normal
+UNITED STATES,"Orem, UT",40.2982,-111.698,24.10.235.62,normal
+UNITED KINGDOM,Bolton,53.5833,-2.4333,86.174.40.220,normal
+UNITED STATES,"Englewood, CO",39.6474,-104.994,165.254.255.16 443 80,exit
+FRANCE,(Unknown city),,,195.154.128.151,normal
+SWITZERLAND,(Unknown city),,,80.240.128.150,normal
+GERMANY,Eschborn,50.1333,8.55,88.77.36.175,normal
+FRANCE,Brest,48.4,-4.4833,212.47.235.154,normal
+UNITED STATES,(Unknown city),,,209.126.72.84,normal
+GERMANY,Berlin,52.5,13.4167,78.131.69.140,normal
+FRANCE,Boulogne-sur-Mer,50.7167,1.6167,178.32.223.31,normal
+UNITED STATES,"Providence, RI",41.8219,-71.4197,192.91.235.230,normal
+FRANCE,Paris,48.8,2.33333,88.162.87.166,normal
+GERMANY,(Unknown city),,,84.61.83.252,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.247.129.246,normal
+NETHERLANDS,(Unknown city),,,77.247.181.163 443 80,exit
+UNITED STATES,(Unknown city),,,24.27.19.180,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.182.108.119,normal
+GERMANY,(Unknown city),,,85.88.28.11,normal
+UNITED STATES,(Unknown city),,,209.6.53.7,normal
+UNITED STATES,(Unknown city),,,66.228.43.109,normal
+UNITED STATES,(Unknown city),,,54.77.46.118,exit
+UNITED STATES,"Indianapolis, IN",39.73,-86.27,50.90.2.70,normal
+CZECH REPUBLIC,(Unknown city),,,62.77.85.74,normal
+FINLAND,(Unknown city),,,193.166.167.84,normal
+NETHERLANDS,(Unknown city),,,82.161.212.209,normal
+IRELAND,(Unknown city),,,84.215.154.165,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.194.89,normal
+JAPAN,(Unknown city),,,157.7.87.184,normal
+HUNGARY,(Unknown city),,,80.99.0.21,normal
+GERMANY,(Unknown city),,,144.76.157.156,normal
+GERMANY,Berlin,52.5,13.4167,193.104.220.54,normal
+CANADA,(Unknown city),,,68.149.40.183,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,74.95.187.105,normal
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.98.32.233,normal
+GERMANY,Berlin,52.5,13.4167,78.52.62.160,normal
+SPAIN,(Unknown city),,,82.223.11.183,normal
+CANADA,(Unknown city),,,142.4.32.196,normal
+UNITED STATES,(Unknown city),,,54.69.198.79,normal
+NETHERLANDS,(Unknown city),,,82.173.59.64,normal
+FRANCE,(Unknown city),,,82.243.79.9,normal
+INDIA,Dvangere,14.4667,75.9167,117.204.5.226,normal
+UNITED KINGDOM,London,51.5,-0.1167,80.189.48.138,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.250.86.4,normal
+UNITED KINGDOM,Dundee,56.4667,-3,149.255.102.12,exit
+GERMANY,Karlsruhe,49.05,8.4,213.165.85.249,normal
+FRANCE,(Unknown city),,,195.154.127.246,normal
+NETHERLANDS,(Unknown city),,,84.84.208.47,normal
+UNITED STATES,"Bowie, MD",38.9595,-76.7377,68.52.175.190,normal
+UNITED STATES,"Princeton University, NJ",40.3522,-74.6571,140.180.190.191,normal
+SWITZERLAND,(Unknown city),,,84.72.185.5,normal
+NEW ZEALAND,(Unknown city),,,203.109.233.15,normal
+UNITED STATES,(Unknown city),,,66.248.204.71,normal
+FINLAND,(Unknown city),,,193.166.167.86,normal
+ROMANIA,Bucharest,44.4167,26.1167,86.121.87.154,exit
+RUSSIAN FEDERATION,Moscow,55.75,37.6,86.62.117.171,normal
+FINLAND,(Unknown city),,,212.149.209.91,normal
+GERMANY,Mannheim,49.4833,8.48333,89.15.183.243,normal
+NETHERLANDS,(Unknown city),,,83.83.82.180,normal
+GERMANY,Stuttgart,48.7667,9.18333,217.8.51.173,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,91.122.100.13,normal
+UNITED STATES,"Stanford, CA",37.424,-122.165,128.12.226.82,normal
+RUSSIAN FEDERATION,Tula,54.2044,37.6111,94.28.249.109,normal
+UNITED STATES,(Unknown city),,,138.229.169.252,normal
+GERMANY,Munich,48.1333,11.5833,193.37.152.199,normal
+GERMANY,Neuermark,52.65,11.0333,176.9.25.72,exit
+UNITED STATES,(Unknown city),,,68.69.165.162,normal
+SLOVENIA,Ljubljana,46.0558,14.5083,212.103.144.58,normal
+RUSSIAN FEDERATION,Saratov,51.5667,46.0333,5.167.150.247,normal
+FRANCE,(Unknown city),,,80.255.11.237,normal
+GERMANY,(Unknown city),,,212.185.216.68,normal
+UNITED KINGDOM,(Unknown city),,,81.174.231.18,normal
+ITALY,Bari,41.1333,16.85,85.31.186.93,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,67.18.92.141,normal
+UNITED KINGDOM,London,51.5,-0.1167,212.159.143.83,exit
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,76.217.13.148,normal
+UNITED KINGDOM,London,51.5,-0.1167,86.135.186.21,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.222.215,normal
+GERMANY,Nrnberg,49.45,11.0833,91.7.224.210,normal
+UNITED KINGDOM,(Unknown city),,,81.187.210.13,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,77.109.141.139,exit
+UNITED STATES,"Huntsville, AL",34.707,-86.6277,71.207.178.159,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,176.9.38.69,normal
+UNITED STATES,(Unknown city),,,160.129.26.248,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,71.104.52.147,normal
+FRANCE,(Unknown city),,,62.210.206.53,normal
+UNITED STATES,"West Jordan, UT",40.5999,-111.995,166.70.94.106,normal
+FRANCE,(Unknown city),,,195.154.194.211,normal
+SWITZERLAND,(Unknown city),,,83.76.158.62,normal
+MALAYSIA,(Unknown city),,,210.195.63.143,normal
+GERMANY,Berlin,52.5,13.4167,85.214.129.189,normal
+SPAIN,(Unknown city),,,83.44.223.40,normal
+FINLAND,(Unknown city),,,84.250.106.13,normal
+GERMANY,Koeln,50.9333,6.98333,87.230.25.109,normal
+GERMANY,(Unknown city),,,82.116.120.3,exit
+GERMANY,Neuermark,52.65,11.0333,5.9.37.75,normal
+FRANCE,Paris,48.8,2.33333,91.121.115.79,normal
+AUSTRALIA,(Unknown city),,,211.31.214.11,normal
+GERMANY,(Unknown city),,,62.143.121.104,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,95.84.144.73,exit
+FRANCE,Lyon,45.75,4.85,195.154.106.50,exit
+FRANCE,Boulogne Billancourt,48.8333,2.25,77.194.156.141,normal
+NETHERLANDS,(Unknown city),,,212.187.11.180,normal
+NETHERLANDS,(Unknown city),,,82.161.91.13,normal
+DENMARK,Copenhagen,55.6667,12.5667,87.72.85.217,normal
+UNITED STATES,"Fallon, NV",39.4758,-118.778,24.205.210.126,normal
+GERMANY,(Unknown city),,,144.76.29.208,normal
+UNITED STATES,(Unknown city),,,167.114.68.8,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.213.152,exit
+SWEDEN,Trollhattan,58.3167,12.35,81.224.59.76,normal
+RUSSIAN FEDERATION,(Unknown city),,,217.16.181.20,normal
+UNITED STATES,(Unknown city),,,166.84.7.55,normal
+GERMANY,Berlin,52.5,13.4167,78.46.148.58 143 110,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,204.124.83.134,exit
+POLAND,Warsaw,52.2333,21,95.160.16.86,normal
+FRANCE,(Unknown city),,,85.69.112.29,normal
+NETHERLANDS,(Unknown city),,,81.71.202.154,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.10.60.13,normal
+CYPRUS,(Unknown city),,,213.138.100.214,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,94.113.230.221,normal
+SWITZERLAND,Zurich,47.35,8.51667,77.57.109.167,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.143.180.50,normal
+ISRAEL,(Unknown city),,,81.218.109.195,normal
+GERMANY,Berlin,52.5,13.4167,78.47.165.89,normal
+UNITED STATES,(Unknown city),,,167.88.40.63,normal
+FRANCE,Paris,48.8,2.33333,94.23.20.190,normal
+UNITED STATES,"Salt Lake City, UT",40.7773,-111.93,67.161.244.193,normal
+UNITED STATES,(Unknown city),,,54.154.9.3,exit
+UNITED STATES,"Cartersville, GA",34.1674,-84.8014,69.164.209.151,exit
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.17.8,exit
+UNITED STATES,(Unknown city),,,54.77.254.23,exit
+FRANCE,(Unknown city),,,62.210.85.83,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,128.31.0.39,normal
+GERMANY,Berlin,52.5,13.4167,78.47.224.219,normal
+FRANCE,Paris,48.8,2.33333,94.23.204.175,normal
+GERMANY,(Unknown city),,,144.76.156.101,normal
+SWEDEN,(Unknown city),,,85.227.184.91,normal
+UNITED STATES,(Unknown city),,,8.31.166.11,normal
+FRANCE,(Unknown city),,,212.129.52.49,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.48.91,normal
+GERMANY,Berlin,52.5,13.4167,78.46.221.125,normal
+SWITZERLAND,(Unknown city),,,62.113.223.154,normal
+NETHERLANDS,Enschede,52.2167,6.9,46.249.37.143,normal
+ROMANIA,Bucharest,44.4167,26.1167,109.163.234.9,exit
+UNITED STATES,"Bloomington, IN",39.1665,-86.5215,156.56.250.227,normal
+GERMANY,Berlin,52.5,13.4167,78.53.236.21,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.82.3.205,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,173.255.210.205,exit
+FINLAND,(Unknown city),,,193.166.167.83,normal
+FRANCE,Paris,48.8,2.33333,195.154.79.94,exit
+GERMANY,Berlin,52.5,13.4167,85.214.16.212,normal
+GERMANY,Karlsruhe,49.05,8.4,81.169.159.82,exit
+GERMANY,Berlin,52.5,13.4167,78.46.85.67,normal
+UNITED STATES,"Orlando, FL",28.5047,-81.3742,72.239.136.94,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.110,normal
+UNITED STATES,(Unknown city),,,192.3.24.229,exit
+UNITED STATES,"New York, NY",40.6698,-73.9438,128.59.18.164,normal
+AUSTRIA,(Unknown city),,,213.47.35.151,normal
+UNITED KINGDOM,London,51.5,-0.1167,86.159.48.243,normal
+NETHERLANDS,Vianen,51.6167,4,83.83.123.226,normal
+GERMANY,Cologne,50.9333,6.95,78.34.165.33,normal
+UNITED STATES,"Chicago, IL",41.8371,-87.685,24.251.196.43,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.31.40.5,normal
+NETHERLANDS,Heino,52.4333,6.2333,217.123.236.30,exit
+COTE D'IVOIRE,Gagnoa,6.1333,-5.9333,81.89.96.89 443 80,exit
+GERMANY,(Unknown city),,,84.175.245.211,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,71.79.150.145,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,128.117.43.97,normal
+SWEDEN,Gteborg,57.7167,11.9667,83.248.40.153,normal
+GERMANY,Berlin,52.5,13.4167,78.47.191.221,normal
+NETHERLANDS,Deventer,52.25,6.2,217.19.24.233,normal
+AUSTRALIA,Everton,-31.75,148.6,202.60.66.32,normal
+UNITED KINGDOM,London,51.5,-0.1167,84.92.24.213,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.122.120,normal
+FRANCE,Nice,43.7,7.25,62.210.69.121,exit
+GERMANY,(Unknown city),,,213.21.73.38,normal
+FRANCE,(Unknown city),,,62.210.84.20,normal
+UNITED KINGDOM,(Unknown city),,,62.108.37.48,exit
+NETHERLANDS,Almelo,52.35,6.6667,217.120.173.207,normal
+UNITED STATES,(Unknown city),,,24.107.218.103,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.248.221,normal
+SWEDEN,Stockholm,59.2833,18.05,31.220.7.143,normal
+GERMANY,Berlin,52.5,13.4167,78.142.142.246,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.37.103,normal
+FRANCE,(Unknown city),,,195.154.123.222,normal
+UNITED STATES,(Unknown city),,,24.21.234.206,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.37.200,normal
+UNITED KINGDOM,(Unknown city),,,80.85.84.240,normal
+GERMANY,(Unknown city),,,212.114.47.52,exit
+GERMANY,Dsseldorf,51.2167,6.7667,5.199.142.230,normal
+GERMANY,Berlin,52.5,13.4167,79.205.232.160,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,82.217.17.144,normal
+UNITED STATES,"Stanford, CA",37.424,-122.165,128.12.226.56,normal
+UNITED STATES,(Unknown city),,,209.105.231.171,exit
+UNITED STATES,"Frisco, TX",33.1445,-96.813,71.56.182.43,normal
+AUSTRALIA,(Unknown city),,,220.233.104.139,exit
+UNITED STATES,"Houston, TX",29.7687,-95.3867,207.201.223.197,exit
+GERMANY,Berlin,52.5,13.4167,37.123.112.14,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.26.13,normal
+LATVIA,(Unknown city),,,95.215.44.187 8080 0,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,69.164.202.65,normal
+GERMANY,Karlsruhe,49.05,8.4,217.79.178.60,normal
+NORWAY,Stavanger,58.9667,5.75,158.37.61.72,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.198,exit
+UNITED STATES,(Unknown city),,,54.77.9.135,exit
+GERMANY,Hamburg,53.55,10.0333,195.180.11.196,exit
+NORWAY,(Unknown city),,,193.90.12.90,exit
+SWITZERLAND,Zurich,47.35,8.51667,77.58.3.62,normal
+POLAND,(Unknown city),,,188.165.123.244,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.133.7,normal
+FRANCE,Nantes,47.2167,-1.55,78.239.117.86,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.227.28,normal
+FRANCE,(Unknown city),,,193.107.85.62,exit
+UNITED STATES,"Stanford, CA",37.424,-122.165,128.12.177.59,normal
+UNITED STATES,(Unknown city),,,24.181.175.102,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,128.31.0.34,normal
+GERMANY,Berlin,52.5,13.4167,78.52.104.73,normal
+SWEDEN,(Unknown city),,,82.196.170.237,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.33,normal
+LATVIA,(Unknown city),,,95.215.44.232,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.203.23,normal
+UNITED KINGDOM,(Unknown city),,,81.7.10.29 9443 9080,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.241.83,normal
+UNITED STATES,(Unknown city),,,54.171.94.249,exit
+GERMANY,(Unknown city),,,144.76.110.103,normal
+UNITED STATES,"College Park, MD",38.9961,-76.9348,128.8.126.92,normal
+UNITED KINGDOM,(Unknown city),,,82.136.34.66,exit
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.251.112,exit
+"IRAN, ISLAMIC REPUBLIC OF",(Unknown city),,,62.217.124.253,normal
+FINLAND,(Unknown city),,,193.166.167.80,normal
+UNITED KINGDOM,London,51.5,-0.1167,87.98.250.244,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,84.249.115.27,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,82.161.223.137,exit
+UNITED KINGDOM,Lincoln,53.2333,-0.5333,86.13.166.47,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,185.45.192.196,exit
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,74.207.231.186,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,107.6.4.145,normal
+UNITED STATES,(Unknown city),,,209.126.100.238,exit
+UNITED STATES,(Unknown city),,,68.113.148.58,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.52,normal
+FINLAND,(Unknown city),,,193.166.167.88,normal
+FRANCE,Lyon,45.75,4.85,195.154.5.123,normal
+AUSTRALIA,Canberra,-35.2833,149.133,114.134.7.58,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.225.21,normal
+SWEDEN,Linkping,58.4167,15.6167,5.79.86.168,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.193.129,normal
+NETHERLANDS,(Unknown city),,,85.150.30.142,exit
+GERMANY,Montabaur,50.4333,7.8333,217.160.18.45,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.251.153.8,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.73.210.118,normal
+NORWAY,(Unknown city),,,213.167.104.143,normal
+UNITED STATES,"Orlando, FL",28.5047,-81.3742,72.239.226.113,normal
+ISRAEL,Jerusalem,31.7667,35.2333,81.218.235.162,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.108.162.193,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.231.235,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.204.132,normal
+GERMANY,(Unknown city),,,144.76.182.202,normal
+RUSSIAN FEDERATION,(Unknown city),,,195.91.213.130,normal
+SWEDEN,(Unknown city),,,213.64.226.230,normal
+GERMANY,(Unknown city),,,84.189.1.89,normal
+BELGIUM,(Unknown city),,,92.63.110.124,normal
+FRANCE,(Unknown city),,,82.237.229.42,normal
+LUXEMBOURG,(Unknown city),,,85.93.194.45,normal
+NORWAY,(Unknown city),,,193.90.12.89,exit
+NORWAY,Trondheim,63.4167,10.4167,84.48.58.195,exit
+CANADA,"OTTAWA, ON",45.4167,-75.7,199.167.128.136,exit
+NETHERLANDS,(Unknown city),,,81.4.121.222,normal
+HUNGARY,Budapest,47.5,19.0833,89.135.144.86,normal
+DENMARK,Horsens,55.8667,9.86667,212.10.89.190,normal
+GERMANY,Berlin,52.5,13.4167,78.46.123.172 9876 9030,normal
+GERMANY,Berlin,52.5,13.4167,85.214.80.249,normal
+UNITED STATES,(Unknown city),,,69.172.146.151,normal
+ROMANIA,Cluj,46.7833,23.6,89.137.172.173,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.46.143,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.243.66,normal
+ARGENTINA,Buenos Aires,-34.5833,-58.3667,190.189.118.8,normal
+JAPAN,(Unknown city),,,198.180.150.9,normal
+UNITED STATES,(Unknown city),,,129.63.159.101,normal
+UNITED STATES,"San Francisco, CA",37.7749,-122.419,199.188.194.53,normal
+SWEDEN,(Unknown city),,,193.138.216.101,exit
+JAPAN,Tokyo,35.6667,139.75,106.187.38.198,normal
+FINLAND,Lahti,60.5333,24.5167,83.145.243.215,normal
+GERMANY,(Unknown city),,,91.206.142.70,exit
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,208.84.155.243,exit
+"MOLDOVA, REPUBLIC OF",(Unknown city),,,212.56.214.152,normal
+FRANCE,Paris,48.8,2.33333,95.128.43.164,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.24.95,exit
+CANADA,(Unknown city),,,47.55.110.188,normal
+SWEDEN,(Unknown city),,,212.85.79.68,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.239.0.140,exit
+FRANCE,(Unknown city),,,80.255.11.224,normal
+UNITED STATES,"Walnut, CA",34.029,-117.857,23.238.230.54,normal
+ISRAEL,Tel Aviv,32.0667,34.7667,62.219.182.42,normal
+NORWAY,(Unknown city),,,193.90.12.86,exit
+UNITED STATES,(Unknown city),,,206.190.142.40 9001 9030,exit
+GERMANY,Koeln,50.9333,6.98333,87.230.51.95,normal
+GERMANY,Cologne,50.9333,6.95,89.0.232.83,normal
+UNITED STATES,(Unknown city),,,24.21.63.194,normal
+GERMANY,Hannover,52.4,9.73333,82.83.55.87,normal
+UKRAINE,Kiyiv,50.4333,30.5167,62.149.13.57,exit
+PANAMA,PANAMA CITY,8.9667,-79.5333,81.17.21.246,normal
+UKRAINE,(Unknown city),,,91.213.8.43,exit
+GREECE,(Unknown city),,,83.212.105.144,normal
+GERMANY,Stuttgart,48.7667,9.18333,94.222.200.56,normal
+SOUTH AFRICA,Cape Town,-33.9167,18.3667,105.236.197.219,normal
+UNITED KINGDOM,(Unknown city),,,82.69.14.207,normal
+GERMANY,Hamburg,53.55,10.0333,84.144.71.115,normal
+GERMANY,Munich,48.1333,11.5833,91.194.90.39,normal
+UNITED STATES,(Unknown city),,,24.17.19.29,exit
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,208.101.22.26,normal
+UNITED KINGDOM,London,51.5,-0.1167,86.159.48.243,normal
+NETHERLANDS,(Unknown city),,,82.94.251.204 443 80,normal
+"MOLDOVA, REPUBLIC OF",Bli,47.7594,27.9272,46.55.20.109,normal
+NORWAY,(Unknown city),,,213.167.104.142,normal
+UNITED KINGDOM,(Unknown city),,,62.108.36.178,normal
+GERMANY,Koeln,50.9333,6.98333,87.230.25.172,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,74.208.69.194,normal
+DENMARK,Copenhagen,55.6667,12.5667,87.72.85.217,normal
+FRANCE,(Unknown city),,,195.154.109.44,normal
+GERMANY,Nrnberg,49.45,11.0833,87.174.114.221,normal
+UKRAINE,(Unknown city),,,91.213.8.235,exit
+CANADA,"WATERLOO, ON",43.4667,-80.5167,24.157.176.131,normal
+UNITED STATES,(Unknown city),,,128.177.170.90,normal
+"KOREA, REPUBLIC OF",Seoul,37.55,126.967,218.232.104.220,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.183.144.247,normal
+LATVIA,(Unknown city),,,95.215.44.142,normal
+GERMANY,(Unknown city),,,144.76.37.242,normal
+GERMANY,Karlsruhe,49.05,8.4,81.169.149.124,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.98.159,normal
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.139,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.0.36.100,normal
+UNITED STATES,"Marietta, GA",33.951,-84.5411,24.99.57.248,normal
+NETHERLANDS,(Unknown city),,,77.247.181.165,exit
+UNITED STATES,"New York, NY",40.6698,-73.9438,76.74.170.223,exit
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.225.140,normal
+FINLAND,(Unknown city),,,193.166.167.77,normal
+GERMANY,Berlin,52.5,13.4167,78.46.225.133,normal
+FRANCE,Roubaix,50.7,3.1667,87.98.159.231,exit
+EUROPEAN UNION,(Unknown city),,,193.111.137.178,exit
+GERMANY,(Unknown city),,,84.60.104.102,normal
+UNITED STATES,(Unknown city),,,54.173.91.8,exit
+GERMANY,(Unknown city),,,217.79.181.50,normal
+CZECH REPUBLIC,(Unknown city),,,84.242.120.30,normal
+HONG KONG,(Unknown city),,,210.6.46.37,normal
+BULGARIA,Varna,43.2167,27.9167,78.83.19.94,normal
+UNITED STATES,(Unknown city),,,68.50.59.251,exit
+BRAZIL,(Unknown city),,,200.101.87.225,normal
+FINLAND,(Unknown city),,,212.16.104.33,exit
+ROMANIA,Bucharest,44.4167,26.1167,86.120.112.238,exit
+FINLAND,(Unknown city),,,217.119.41.213,normal
+GERMANY,Berlin,52.5,13.4167,78.51.8.22,normal
+UNITED KINGDOM,(Unknown city),,,217.40.254.177,exit
+GERMANY,Berlin,52.5,13.4167,78.94.28.38,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.47.190,normal
+NETHERLANDS,(Unknown city),,,82.217.144.162,normal
+SWEDEN,(Unknown city),,,83.254.84.48,normal
+FRANCE,(Unknown city),,,195.154.226.5,normal
+GERMANY,Cologne,50.9333,6.95,89.0.248.237,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.42,normal
+HUNGARY,Budapest,47.5,19.0833,94.199.51.101,exit
+FINLAND,(Unknown city),,,193.166.167.94,normal
+GERMANY,(Unknown city),,,134.91.78.143,normal
+UNITED STATES,"San Antonio, TX",29.4576,-98.5054,174.143.243.247,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,93.81.238.250,normal
+UNITED KINGDOM,(Unknown city),,,213.175.216.59,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.85.91,normal
+FRANCE,(Unknown city),,,193.107.85.61,exit
+UNITED STATES,"Louisville, KY",38.2248,-85.7412,74.138.162.58,normal
+NETHERLANDS,Zwolle,52.0333,6.65,83.247.78.90,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.35.254,normal
+UKRAINE,(Unknown city),,,195.242.80.13,normal
+GERMANY,Berlin,52.5,13.4167,78.47.93.12,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.69.248.99,normal
+UNITED KINGDOM,(Unknown city),,,94.229.74.162,normal
+GERMANY,(Unknown city),,,217.197.91.145,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,209.6.68.29,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.35.149,normal
+CANADA,Montreal,45.5167,-73.5667,70.38.31.121,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.86.43,normal
+UNITED STATES,"Apex, NC",35.7258,-78.845,192.153.154.244,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,93.174.93.21,normal
+ITALY,(Unknown city),,,62.152.146.144,normal
+SWEDEN,(Unknown city),,,193.234.224.161,normal
+NEW ZEALAND,Auckland,-36.8667,174.75,121.98.128.157,normal
+FRANCE,(Unknown city),,,82.240.191.240,normal
+GERMANY,(Unknown city),,,62.143.227.6,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,68.8.89.189,normal
+NETHERLANDS,(Unknown city),,,94.23.105.27,normal
+UNITED STATES,(Unknown city),,,144.172.139.12,normal
+FRANCE,Rennes,48.0833,-1.68333,92.139.147.187,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.185.186,exit
+FRANCE,(Unknown city),,,195.154.81.110,normal
+CZECH REPUBLIC,(Unknown city),,,193.165.189.6,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.190.104.231,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,72.14.179.163,normal
+ISRAEL,(Unknown city),,,85.64.222.63,normal
+GERMANY,Erfurt,50.9667,11.0167,87.118.93.122,normal
+NETHERLANDS,(Unknown city),,,83.162.2.111,normal
+UNITED STATES,"Minneapolis, MN",44.9618,-93.2668,173.8.102.76,normal
+UNITED STATES,(Unknown city),,,54.174.237.24,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.103.147,exit
+CANADA,Montreal,45.5167,-73.5667,198.27.127.47,normal
+UNITED STATES,(Unknown city),,,128.127.40.96,normal
+ITALY,Rome,41.9,12.45,79.33.68.136,normal
+LITHUANIA,(Unknown city),,,193.219.36.207,normal
+BELGIUM,Antwerpen,51.2167,4.4167,81.83.58.4,normal
+UNITED KINGDOM,(Unknown city),,,213.108.105.71,exit
+UNITED STATES,(Unknown city),,,192.3.157.212,normal
+GERMANY,Berlin,52.5,13.4167,91.65.104.239,normal
+UNITED STATES,(Unknown city),,,192.3.28.242,normal
+BRAZIL,(Unknown city),,,200.101.95.124,exit
+UNITED STATES,"Gainesville, FL",29.6742,-82.3363,68.101.60.221,normal
+FRANCE,(Unknown city),,,195.154.123.82,normal
+UKRAINE,(Unknown city),,,217.12.203.46,normal
+AUSTRIA,(Unknown city),,,81.217.160.99,exit
+UNITED KINGDOM,Reading,51.4333,-1,212.69.166.153,normal
+UNITED STATES,(Unknown city),,,24.148.59.185,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.209.219.154,normal
+NORWAY,(Unknown city),,,84.201.35.234,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,87.236.199.169,normal
+GERMANY,(Unknown city),,,144.76.73.140,normal
+UNITED STATES,"Portland, OR",45.5382,-122.656,67.168.198.149,normal
+GERMANY,Berlin,52.5,13.4167,85.214.62.48,normal
+UNITED KINGDOM,Enfield,51.6667,-0.0667,82.45.234.129,normal
+AUSTRIA,(Unknown city),,,84.112.238.58,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,71.185.171.13,normal
+UNITED KINGDOM,Aberdeen,57.1333,-2.1,81.7.13.248,normal
+UNITED STATES,(Unknown city),,,167.160.44.194,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.41,normal
+UNITED STATES,(Unknown city),,,54.209.196.105,normal
+FRANCE,(Unknown city),,,212.47.236.255,normal
+GERMANY,Berlin,52.5,13.4167,85.214.105.197,normal
+UNITED KINGDOM,(Unknown city),,,81.102.249.61,normal
+SWITZERLAND,Bern,46.9167,7.4667,80.219.170.118,normal
+GERMANY,Berlin,52.5,13.4167,178.63.46.97,normal
+JAPAN,Tokyo,35.6667,139.75,195.154.97.10,normal
+SWEDEN,(Unknown city),,,193.12.73.7,normal
+GERMANY,Berlin,52.5,13.4167,78.92.49.7,normal
+NETHERLANDS,(Unknown city),,,82.168.152.178,exit
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.102.132.146,normal
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,71.135.34.161,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.31.75.253,normal
+FRANCE,Nantes,47.2167,-1.55,78.193.79.120,normal
+CANADA,(Unknown city),,,24.68.26.244,normal
+UNITED STATES,(Unknown city),,,209.148.46.129,normal
+UNITED KINGDOM,Winchcombe,51.95,-1.9667,84.92.108.120,normal
+EUROPEAN UNION,(Unknown city),,,192.162.101.15,normal
+UNITED STATES,(Unknown city),,,66.58.217.72,normal
+GERMANY,(Unknown city),,,62.75.255.37,normal
+FRANCE,Paris,48.8,2.33333,87.98.206.70,exit
+NETHERLANDS,(Unknown city),,,83.162.248.197,normal
+FRANCE,Le Mans,48,0.2,88.161.52.186,normal
+VIET NAM,(Unknown city),,,210.245.95.63,normal
+UNITED ARAB EMIRATES,Dubai,25.2522,55.28,72.52.91.30,exit
+UNITED KINGDOM,Bournemouth,50.7167,-1.8833,80.4.248.16,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,78.107.254.121,normal
+FRANCE,(Unknown city),,,195.154.64.214,exit
+RUSSIAN FEDERATION,(Unknown city),,,91.208.84.72,exit
+UNITED STATES,"Reston, VA",38.95,-77.35,96.251.11.234,normal
+UNITED KINGDOM,(Unknown city),,,82.136.34.67,exit
+SPAIN,(Unknown city),,,83.56.234.125,normal
+HONG KONG,(Unknown city),,,220.246.177.208,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,129.10.120.193,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,76.28.209.165,normal
+UNITED STATES,(Unknown city),,,54.77.125.193,normal
+ITALY,Rome,41.9,12.45,79.55.107.67,normal
+UNITED STATES,(Unknown city),,,63.246.128.42,exit
+UNITED STATES,(Unknown city),,,69.172.150.139,normal
+UNITED KINGDOM,London,51.5,-0.1167,86.133.206.103,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.138.93,normal
+GERMANY,(Unknown city),,,217.253.40.253,normal
+GERMANY,(Unknown city),,,217.254.117.202,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.27.45.25,normal
+CANADA,"SALMON ARM, BC",50.7,-119.283,96.50.167.224,normal
+GERMANY,(Unknown city),,,217.247.199.203,normal
+FRANCE,(Unknown city),,,195.154.87.231,normal
+UNITED STATES,(Unknown city),,,24.21.142.235,normal
+UNITED KINGDOM,(Unknown city),,,213.163.72.162,normal
+GERMANY,(Unknown city),,,62.214.6.61,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.145.205.177,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,79.165.29.41,normal
+FRANCE,Rennes,48.0833,-1.68333,95.130.9.190,exit
+UNITED STATES,"Phoenix, AZ",33.5425,-112.071,198.211.124.214,normal
+UNITED STATES,"Blacksburg, VA",37.2327,-80.4284,128.173.55.78,normal
+LUXEMBOURG,(Unknown city),,,91.203.212.249,normal
+FRANCE,Paris,48.8,2.33333,86.66.228.131,normal
+UNITED STATES,"Honolulu, HI",21.3167,-157.833,72.235.48.203,exit
+NETHERLANDS,(Unknown city),,,82.161.239.177 110 80,normal
+GERMANY,Berlin,52.5,13.4167,85.214.146.66,normal
+FRANCE,(Unknown city),,,195.154.109.221,normal
+FRANCE,(Unknown city),,,195.154.128.58,normal
+FRANCE,(Unknown city),,,212.47.236.219,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.55.177,exit
+CANADA,(Unknown city),,,209.148.92.154,normal
+FRANCE,(Unknown city),,,62.210.37.82 443 80,exit
+UNITED STATES,"Reston, VA",38.95,-77.35,96.232.87.66,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.241.216,normal
+UNITED STATES,(Unknown city),,,170.75.162.81,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.76.115,normal
+FINLAND,(Unknown city),,,188.165.136.34,normal
+SPAIN,(Unknown city),,,82.223.9.83,normal
+GERMANY,(Unknown city),,,62.75.235.222,normal
+UNITED STATES,(Unknown city),,,154.35.132.83,exit
+GERMANY,Bonn,50.7333,7.08333,188.138.116.232 9001 9030,normal
+FRANCE,(Unknown city),,,82.196.9.223,normal
+UNITED STATES,(Unknown city),,,66.69.235.105,normal
+UNITED STATES,"Menlo Park, CA",37.48,-122.144,192.12.33.26,normal
+UNITED KINGDOM,London,51.5,-0.1167,90.218.31.51,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.3.100,normal
+AUSTRALIA,Sydney,-34,151,110.174.165.18,normal
+FRANCE,Nantes,47.2167,-1.55,78.221.140.114,normal
+UNITED STATES,(Unknown city),,,35.0.127.52,exit
+FRANCE,(Unknown city),,,195.154.104.134,normal
+GERMANY,Berlin,52.5,13.4167,78.51.72.77,normal
+UNITED STATES,"Simpsonville, KY",38.2183,-85.3531,216.146.235.19,normal
+GERMANY,Saarbrcken,49.2333,7,94.23.162.227,normal
+UNITED STATES,(Unknown city),,,207.192.70.250,normal
+UKRAINE,Kharkiv,50,36.25,217.12.199.209,normal
+UNITED KINGDOM,Kingston upon Hull,53.7167,-0.3333,87.102.15.216,normal
+POLAND,(Unknown city),,,62.63.239.215,normal
+UNITED STATES,(Unknown city),,,54.84.106.41,normal
+UNITED STATES,(Unknown city),,,216.12.198.82,normal
+UNITED STATES,"Omaha, NE",41.2639,-96.0117,72.213.16.9,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.187.1.68,exit
+"KOREA, REPUBLIC OF",(Unknown city),,,210.108.44.41,normal
+LUXEMBOURG,(Unknown city),,,91.203.212.238,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.154.112,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.42,normal
+UNITED KINGDOM,(Unknown city),,,81.7.10.17,normal
+GERMANY,Hannover,52.4,9.73333,130.75.178.37,normal
+FRANCE,Paris,48.8,2.33333,91.121.207.34,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.3.63,normal
+FRANCE,Chaville,46.3333,2.75,88.182.124.157,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.118.238.212,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,188.32.126.80,normal
+BELGIUM,Saive,50.65,5.6833,91.181.55.240,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.211.203.127,normal
+UNITED STATES,(Unknown city),,,24.4.31.249,normal
+AUSTRIA,Vienna,48.2333,16.3333,62.178.135.219,normal
+UNITED STATES,(Unknown city),,,54.86.131.36,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,72.249.185.100,exit
+GERMANY,Frankfurt,50.1167,8.68333,193.24.209.148,normal
+UNITED STATES,"Fairborn, OH",39.8045,-84.0175,66.230.230.230,exit
+NETHERLANDS,(Unknown city),,,83.163.77.195,normal
+NORWAY,(Unknown city),,,84.201.35.199,normal
+COTE D'IVOIRE,Gagnoa,6.1333,-5.9333,81.89.96.88 443 80,exit
+UNITED STATES,"Somerville, MA",42.3903,-71.1018,199.74.222.171,normal
+FRANCE,(Unknown city),,,195.154.121.234,normal
+AFGHANISTAN,Kbol,34.5167,69.1833,109.163.233.177,exit
+GERMANY,Nrnberg,49.45,11.0833,87.169.123.50,normal
+UNITED STATES,"Houston, TX",29.7687,-95.3867,207.201.223.195,exit
+UNITED STATES,"Lancaster, NY",42.9016,-78.6698,178.18.17.204,exit
+GERMANY,(Unknown city),,,213.136.90.155,normal
+GERMANY,Nrnberg,49.45,11.0833,87.186.32.174,normal
+UNITED STATES,(Unknown city),,,167.114.114.136,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.1.56.144,normal
+NETHERLANDS,(Unknown city),,,82.139.94.252,normal
+ITALY,(Unknown city),,,188.165.94.105,normal
+UNITED KINGDOM,London,51.5,-0.1167,81.159.22.160,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,91.234.22.48,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.54.212,normal
+GERMANY,Neunkirchen,49.1175,9.6253,80.82.215.210,normal
+FRANCE,Toulon,43.1167,5.93333,82.241.65.27,normal
+JAPAN,(Unknown city),,,219.96.55.22,normal
+UNITED KINGDOM,(Unknown city),,,81.7.11.253,normal
+CZECH REPUBLIC,Ostrava,49.8333,18.2833,62.168.3.214,normal
+GERMANY,Nrnberg,49.45,11.0833,87.156.92.100,normal
+AUSTRIA,(Unknown city),,,80.108.36.2,normal
+GERMANY,Berlin,52.5,13.4167,176.9.90.215,normal
+FRANCE,(Unknown city),,,62.210.182.92,normal
+CZECH REPUBLIC,Hlubok nad Vltavou,49.05,14.4333,46.28.111.11,exit
+FRANCE,Rennes,48.0833,-1.68333,95.130.9.89,exit
+GERMANY,Eschborn,50.1333,8.55,88.72.110.111,normal
+CANADA,(Unknown city),,,70.24.5.144,exit
+FRANCE,(Unknown city),,,212.47.231.154,exit
+GERMANY,Munich,48.1333,11.5833,93.203.236.52,normal
+FRANCE,(Unknown city),,,212.129.42.9,normal
+GERMANY,Berlin,52.5,13.4167,78.47.40.27,normal
+NETHERLANDS,(Unknown city),,,62.212.89.116,exit
+UNITED STATES,"Fort Collins, CO",40.5555,-105.068,199.254.238.52 443 80,normal
+FRANCE,Paris,48.8,2.33333,94.23.37.153,normal
+UNITED STATES,(Unknown city),,,66.8.130.53,normal
+GERMANY,Eschborn,50.1333,8.55,88.73.51.164,normal
+IRELAND,Dublin,53.3333,-6.25,79.97.124.61,normal
+CANADA,(Unknown city),,,142.4.215.87,normal
+FRANCE,Paris,48.8,2.33333,91.121.106.178,normal
+UNITED KINGDOM,London,51.5,-0.1167,90.205.196.240,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.101.96.47,normal
+FINLAND,(Unknown city),,,193.166.167.79,normal
+GERMANY,Berlin,52.5,13.4167,78.46.220.130,normal
+GERMANY,(Unknown city),,,83.171.159.133,exit
+SWITZERLAND,(Unknown city),,,84.74.125.85,normal
+SWEDEN,Stockholm,59.2833,18.05,193.105.134.50,normal
+GERMANY,Munich,48.1333,11.5833,91.194.90.103 443 80,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.175.76,normal
+GERMANY,Nrnberg,49.45,11.0833,87.179.133.228,normal
+UNITED STATES,(Unknown city),,,69.164.198.150,normal
+GERMANY,(Unknown city),,,217.13.74.41,normal
+FRANCE,(Unknown city),,,62.210.82.177,normal
+PORTUGAL,CARCAVELOS,38.6833,-9.3333,81.193.187.167,normal
+NORWAY,(Unknown city),,,81.191.120.7,normal
+UNITED KINGDOM,(Unknown city),,,80.80.205.101,normal
+RUSSIAN FEDERATION,(Unknown city),,,217.22.171.27,normal
+ROMANIA,Bucharest,44.4167,26.1167,79.119.106.9,normal
+UNITED KINGDOM,London,51.5,-0.1167,84.92.24.214,exit
+GERMANY,Berlin,52.5,13.4167,78.51.245.20,normal
+AUSTRALIA,Sydney,-34,151,220.233.175.14,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,96.44.189.100,exit
+BELGIUM,(Unknown city),,,81.89.101.53,normal
+GERMANY,(Unknown city),,,144.76.80.68,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,76.74.170.152,normal
+UNITED STATES,(Unknown city),,,64.62.249.222 443 993,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.119.232.201,normal
+GERMANY,Berlin,52.5,13.4167,89.22.96.47,normal
+NETHERLANDS,(Unknown city),,,82.95.66.203 110 9030,normal
+UNITED STATES,"London, OH",39.8892,-83.4409,82.69.50.50,exit
+UNITED KINGDOM,(Unknown city),,,80.2.87.65,normal
+RUSSIAN FEDERATION,(Unknown city),,,195.9.173.168,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,96.44.189.102,exit
+MEXICO,Tijuana,32.5333,-117.017,201.170.18.183,normal
+GERMANY,Berlin,52.5,13.4167,78.47.174.155,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.60.242,normal
+SWEDEN,(Unknown city),,,193.234.225.140,normal
+GREECE,(Unknown city),,,83.212.99.68 443 80,normal
+UNITED KINGDOM,London,51.5,-0.1167,81.156.174.190,normal
+GERMANY,(Unknown city),,,81.169.141.94,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,89.176.109.17,exit
+UNITED STATES,(Unknown city),,,204.194.29.4,exit
+FRANCE,(Unknown city),,,62.147.251.21,exit
+INDONESIA,Medan,3.58333,98.6667,212.77.226.17,normal
+NORWAY,(Unknown city),,,195.159.234.66,exit
+FINLAND,Espoo,60.2167,24.6667,82.130.40.92,normal
+"KOREA, REPUBLIC OF",Seoul,37.55,126.967,218.232.104.221,normal
+GERMANY,(Unknown city),,,84.58.253.86,normal
+JAPAN,(Unknown city),,,146.90.199.94,normal
+ITALY,(Unknown city),,,212.71.249.69,normal
+GERMANY,Hannover,52.4,9.73333,195.37.190.67,exit
+INDONESIA,Medan,3.58333,98.6667,212.77.226.16,normal
+UNITED KINGDOM,(Unknown city),,,82.30.115.98,exit
+UNITED STATES,(Unknown city),,,54.175.81.69,exit
+UNITED KINGDOM,Cardiff,51.5,-3.2,82.31.67.97,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,74.67.99.121,normal
+CROATIA,Varadin,46.3097,16.3364,161.53.120.152,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,82.196.14.65,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,76.74.219.138,exit
+AUSTRIA,(Unknown city),,,195.230.168.83,normal
+GERMANY,Berlin,52.5,13.4167,78.94.199.45,normal
+UNITED STATES,(Unknown city),,,192.3.177.167,exit
+UNITED STATES,(Unknown city),,,54.174.202.103,exit
+HUNGARY,Budapest,47.5,19.0833,89.133.137.77,exit
+GERMANY,Berlin,52.5,13.4167,78.46.239.183,normal
+FRANCE,(Unknown city),,,212.83.170.252,normal
+UNITED STATES,"Las Vegas, NV",36.2057,-115.223,68.224.3.204,normal
+UNITED STATES,(Unknown city),,,149.172.199.244,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.222.8,exit
+SWEDEN,(Unknown city),,,81.233.175.164,normal
+GERMANY,(Unknown city),,,84.186.119.91,normal
+UNITED KINGDOM,(Unknown city),,,137.205.37.209,normal
+UNITED KINGDOM,Leamington Spa,52.3,-1.5333,81.7.16.59,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.164.219,normal
+UNITED STATES,(Unknown city),,,192.34.224.34,normal
+UNITED STATES,(Unknown city),,,54.174.68.214,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.192.114.245,normal
+SWEDEN,(Unknown city),,,192.71.245.137,normal
+NETHERLANDS,Den Bosch,51.5833,6.0167,82.169.99.178,normal
+NETHERLANDS,(Unknown city),,,77.247.181.162,exit
+FINLAND,Tampere,61.5,23.75,84.249.84.138,normal
+SWEDEN,(Unknown city),,,81.170.149.184,normal
+UNITED STATES,(Unknown city),,,69.243.251.121,normal
+EUROPEAN UNION,(Unknown city),,,193.23.244.244,normal
+SWITZERLAND,Zurich,47.35,8.51667,77.58.46.34,normal
+UNITED STATES,(Unknown city),,,66.171.81.136,normal
+UNITED STATES,"Chapel Hill, NC",35.9276,-79.0406,204.85.191.30,exit
+GERMANY,(Unknown city),,,131.188.40.189,normal
+BULGARIA,(Unknown city),,,82.118.242.79 3128 3129,normal
+NETHERLANDS,(Unknown city),,,81.4.107.227 9001 9030,normal
+LATVIA,(Unknown city),,,83.99.142.79,normal
+JAPAN,(Unknown city),,,219.117.206.46,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.229.158,exit
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.46.204,normal
+GERMANY,(Unknown city),,,84.19.191.133,exit
+GERMANY,Berlin,52.5,13.4167,78.116.70.155,normal
+NORWAY,Bergen,60.3833,5.33333,80.202.224.157,normal
+GERMANY,(Unknown city),,,144.76.126.179,normal
+PORTUGAL,(Unknown city),,,82.155.196.111,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.69.128.52,exit
+UNITED STATES,(Unknown city),,,168.62.217.216,normal
+UNITED STATES,"Rochester, NY",43.1687,-77.6158,129.21.131.192,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,94.112.44.224,normal
+GREECE,(Unknown city),,,83.212.96.183,normal
+UNITED KINGDOM,(Unknown city),,,82.19.252.82,normal
+FRANCE,Paris,48.8,2.33333,81.56.66.213,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.181.9,normal
+GERMANY,Berlin,52.5,13.4167,78.53.232.144,normal
+GERMANY,Cologne,50.9333,6.95,78.35.53.205,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.162.44.147,normal
+RUSSIAN FEDERATION,Sankt Petersburg,59.8944,30.2642,89.163.231.232,normal
+NETHERLANDS,(Unknown city),,,80.101.98.48,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.7,exit
+UNITED STATES,"Boulder, CO",40.0269,-105.251,128.117.43.92,exit
+FRANCE,Paris,48.8,2.33333,91.121.100.200,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.46.66,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,194.109.206.212,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.248.0.60,normal
+FRANCE,Brteau,46.9333,1.3667,195.154.166.113,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.206.21,normal
+UNITED STATES,(Unknown city),,,54.224.53.194,exit
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.53,normal
+FRANCE,(Unknown city),,,82.242.215.143,normal
+JAPAN,Tokyo,35.6667,139.75,218.47.52.212,normal
+GERMANY,Neuermark,52.65,11.0333,144.76.6.59,normal
+UNITED KINGDOM,London,51.5,-0.1167,80.68.92.249,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.169.35,normal
+FRANCE,(Unknown city),,,62.210.170.10,normal
+UNITED STATES,"Franklin, PA",41.392,-79.8388,76.188.66.82,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,69.164.196.238,normal
+GERMANY,Berlin,52.5,13.4167,78.51.148.195,normal
+FRANCE,Lyon,45.75,4.85,195.154.5.205,normal
+UNITED STATES,(Unknown city),,,167.88.44.51,normal
+GERMANY,(Unknown city),,,84.200.77.243,normal
+UNITED KINGDOM,Aberdeen,57.1333,-2.1,81.7.13.90 4443 0,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.101.46.56,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.238.2.85,exit
+UNITED STATES,"Little Rock, AR",34.7224,-92.3541,162.40.59.20,exit
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.189.28.203,normal
+FRANCE,Paris,48.8,2.33333,91.121.165.223,normal
+UNITED KINGDOM,(Unknown city),,,81.7.10.251 443 80,normal
+FRANCE,(Unknown city),,,195.154.12.66 9001 9030,normal
+SWEDEN,(Unknown city),,,193.11.114.45,normal
+UNITED KINGDOM,London,51.5,-0.1167,78.150.77.122,normal
+GERMANY,(Unknown city),,,144.76.244.19,normal
+UNITED KINGDOM,(Unknown city),,,213.61.149.126 5901 9030,exit
+GERMANY,(Unknown city),,,84.148.110.25,normal
+NETHERLANDS,(Unknown city),,,81.4.110.149,normal
+FINLAND,(Unknown city),,,193.166.167.81,normal
+UNITED STATES,"Albany, NY",42.6657,-73.799,72.226.87.31,exit
+GERMANY,Berlin,52.5,13.4167,85.214.228.192,normal
+NETHERLANDS,(Unknown city),,,192.42.116.16,exit
+UKRAINE,(Unknown city),,,91.213.8.84,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.127.230,normal
+GERMANY,Berlin,52.5,13.4167,78.42.206.109,normal
+UNITED KINGDOM,(Unknown city),,,82.6.186.116,normal
+GREECE,(Unknown city),,,195.251.252.226,normal
+UNITED STATES,"Waltham, MA",42.3878,-71.2422,129.64.8.147,normal
+LATVIA,(Unknown city),,,95.215.44.102,normal
+GERMANY,Mainz,50.0167,8.26667,134.93.136.177,normal
+ITALY,(Unknown city),,,94.198.100.10,normal
+FRANCE,Paris,48.8,2.33333,91.121.1.20,normal
+GIBRALTAR,Gibraltar,36.1333,-5.3333,216.17.105.203,normal
+SPAIN,Barcelona,41.3833,2.15,178.33.112.171,normal
+NETHERLANDS,(Unknown city),,,80.101.110.99,normal
+GERMANY,(Unknown city),,,62.158.178.241,normal
+GERMANY,Muenchen,48.15,11.5833,93.104.209.61,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,128.117.43.97,normal
+SWITZERLAND,(Unknown city),,,80.240.141.151,normal
+UNITED STATES,"Santa Clara, CA",37.365,-121.967,174.62.72.51,normal
+UNITED STATES,"San Mateo, CA",37.5613,-122.312,209.234.102.238,exit
+GERMANY,(Unknown city),,,62.141.44.169,normal
+UNITED STATES,(Unknown city),,,66.45.247.42,normal
+SLOVENIA,(Unknown city),,,91.185.200.221,exit
+GERMANY,Berlin,52.5,13.4167,78.47.197.172,normal
+"KOREA, REPUBLIC OF",Seoul,37.55,126.967,125.131.189.44,normal
+FRANCE,(Unknown city),,,84.100.18.168,normal
+FRANCE,(Unknown city),,,212.83.158.20,normal
+UNITED STATES,(Unknown city),,,192.81.220.91,normal
+UNITED STATES,(Unknown city),,,146.199.41.55,normal
+FINLAND,(Unknown city),,,84.248.82.156,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.148.90,exit
+UNITED STATES,"Puyallup, WA",47.1819,-122.284,67.168.78.158,normal
+GERMANY,Berlin,52.5,13.4167,78.47.64.91 9001 9030,normal
+GERMANY,(Unknown city),,,144.76.11.100,normal
+FRANCE,Roubaix,50.7,3.1667,87.98.132.48,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,146.115.168.80,normal
+NETHERLANDS,(Unknown city),,,192.87.28.82,normal
+UNITED STATES,(Unknown city),,,138.128.124.55,normal
+AUSTRIA,Salzburg,47.8,13.0333,86.59.21.38 443 80,normal
+SWITZERLAND,(Unknown city),,,195.202.211.59,normal
+UNITED STATES,(Unknown city),,,66.148.116.90,normal
+FRANCE,Paris,48.8,2.33333,94.23.252.31,exit
+UNITED KINGDOM,London,51.5,-0.1167,178.73.210.240,normal
+FINLAND,(Unknown city),,,193.166.167.87,normal
+UNITED STATES,"Thousand Oaks, CA",34.1927,-118.868,24.52.242.172,normal
+BELGIUM,Gent,51.05,3.7167,81.246.177.186,normal
+GERMANY,(Unknown city),,,137.248.122.68,normal
+FINLAND,(Unknown city),,,193.166.167.76,normal
+SWEDEN,(Unknown city),,,85.226.89.241,normal
+NETHERLANDS,(Unknown city),,,89.105.197.130,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.103.147,exit
+GERMANY,(Unknown city),,,85.88.28.130,normal
+UNITED STATES,(Unknown city),,,54.77.226.58,exit
+FRANCE,(Unknown city),,,62.210.137.144,normal
+UNITED KINGDOM,Basingstoke,51.2667,-1.0833,80.5.147.245,normal
+UNITED STATES,(Unknown city),,,54.187.239.16,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.164.97.130,normal
+GERMANY,Berlin,52.5,13.4167,78.10.133.0,normal
+UNITED STATES,"Kirkland, IL",42.0922,-88.8546,67.183.153.213,normal
+GERMANY,(Unknown city),,,195.80.210.241,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.103.127.108,normal
+UNITED STATES,"Austin, TX",30.3059,-97.7505,204.251.32.64,normal
+FRANCE,(Unknown city),,,195.154.109.30,normal
+UNITED STATES,"Oshkosh, WI",44.0178,-88.554,24.208.0.124,normal
+GERMANY,(Unknown city),,,195.234.152.86,normal
+POLAND,Lublin,51.25,22.5667,193.138.118.3,normal
+NETHERLANDS,(Unknown city),,,84.25.28.186,normal
+LATVIA,(Unknown city),,,95.215.44.209,exit
+UNITED STATES,(Unknown city),,,216.218.216.194,exit
+GERMANY,(Unknown city),,,217.197.91.164,normal
+UNITED STATES,(Unknown city),,,68.118.104.134,normal
+GERMANY,Nrnberg,49.45,11.0833,87.174.222.158,normal
+UNITED KINGDOM,(Unknown city),,,81.101.69.202,normal
+GERMANY,Karlsruhe,49.05,8.4,95.114.121.193,normal
+NETHERLANDS,(Unknown city),,,80.100.38.32,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.197.235.5,normal
+GERMANY,Berlin,52.5,13.4167,85.214.128.199,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,67.173.232.182,normal
+GERMANY,Berlin,52.5,13.4167,78.142.145.141,normal
+UNITED STATES,(Unknown city),,,165.123.151.208,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,46.242.98.61,normal
+GERMANY,(Unknown city),,,62.112.130.224,normal
+GERMANY,Dresden,51.05,13.7333,146.52.52.199,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,64.5.53.175,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.194.71,normal
+GERMANY,(Unknown city),,,84.130.219.181,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.104.167.114,normal
+ROMANIA,Bucharest,44.4167,26.1167,93.115.94.244,exit
+JAPAN,Tokyo,35.6667,139.75,106.187.36.183,exit
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.224.172,exit
+THAILAND,Bangkok,13.75,100.5,77.109.139.28,exit
+GERMANY,(Unknown city),,,80.134.132.187,normal
+AUSTRIA,Vienna,48.2333,16.3333,91.119.88.8,normal
+CZECH REPUBLIC,Hlubok nad Vltavou,49.05,14.4333,46.28.111.19,exit
+NETHERLANDS,(Unknown city),,,83.163.201.168,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,188.32.242.244,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,70.115.155.98 636 0,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.141.129.14,normal
+GERMANY,Wismar,52.6667,10.9667,82.119.7.4,normal
+SWEDEN,(Unknown city),,,82.183.14.195,normal
+SWEDEN,(Unknown city),,,212.85.79.71,normal
+UNITED KINGDOM,(Unknown city),,,82.1.125.190,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.84.163.39,normal
+UNITED STATES,(Unknown city),,,66.228.44.204,normal
+UNITED STATES,"Old Bridge, NJ",40.3929,-74.33,69.115.194.141,normal
+UNITED KINGDOM,(Unknown city),,,81.97.183.132,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.61,normal
+UNITED STATES,"Pittsburgh, PA",40.4392,-79.9767,98.219.222.233,normal
+UNITED KINGDOM,London,51.5,-0.1167,90.200.29.249,normal
+GERMANY,(Unknown city),,,213.136.75.42,exit
+POLAND,Krakow,50.05,19.9667,193.25.1.157,normal
+GERMANY,Muenchen,48.15,11.5833,129.187.54.33,normal
+GERMANY,Frankfurt,50.1167,8.68333,178.162.193.213,exit
+GERMANY,Nrnberg,49.45,11.0833,91.9.204.21,normal
+UNITED KINGDOM,(Unknown city),,,81.86.158.27,normal
+NORWAY,(Unknown city),,,134.119.9.35,normal
+UNITED KINGDOM,(Unknown city),,,213.106.76.216,normal
+UNITED STATES,"Minneapolis, MN",44.9618,-93.2668,63.231.181.137,normal
+GERMANY,Frankfurt,50.1167,8.68333,46.165.240.143,normal
+NETHERLANDS,Arnhem,51.9833,5.9167,80.101.217.221,normal
+ITALY,(Unknown city),,,212.71.248.5,normal
+UNITED STATES,(Unknown city),,,54.77.154.137,exit
+GERMANY,(Unknown city),,,84.186.173.58,normal
+HONG KONG,(Unknown city),,,203.218.230.217,normal
+FINLAND,(Unknown city),,,80.220.230.107,normal
+LATVIA,(Unknown city),,,83.99.199.67,normal
+UNITED STATES,(Unknown city),,,54.213.254.200,normal
+NETHERLANDS,(Unknown city),,,81.4.107.190 9001 9030,normal
+SWEDEN,(Unknown city),,,192.121.170.28,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.197.187,normal
+GERMANY,Augsburg,48.3833,10.8833,80.81.17.31,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.204,exit
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,76.209.20.97,normal
+GERMANY,(Unknown city),,,213.95.21.54,exit
+UNITED STATES,"Bellevue, NE",41.1564,-95.9226,68.13.97.36,normal
+NETHERLANDS,(Unknown city),,,82.197.212.47,normal
+UNITED KINGDOM,Aberdeen,57.1333,-2.1,81.7.13.84 443 80,normal
+GERMANY,Karlsruhe,49.05,8.4,95.119.253.56,normal
+POLAND,Warsow,53.4833,14.55,178.217.184.32,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.54,normal
+UNITED STATES,(Unknown city),,,54.187.53.164,exit
+GERMANY,(Unknown city),,,84.176.117.196,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.132.245,normal
+FRANCE,(Unknown city),,,193.107.85.56,exit
+UNITED STATES,(Unknown city),,,216.24.174.245,normal
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,76.248.89.57,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.79.144.28,normal
+UNITED KINGDOM,(Unknown city),,,213.61.149.125,exit
+UNITED STATES,(Unknown city),,,158.130.4.121,exit
+EUROPEAN UNION,(Unknown city),,,151.27.9.195,normal
+PORTUGAL,(Unknown city),,,217.23.2.11,normal
+CANADA,Montreal,45.5167,-73.5667,74.59.204.71,normal
+UNITED STATES,"Piscataway, NJ",40.5477,-74.4633,24.190.65.26,normal
+ITALY,Rome,41.9,12.45,79.50.152.249,normal
+UNITED KINGDOM,(Unknown city),,,82.19.90.67,normal
+UKRAINE,(Unknown city),,,91.213.8.236,exit
+BELARUS,Minsk,53.9,27.5667,91.149.173.79,normal
+GERMANY,Berlin,52.5,13.4167,78.51.163.179,normal
+DENMARK,Copenhagen,55.6667,12.5667,87.73.51.254,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.180.54.193,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.219.167,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.79.152.237,normal
+NETHERLANDS,Naaldwijk,52,4.2,109.236.86.138,normal
+UNITED KINGDOM,(Unknown city),,,81.147.189.139,normal
+UKRAINE,Kiev,50.4333,30.5167,92.249.69.213,normal
+UNITED STATES,(Unknown city),,,24.8.2.0,normal
+UNITED STATES,(Unknown city),,,69.164.198.32,normal
+SWEDEN,(Unknown city),,,193.11.114.47,normal
+UNITED STATES,(Unknown city),,,54.172.201.41,exit
+FRANCE,Roubaix,50.7,3.1667,176.31.122.216,normal
+ROMANIA,Bucharest,44.4167,26.1167,86.120.211.147,exit
+JAPAN,Tokyo,35.6667,139.75,106.187.38.198,normal
+GERMANY,Gera,50.7333,10.85,91.65.96.246,normal
+EUROPEAN UNION,(Unknown city),,,158.125.253.197,normal
+UNITED KINGDOM,(Unknown city),,,212.92.219.15,exit
+NETHERLANDS,Deventer,52.25,6.2,217.19.24.216,normal
+FRANCE,Toulouse,43.6,1.43333,82.66.71.119,normal
+UNITED STATES,(Unknown city),,,68.104.54.75,normal
+GREECE,Athens,37.9667,23.7167,77.49.145.82,normal
+FINLAND,(Unknown city),,,193.166.167.85,normal
+GERMANY,(Unknown city),,,134.169.92.219,normal
+GERMANY,Bonn,50.7333,7.08333,217.225.64.17,normal
+NETHERLANDS,(Unknown city),,,84.31.79.111,normal
+FRANCE,(Unknown city),,,212.47.231.193,exit
+POLAND,Koszalin,54.2,16.1833,62.108.171.76,normal
+UNITED STATES,"Miami, FL",25.7757,-80.2108,149.9.0.59,normal
+FRANCE,(Unknown city),,,83.202.59.125,normal
+GERMANY,Berlin,52.5,13.4167,78.46.112.219,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,74.185.219.201,normal
+GERMANY,Berlin,52.5,13.4167,78.129.137.28,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,37.143.8.201,normal
+UNITED STATES,"Rolla, MO",37.9487,-91.7658,131.151.183.142,normal
+FRANCE,(Unknown city),,,195.154.15.117,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.178.0.238,normal
+UNITED STATES,(Unknown city),,,24.140.132.62,normal
+FRANCE,Paris,48.8,2.33333,91.121.82.25 443 80,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.111.38,normal
+GERMANY,Karlsruhe,49.05,8.4,82.165.142.79,normal
+UNITED STATES,(Unknown city),,,192.3.201.226,normal
+EUROPEAN UNION,(Unknown city),,,151.100.179.46,normal
+GERMANY,Berlin,52.5,13.4167,78.55.16.204,normal
+INDIA,Mumbai,18.9667,72.8333,111.91.91.66,normal
+GERMANY,(Unknown city),,,84.183.232.136,normal
+GERMANY,Muenchen,48.15,11.5833,178.238.237.44,exit
+UNITED STATES,"New Haven, CT",41.3101,-72.9241,130.132.94.65,normal
+GERMANY,(Unknown city),,,195.110.9.232,normal
+AUSTRIA,(Unknown city),,,84.118.93.222,normal
+LATVIA,(Unknown city),,,95.215.44.186,normal
+UNITED KINGDOM,London,51.5,-0.1167,62.49.92.150,exit
+SWEDEN,(Unknown city),,,62.220.177.19,normal
+SPAIN,(Unknown city),,,82.223.11.34,normal
+SWEDEN,(Unknown city),,,213.114.144.126,normal
+UNITED STATES,(Unknown city),,,24.128.235.42,normal
+UNITED STATES,(Unknown city),,,24.4.138.82,normal
+CZECH REPUBLIC,(Unknown city),,,83.240.61.144,normal
+HUNGARY,(Unknown city),,,195.228.75.131,exit
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,173.255.245.116,normal
+UNITED STATES,(Unknown city),,,69.164.214.250,exit
+ITALY,(Unknown city),,,212.71.249.129 9001 9030,normal
+GERMANY,Dsseldorf,51.2167,6.7667,62.141.37.30,normal
+UNITED KINGDOM,London,51.5,-0.1167,151.236.222.27,normal
+GERMANY,(Unknown city),,,84.200.206.99,normal
+SWITZERLAND,(Unknown city),,,80.240.141.246,exit
+UNITED KINGDOM,(Unknown city),,,80.85.84.222,normal
+RUSSIAN FEDERATION,Barnaul,53.3667,83.75,83.246.164.188,exit
+UNITED STATES,(Unknown city),,,209.148.46.130,normal
+GERMANY,Neuermark,52.65,11.0333,144.76.6.38,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.94.69,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.244,exit
+UNITED STATES,(Unknown city),,,208.131.133.165,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.225.89.236,normal
+FRANCE,(Unknown city),,,82.244.177.39,normal
+UNITED KINGDOM,(Unknown city),,,188.165.164.163,normal
+UNITED STATES,(Unknown city),,,204.27.56.45,normal
+UNITED STATES,(Unknown city),,,54.253.118.158,normal
+UNITED STATES,(Unknown city),,,149.91.82.158,exit
+DENMARK,Copenhagen,55.6667,12.5667,80.71.133.119,normal
+GERMANY,Erfurt,50.9667,11.0167,84.19.178.105,normal
+UNITED KINGDOM,(Unknown city),,,213.108.215.238,normal
+UNITED STATES,(Unknown city),,,54.191.17.50,normal
+UNITED STATES,(Unknown city),,,54.174.207.47,exit
+GERMANY,Karlsruhe,49.05,8.4,213.165.79.243,normal
+CZECH REPUBLIC,(Unknown city),,,217.112.131.58,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,74.86.24.19,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.9.16,normal
+SWITZERLAND,Zurich,47.35,8.51667,62.75.143.167,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.236.18,normal
+UNITED STATES,"Fort Worth, TX",32.7539,-97.3363,66.228.39.114,normal
+CANADA,"HALIFAX, NS",44.65,-63.6,129.173.67.120,normal
+SWEDEN,(Unknown city),,,85.228.195.5,normal
+FINLAND,(Unknown city),,,80.223.185.152,normal
+GERMANY,Berlin,52.5,13.4167,78.47.186.243,normal
+NETHERLANDS,(Unknown city),,,80.101.75.154,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.209.197,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,188.244.44.90,normal
+FINLAND,(Unknown city),,,193.166.167.89,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,72.214.15.27,normal
+UNITED STATES,(Unknown city),,,204.8.156.142,exit
+UNITED KINGDOM,London,51.5,-0.1167,151.236.222.217,normal
+ISRAEL,Herzliya,32.1658,34.8367,192.114.71.222,normal
+UNITED STATES,"Menlo Park, CA",37.48,-122.144,192.12.33.27,normal
+UNITED STATES,"Phoenix, AZ",33.5425,-112.071,68.15.182.107,normal
+CZECH REPUBLIC,Praha,49.6667,13.8167,195.113.80.203,normal
+SWEDEN,(Unknown city),,,193.14.159.204,normal
+UNITED STATES,"BRUNSWICK, GA",31.1429,-81.471,69.164.212.180,normal
+UNITED STATES,"Burlington, VT",44.4881,-73.2262,75.69.30.77,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,64.237.51.46 443 80,normal
+SWEDEN,Vllingby,59.3667,17.8667,81.170.141.95,normal
+GERMANY,Neuermark,52.65,11.0333,176.9.50.240,normal
+SWITZERLAND,(Unknown city),,,62.220.135.129,exit
+GERMANY,Berlin,52.5,13.4167,78.47.99.173,normal
+GERMANY,Nrnberg,49.45,11.0833,87.188.120.230,normal
+GERMANY,Berlin,52.5,13.4167,80.81.243.235,normal
+GERMANY,Cologne,50.9333,6.95,92.72.8.194,normal
+UNITED STATES,(Unknown city),,,54.237.184.104,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.31.181.242,normal
+UNITED STATES,(Unknown city),,,68.207.221.47,exit
+UNITED STATES,"Boston, MA",42.336,-71.0179,66.31.208.246,exit
+FRANCE,(Unknown city),,,195.154.115.51,exit
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,128.31.0.34,normal
+UNITED STATES,(Unknown city),,,192.3.173.88,normal
+UNITED KINGDOM,(Unknown city),,,82.31.130.253,normal
+UNITED KINGDOM,(Unknown city),,,84.45.76.12 9001 0,normal
+UNITED KINGDOM,(Unknown city),,,81.96.219.84,normal
+UNITED STATES,(Unknown city),,,167.88.25.255,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.117,normal
+GERMANY,(Unknown city),,,213.185.88.230,normal
+GERMANY,Berlin,52.5,13.4167,85.214.144.159,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.187.111.254,normal
+CZECH REPUBLIC,(Unknown city),,,81.2.236.165,exit
+UNITED KINGDOM,Slough,51.5,-0.5833,89.104.33.41,normal
+GERMANY,Neuermark,52.65,11.0333,178.63.0.161,normal
+EUROPEAN UNION,(Unknown city),,,149.210.157.19,exit
+UNITED KINGDOM,Manchester,53.5,-2.25,91.109.144.103,normal
+GERMANY,(Unknown city),,,217.50.174.16,normal
+UNITED STATES,(Unknown city),,,128.52.160.20,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.202.87,normal
+GERMANY,Berlin,52.5,13.4167,78.46.151.19,normal
+GERMANY,Berlin,52.5,13.4167,78.111.78.140,exit
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.51,normal
+GERMANY,(Unknown city),,,84.144.119.123,normal
+CROATIA,(Unknown city),,,213.185.227.85,normal
+NETHERLANDS,Groenlo,52.05,6.6167,77.251.106.248,normal
+LATVIA,(Unknown city),,,95.215.44.105,exit
+BULGARIA,(Unknown city),,,212.7.194.71,normal
+JAPAN,Tokyo,35.6667,139.75,195.154.78.113,normal
+IRELAND,(Unknown city),,,134.226.68.29,normal
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.98.84.40,normal
+AUSTRIA,Hennersdorf,48.1,16.3667,81.217.16.86,normal
+UNITED STATES,(Unknown city),,,149.154.158.122,normal
+GERMANY,Nrnberg,49.45,11.0833,87.161.203.148,exit
+RUSSIAN FEDERATION,(Unknown city),,,83.166.235.134,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,205.185.122.152,normal
+GERMANY,Augsburg,48.3833,10.8833,80.128.126.104,normal
+UNITED KINGDOM,Haverhill,52.0833,0.4333,82.68.158.124,normal
+GERMANY,(Unknown city),,,217.160.126.50,normal
+SWITZERLAND,Baden,47.4667,8.3,84.75.12.73,normal
+UKRAINE,Simferopol',44.95,34.1,195.110.6.31,normal
+GERMANY,Karlsruhe,49.05,8.4,213.165.70.16,exit
+GERMANY,(Unknown city),,,217.228.39.9,normal
+CANADA,"VICTORIA, BC",48.4167,-123.367,24.64.95.184,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,98.218.50.130,normal
+GERMANY,Frankfurt,50.1167,8.68333,89.12.32.144,normal
+SWEDEN,(Unknown city),,,83.249.26.129,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.59.80,normal
+SWEDEN,(Unknown city),,,83.253.187.218 11311 11312,normal
+NETHERLANDS,(Unknown city),,,81.4.121.48,normal
+UNITED KINGDOM,(Unknown city),,,80.68.89.182,normal
+POLAND,(Unknown city),,,62.63.157.78,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,46.167.245.51,normal
+GERMANY,(Unknown city),,,144.76.195.228,normal
+FRANCE,(Unknown city),,,62.210.243.167,normal
+LATVIA,(Unknown city),,,95.215.44.122,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.7.16.29,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.189.238,normal
+FRANCE,(Unknown city),,,62.210.215.93,normal
+UNITED STATES,(Unknown city),,,204.44.122.167,normal
+NETHERLANDS,Amersfoort,52.15,5.3833,82.169.155.72,normal
+FRANCE,(Unknown city),,,195.154.110.76,normal
+UNITED STATES,"Coeur d'Alene, ID",47.6978,-116.785,76.178.140.14,normal
+GERMANY,Berlin,52.5,13.4167,85.214.70.188,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,72.26.208.147,normal
+UNITED STATES,(Unknown city),,,209.239.123.90,exit
+UNITED STATES,(Unknown city),,,66.111.2.20,normal
+AUSTRIA,Strebersdorf,47.45,16.6167,80.108.143.19,normal
+HUNGARY,Budapest,47.5,19.0833,219.121.16.20,exit
+FRANCE,Paris,48.8,2.33333,91.121.85.130,normal
+FRANCE,(Unknown city),,,82.234.193.138,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.238.1.85,exit
+GERMANY,Cologne,50.9333,6.95,148.251.206.134,normal
+GERMANY,Konstanz,47.6667,9.16667,134.34.147.22,normal
+FRANCE,(Unknown city),,,195.154.75.130 443 80,normal
+UNITED STATES,"Puyallup, WA",47.1819,-122.284,67.170.108.180,normal
+JAPAN,Tokyo,35.6667,139.75,195.154.78.53,normal
+GERMANY,Berlin,52.5,13.4167,80.81.243.226,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.106.18,normal
+VIET NAM,Ho Chi Minh City,10.75,106.667,203.113.172.152,normal
+SWEDEN,(Unknown city),,,193.11.166.194,normal
+UNITED STATES,"Phoenix, AZ",33.5425,-112.071,198.211.126.83,normal
+FRANCE,(Unknown city),,,213.44.88.234,exit
+GERMANY,Berlin,52.5,13.4167,85.214.27.44,normal
+GERMANY,Hamburg,53.55,10.0333,77.244.254.227,exit
+UNITED KINGDOM,(Unknown city),,,213.251.187.55,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,193.110.157.151,exit
+SWITZERLAND,(Unknown city),,,195.210.29.124,exit
+UNITED STATES,(Unknown city),,,69.64.52.48,normal
+AUSTRIA,(Unknown city),,,213.47.229.56,normal
+UNITED STATES,(Unknown city),,,64.150.211.132,normal
+GERMANY,(Unknown city),,,144.76.128.35,normal
+SPAIN,(Unknown city),,,80.103.19.45,normal
+UNITED STATES,(Unknown city),,,54.175.13.181,normal
+NETHERLANDS,(Unknown city),,,80.90.43.221,normal
+GREECE,(Unknown city),,,83.212.99.123,normal
+EUROPEAN UNION,(Unknown city),,,145.220.0.15,normal
+FRANCE,Paris,48.8,2.33333,91.121.21.224,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.94.254,normal
+GERMANY,(Unknown city),,,81.169.255.235,normal
+SWEDEN,(Unknown city),,,213.112.198.77,normal
+FRANCE,(Unknown city),,,195.154.81.245,normal
+NETHERLANDS,Den Haag,52.0833,4.31667,94.210.0.28,exit
+UNITED STATES,"Alpena, MI",45.0728,-83.4375,66.255.208.250,exit
+UNITED STATES,"Jupiter, FL",26.9241,-80.1046,24.49.31.179,normal
+UNITED STATES,"Cherry Hill, NJ",39.9023,-74.9961,67.169.45.127,normal
+UNITED STATES,(Unknown city),,,64.22.125.40,normal
+GERMANY,Berlin,52.5,13.4167,78.50.145.76,normal
+HONG KONG,Hong Kong,22.25,114.167,119.246.71.52,normal
+SWEDEN,(Unknown city),,,83.251.81.93,exit
+AUSTRIA,(Unknown city),,,80.78.242.81,exit
+RUSSIAN FEDERATION,Moscow,55.75,37.6,93.175.12.82,normal
+UNITED STATES,(Unknown city),,,69.146.141.186,normal
+UNITED STATES,(Unknown city),,,14.32.206.155,exit
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,72.14.179.10,exit
+FRANCE,Nantes,47.2167,-1.55,78.198.180.205,normal
+FRANCE,Paris,48.8,2.33333,195.154.108.78,normal
+UNITED KINGDOM,(Unknown city),,,81.133.53.86,normal
+UNITED STATES,"Pittsburgh, PA",40.4392,-79.9767,68.71.46.138,normal
+UNITED STATES,(Unknown city),,,167.114.3.144,normal
+SWEDEN,(Unknown city),,,83.249.70.190 9001 9030,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.207,normal
+FRANCE,(Unknown city),,,80.255.3.101,exit
+GERMANY,(Unknown city),,,62.225.200.127,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.9.11,normal
+UNITED STATES,(Unknown city),,,168.235.146.57,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,178.140.92.151,normal
+AUSTRALIA,(Unknown city),,,211.31.11.180,normal
+GERMANY,Nrnberg,49.45,11.0833,87.174.244.97,normal
+UNITED STATES,(Unknown city),,,209.239.123.90,exit
+UNITED STATES,"San Mateo, CA",37.5613,-122.312,216.164.160.164,normal
+UNITED STATES,(Unknown city),,,38.229.79.2,normal
+FRANCE,Nantes,47.2167,-1.55,78.193.103.77,exit
+GERMANY,Altenberge,52.05,7.4667,195.35.109.61,normal
+NETHERLANDS,(Unknown city),,,80.100.206.150,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.195,exit
+FINLAND,(Unknown city),,,193.166.167.69,normal
+GERMANY,Berlin,52.5,13.4167,78.46.105.241,normal
+NETHERLANDS,(Unknown city),,,62.133.130.105,exit
+NETHERLANDS,(Unknown city),,,83.128.200.244,normal
+GERMANY,Dsseldorf,51.2167,6.7667,5.199.142.124,normal
+UNITED STATES,(Unknown city),,,67.84.149.167,normal
+AUSTRALIA,Sydney,-34,151,60.242.183.15,normal
+JAPAN,Kyota,26.5414,127.969,217.115.10.132,exit
+NORWAY,(Unknown city),,,213.167.104.142,normal
+GERMANY,Karlsruhe,49.05,8.4,95.116.78.248,normal
+UNITED STATES,(Unknown city),,,132.147.73.28,normal
+GERMANY,Berlin,52.5,13.4167,78.47.50.92,normal
+CANADA,(Unknown city),,,209.208.79.5,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,24.94.17.214,normal
+UNITED STATES,"Blacksburg, VA",37.2327,-80.4284,128.173.89.244,normal
+UNITED KINGDOM,(Unknown city),,,84.40.98.187,normal
+SWEDEN,(Unknown city),,,83.255.203.172,normal
+SWEDEN,(Unknown city),,,83.233.65.214,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.77 443 80,exit
+GERMANY,Berlin,52.5,13.4167,78.70.10.230,normal
+FRANCE,Champs-Sur-Marne,48.85,2.6,89.156.93.220,normal
+NETHERLANDS,(Unknown city),,,81.4.121.180,normal
+JAPAN,(Unknown city),,,221.113.50.203,normal
+"IRAN, ISLAMIC REPUBLIC OF",Tehran,35.67,51.43,213.138.102.209,normal
+UNITED STATES,(Unknown city),,,32.215.162.74,normal
+UNITED STATES,(Unknown city),,,68.66.154.214,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.176.38.152,normal
+GERMANY,(Unknown city),,,213.73.112.135,normal
+VIET NAM,Ho Chi Minh City,10.75,106.667,203.113.172.154,normal
+GERMANY,Berlin,52.5,13.4167,37.123.112.253,exit
+FRANCE,Fontainebleau,48.4,2.7,88.163.0.252,normal
+HUNGARY,(Unknown city),,,84.2.146.51,exit
+GERMANY,(Unknown city),,,62.75.251.157,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,90.176.164.143,normal
+EUROPEAN UNION,(Unknown city),,,195.140.254.89,normal
+GERMANY,(Unknown city),,,195.93.242.167,normal
+PORTUGAL,Amadora,38.1333,-7.3,81.84.76.67,normal
+GERMANY,Berlin,52.5,13.4167,78.46.197.75 9001 9030,normal
+AUSTRIA,Graz,47.0667,15.45,149.154.152.121,normal
+NETHERLANDS,(Unknown city),,,81.4.110.93,normal
+GERMANY,Hamburg,53.55,10.0333,77.244.254.230,exit
+UNITED KINGDOM,Southampton,50.9,-1.4,212.159.91.22,normal
+UKRAINE,Kharkiv,50,36.25,217.12.199.190 443 80,normal
+UNITED STATES,"San Francisco, CA",37.7749,-122.419,168.103.195.250,normal
+SWEDEN,(Unknown city),,,217.210.140.95,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,93.92.204.6,normal
+ICELAND,Reykjavk,64.15,-21.95,37.235.49.46,normal
+FRANCE,Paris,48.8,2.33333,94.23.194.33,normal
+UNITED STATES,(Unknown city),,,24.21.190.150,normal
+AUSTRIA,Innsbruck,47.2667,11.4,83.175.100.130,normal
+LATVIA,(Unknown city),,,92.63.88.47,normal
+UNITED STATES,(Unknown city),,,216.195.168.84,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.253.20,normal
+UNITED STATES,(Unknown city),,,54.77.63.51,exit
+ROMANIA,Bucharest,44.4167,26.1167,79.115.83.139,normal
+UKRAINE,Poltava,49.5681,37.2475,217.117.76.76,normal
+POLAND,Warsaw,52.2333,21,91.230.204.198,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.78,exit
+UNITED STATES,"Pasadena, CA",34.1607,-118.139,131.215.158.237,normal
+UNITED STATES,(Unknown city),,,216.230.230.156,normal
+UNITED KINGDOM,London,51.5,-0.1167,151.236.222.27,normal
+EGYPT,Cairo,30.0333,31.35,41.215.241.234,normal
+FINLAND,(Unknown city),,,84.248.107.44,normal
+UNITED KINGDOM,(Unknown city),,,212.107.149.145,normal
+ISRAEL,Peta Tiqva,32.0886,34.8722,62.219.46.133,normal
+UNITED STATES,"Pasadena, CA",34.1607,-118.139,131.215.176.98,normal
+UNITED KINGDOM,Blackburn,53.4333,-1.3667,80.229.250.91,normal
+SWEDEN,(Unknown city),,,85.230.251.27,normal
+SPAIN,(Unknown city),,,83.231.18.37,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.29.7.119,normal
+SWEDEN,Lund,55.7,13.1833,81.231.85.115,normal
+GERMANY,Goslar,51.9,10.4333,84.133.105.128,normal
+UNITED STATES,(Unknown city),,,128.52.128.105,exit
+GERMANY,(Unknown city),,,81.169.141.92,normal
+UNITED STATES,(Unknown city),,,149.154.158.228,normal
+HONG KONG,(Unknown city),,,218.191.130.126,exit
+POLAND,Lublin,51.25,22.5667,193.138.118.8,normal
+UNITED STATES,(Unknown city),,,54.82.195.94,normal
+UNITED STATES,(Unknown city),,,154.35.132.83,exit
+AUSTRALIA,(Unknown city),,,211.28.142.239,normal
+NETHERLANDS,(Unknown city),,,82.199.155.89,normal
+UNITED KINGDOM,(Unknown city),,,62.30.125.41,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,89.248.172.137,exit
+UNITED STATES,"Orlando, FL",28.5047,-81.3742,107.161.179.87,normal
+GERMANY,(Unknown city),,,217.254.179.28,normal
+UNITED STATES,(Unknown city),,,167.88.40.152,exit
+UNITED STATES,"Quincy, MA",42.2613,-71.007,37.221.165.229,exit
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.60.232,normal
+GERMANY,Konstanz,47.6667,9.16667,134.34.125.68,normal
+BRAZIL,Caratinga,-19.7833,-42.1333,66.7.205.164,normal
+GERMANY,Karlsruhe,49.05,8.4,212.227.39.82,normal
+UNITED STATES,(Unknown city),,,54.174.246.5,exit
+AUSTRIA,(Unknown city),,,81.217.116.198,normal
+UNITED KINGDOM,Manchester,53.5,-2.25,91.109.247.173,exit
+NETHERLANDS,(Unknown city),,,82.94.215.216,normal
+GERMANY,Bonn,50.7333,7.08333,81.173.240.81,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.100.41.50,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.139.128.149,normal
+SPAIN,Valladolid,41.65,-4.71667,81.172.23.79,normal
+AUSTRIA,(Unknown city),,,84.118.115.212,normal
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.93,exit
+GERMANY,Erfurt,50.9667,11.0167,87.118.94.231,normal
+UNITED STATES,(Unknown city),,,66.8.166.62,normal
+AUSTRIA,(Unknown city),,,62.178.133.159,normal
+NORWAY,(Unknown city),,,82.164.27.228,normal
+FRANCE,(Unknown city),,,212.47.239.71,exit
+UNITED STATES,(Unknown city),,,69.164.197.36,normal
+GERMANY,Karlsruhe,49.05,8.4,81.169.152.100,normal
+GERMANY,Nrnberg,49.45,11.0833,91.9.245.172,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.38.168.107,normal
+GERMANY,Berlin,52.5,13.4167,78.116.55.209,normal
+GERMANY,Aachen,50.7833,6.08333,95.129.55.173,normal
+GERMANY,Cologne,50.9333,6.95,89.0.140.196,normal
+LATVIA,(Unknown city),,,95.215.44.111,normal
+UNITED STATES,"Galway, NY",43.0188,-74.0318,74.207.224.63,normal
+GERMANY,Berlin,52.5,13.4167,176.99.231.13,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,208.84.155.205,normal
+ITALY,Milano,45.45,9.16667,149.154.157.80,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,209.126.71.233,normal
+GERMANY,Berlin,52.5,13.4167,78.49.163.41,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,46.167.245.69,normal
+GERMANY,Munich,48.1333,11.5833,95.91.106.210,normal
+UNITED STATES,(Unknown city),,,167.88.44.52,normal
+AUSTRALIA,Sydney,-34,151,54.252.97.50,normal
+PORTUGAL,(Unknown city),,,84.39.96.196,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.178.5,normal
+UNITED STATES,"Englewood, CO",39.6474,-104.994,198.211.125.242,normal
+FRANCE,Villebon-sur-Yvette,48.7,2.25,88.186.18.12,normal
+FRANCE,Paris,48.8,2.33333,88.166.192.181,exit
+NETHERLANDS,(Unknown city),,,84.104.169.59,normal
+GERMANY,(Unknown city),,,62.75.150.23,exit
+FRANCE,(Unknown city),,,62.210.206.25,exit
+GERMANY,(Unknown city),,,83.135.243.2,normal
+UNITED STATES,(Unknown city),,,14.203.203.72,normal
+FRANCE,(Unknown city),,,80.11.85.92,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.94.254,normal
+CZECH REPUBLIC,(Unknown city),,,84.42.165.162,normal
+UNITED KINGDOM,(Unknown city),,,137.205.124.35,normal
+AUSTRIA,(Unknown city),,,81.217.135.200,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.60.106,normal
+GERMANY,Berlin,52.5,13.4167,78.47.229.104,normal
+UNITED KINGDOM,(Unknown city),,,212.159.177.198,normal
+UNITED STATES,(Unknown city),,,64.74.119.114,normal
+UNITED STATES,(Unknown city),,,54.174.241.61,exit
+SWEDEN,Malm,55.6,13,217.211.159.161,normal
+GERMANY,Darmstadt,49.8706,8.6494,178.63.97.34,exit
+GERMANY,Berlin,52.5,13.4167,78.47.53.183,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.190.83,normal
+UNITED STATES,(Unknown city),,,14.202.108.2,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.26.13,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.51.82 443 80,normal
+NETHERLANDS,(Unknown city),,,82.161.252.162,normal
+FRANCE,Paris,48.8,2.33333,91.121.146.85,normal
+FRANCE,Paris,48.8,2.33333,91.121.166.152,normal
+FRANCE,(Unknown city),,,212.129.4.84,normal
+THAILAND,Bangkok,13.75,100.5,77.109.139.87,exit
+SWEDEN,(Unknown city),,,85.228.198.100,normal
+DENMARK,Tranbjerg,55.5833,8.7,87.57.15.114,normal
+FRANCE,Paris,48.8,2.33333,195.154.103.117,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.197,exit
+UNITED STATES,"Galway, NY",43.0188,-74.0318,74.207.224.63,normal
+FRANCE,Nantes,47.2167,-1.55,78.192.154.198,normal
+CANADA,Montreal,45.5167,-73.5667,206.248.163.244,normal
+GERMANY,Hamburg,53.55,10.0333,77.244.254.228,exit
+GERMANY,Nrnberg,49.45,11.0833,91.5.176.254,normal
+GERMANY,Nrnberg,49.45,11.0833,87.189.73.21,normal
+UNITED STATES,"Yorba Linda, CA",33.8887,-117.766,67.23.43.46,normal
+UNITED STATES,(Unknown city),,,68.69.169.131,normal
+NETHERLANDS,(Unknown city),,,81.4.125.129 9001 0,normal
+UNITED STATES,(Unknown city),,,70.36.56.198,normal
+UNITED STATES,(Unknown city),,,192.34.63.137,normal
+FRANCE,Nantes,47.2167,-1.55,78.193.164.66,normal
+UNITED STATES,"Minneapolis, MN",44.9618,-93.2668,204.246.122.72,normal
+FRANCE,Roubaix,50.7,3.1667,87.98.178.61,exit
+JAPAN,Tokyo,35.6667,139.75,195.154.97.27,normal
+SWEDEN,(Unknown city),,,83.251.90.166,normal
+ROMANIA,Cluj,46.7833,23.6,188.241.113.149,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.196,exit
+RUSSIAN FEDERATION,Moscow,55.75,37.6,77.37.240.142,normal
+AUSTRIA,(Unknown city),,,84.112.238.58,normal
+UNITED STATES,(Unknown city),,,54.174.180.197,exit
+TURKEY,(Unknown city),,,80.71.134.181,normal
+BELGIUM,Leuven,50.8833,4.7,193.190.168.53,normal
+FRANCE,(Unknown city),,,62.210.215.101,normal
+AUSTRIA,Vienna,48.2333,16.3333,86.59.119.82,normal
+CANADA,Montreal,45.5167,-73.5667,198.100.148.123,normal
+UKRAINE,Kharkiv,50,36.25,5.34.183.207,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,205.185.120.178,normal
+HONG KONG,Hong Kong,22.25,114.167,180.235.134.8,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.128.246,normal
+UNITED STATES,"Ames, IA",42.0233,-93.6256,64.113.44.206,exit
+CANADA,"TORONTO, ON",43.65,-79.3833,82.219.9.89,normal
+UNITED KINGDOM,(Unknown city),,,193.164.217.85,normal
+JAPAN,(Unknown city),,,222.11.86.233,normal
+NETHERLANDS,(Unknown city),,,83.160.95.99 9001 9030,exit
+NETHERLANDS,(Unknown city),,,83.87.201.249,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,176.9.38.198,normal
+UNITED KINGDOM,(Unknown city),,,188.165.164.163,normal
+UNITED STATES,"Asheville, NC",35.5741,-82.5488,178.18.16.108,normal
+SLOVAKIA,Bratislava,48.15,17.1167,147.175.187.143,normal
+GERMANY,(Unknown city),,,62.143.161.97,normal
+UNITED STATES,"Englewood, CO",39.6474,-104.994,165.254.255.16 22 0,exit
+ROMANIA,Bucharest,44.4167,26.1167,87.239.162.110,normal
+IRELAND,Dublin,53.3333,-6.25,86.45.79.134,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,64.95.60.75,normal
+AUSTRIA,(Unknown city),,,84.118.136.252,normal
+GERMANY,(Unknown city),,,84.200.83.214 9001 0,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,128.208.2.233,normal
+UNITED STATES,(Unknown city),,,68.113.40.48,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.201,exit
+NETHERLANDS,(Unknown city),,,82.95.235.249,normal
+GERMANY,(Unknown city),,,62.158.67.6,normal
+UNITED STATES,"Chapel Hill, NC",35.9276,-79.0406,152.2.241.113,normal
+ISRAEL,(Unknown city),,,81.218.109.106,normal
+SWEDEN,(Unknown city),,,193.11.164.242 9001 9030,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,23.21.154.194,normal
+UNITED STATES,(Unknown city),,,24.165.123.167,normal
+RUSSIAN FEDERATION,Khabarovsk,48.5,135.1,31.192.108.66,normal
+UNITED STATES,(Unknown city),,,54.165.13.203,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.185.50.8,normal
+UNITED STATES,(Unknown city),,,67.197.110.55,normal
+CANADA,(Unknown city),,,24.156.16.67,normal
+SINGAPORE,(Unknown city),,,210.23.2.30,exit
+DENMARK,(Unknown city),,,62.198.173.123,exit
+FRANCE,Nantes,47.2167,-1.55,78.248.215.89,exit
+ITALY,Rome,41.9,12.45,79.6.174.155,normal
+UNITED STATES,"Mount Pleasant, MI",43.5966,-84.7783,68.188.164.166,normal
+FINLAND,(Unknown city),,,84.248.80.225,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.255.236,exit
+GERMANY,Koeln,50.9333,6.98333,87.230.78.108,normal
+FRANCE,(Unknown city),,,195.154.14.168,normal
+FRANCE,Paris,48.8,2.33333,94.23.198.54,normal
+FRANCE,(Unknown city),,,195.154.255.148,exit
+GERMANY,(Unknown city),,,144.76.53.125,normal
+UNITED KINGDOM,(Unknown city),,,80.42.154.141,exit
+UNITED STATES,(Unknown city),,,134.121.67.106,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.60.34,exit
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.168,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,81.7.8.101,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.207.222 9001 0,normal
+NEW ZEALAND,Johnsonville,-41.2333,174.783,203.86.205.46,normal
+UNITED STATES,(Unknown city),,,149.172.125.243,normal
+GERMANY,(Unknown city),,,193.239.28.135,normal
+GERMANY,(Unknown city),,,139.14.13.236,normal
+FINLAND,(Unknown city),,,193.166.167.68,normal
+UNITED STATES,(Unknown city),,,192.3.164.227,normal
+COLOMBIA,Bogot,10.4,-75.2833,186.85.183.40,normal
+GERMANY,Berlin,52.5,13.4167,78.85.190.133,normal
+FRANCE,(Unknown city),,,62.210.122.50,normal
+GERMANY,Frankfurt Am Main,50.1167,8.6833,46.165.196.184,exit
+GERMANY,Frankfurt,50.1167,8.68333,178.162.194.82,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.113.88,normal
+ROMANIA,Bucharest,44.4167,26.1167,86.127.190.214,normal
+FRANCE,(Unknown city),,,85.69.93.46,exit
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.68.72.214,normal
+GREECE,(Unknown city),,,139.91.70.107,normal
+AUSTRALIA,Canberra,-35.2833,149.133,121.45.218.89,normal
+POLAND,Katowice,50.2333,19.0333,213.25.24.96,normal
+TURKEY,Antalya,36.8833,30.7,78.162.23.57,normal
+FRANCE,(Unknown city),,,81.167.5.63,normal
+CANADA,(Unknown city),,,68.151.214.178,normal
+UNITED STATES,"Cartersville, GA",34.1674,-84.8014,69.164.206.176,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,80.57.63.179,normal
+NETHERLANDS,(Unknown city),,,82.161.182.20,normal
+FRANCE,(Unknown city),,,62.210.84.4,normal
+UNITED STATES,"Brea, CA",33.9236,-117.867,173.236.255.142 9009 9030,normal
+FRANCE,(Unknown city),,,195.154.116.232,normal
+FRANCE,(Unknown city),,,213.246.61.74,exit
+DENMARK,(Unknown city),,,80.161.92.225,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.32.154 443 80,normal
+AUSTRIA,(Unknown city),,,81.189.31.247,normal
+SWEDEN,(Unknown city),,,83.254.211.180,normal
+ITALY,(Unknown city),,,62.152.43.203,normal
+UNITED STATES,"Norwalk, CT",41.0939,-73.4202,67.86.79.185,exit
+NORWAY,(Unknown city),,,213.167.104.143,normal
+GREECE,(Unknown city),,,83.212.168.186,normal
+NETHERLANDS,(Unknown city),,,89.105.197.134,normal
+AUSTRIA,Graz,47.0667,15.45,212.17.102.77,normal
+FRANCE,Paris,48.8,2.33333,91.121.82.16,normal
+NETHERLANDS,(Unknown city),,,83.161.152.50 21 0,normal
+HUNGARY,(Unknown city),,,193.224.163.43,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.34.205.208,normal
+FRANCE,(Unknown city),,,195.154.76.33,exit
+ROMANIA,Cluj-Napoca,46.7667,23.6,188.241.114.81,normal
+EUROPEAN UNION,(Unknown city),,,194.150.168.95,exit
+GERMANY,(Unknown city),,,84.132.61.156,exit
+GERMANY,Karlsruhe,49.05,8.4,95.120.131.131,normal
+EUROPEAN UNION,(Unknown city),,,193.109.69.5,exit
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.7,exit
+UNITED STATES,(Unknown city),,,69.64.51.169,exit
+GREECE,Athens,37.9667,23.7167,87.203.194.212,normal
+GERMANY,Nrnberg,49.45,11.0833,87.188.193.125,exit
+EUROPEAN UNION,(Unknown city),,,193.25.173.21,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.109.229,normal
+GERMANY,(Unknown city),,,85.93.17.31,normal
+UNITED STATES,(Unknown city),,,216.12.198.84,normal
+NETHERLANDS,(Unknown city),,,84.31.200.85,normal
+UNITED STATES,(Unknown city),,,54.76.154.168,exit
+GERMANY,Nrnberg,49.45,11.0833,87.155.251.70,normal
+GERMANY,(Unknown city),,,213.136.69.237,normal
+FINLAND,(Unknown city),,,193.166.167.91,normal
+UNITED STATES,(Unknown city),,,63.249.90.248,normal
+SWEDEN,(Unknown city),,,83.248.14.133,normal
+GERMANY,Neuermark,52.65,11.0333,5.9.107.38,exit
+UNITED STATES,(Unknown city),,,167.114.3.166 443 80,normal
+POLAND,(Unknown city),,,83.26.125.36,normal
+FINLAND,(Unknown city),,,193.166.167.71,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.132.246,normal
+GERMANY,(Unknown city),,,80.137.177.163,normal
+TURKEY,Denizli,37.7667,29.1,85.98.5.179,normal
+GERMANY,(Unknown city),,,62.116.177.136 9001 0,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.79.35.254,normal
+UNITED STATES,(Unknown city),,,54.251.193.28,normal
+CANADA,"MONTRAL, QC",45.5124,-73.6756,67.205.89.142,normal
+CANADA,(Unknown city),,,130.63.173.126,normal
+SWEDEN,(Unknown city),,,85.229.195.220,normal
+GERMANY,Koeln,50.9333,6.98333,82.82.154.181,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,94.242.58.159 443 0,normal
+GERMANY,Nrnberg,49.45,11.0833,87.149.67.194,normal
+NETHERLANDS,(Unknown city),,,81.71.93.106,normal
+UNITED KINGDOM,London,51.5,-0.1167,94.6.146.238,normal
+ISRAEL,(Unknown city),,,82.102.142.210,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,83.237.11.167,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.225.167,normal
+GERMANY,Eschborn,50.1333,8.55,88.77.155.180,exit
+UNITED STATES,"Portland, OR",45.5382,-122.656,69.163.35.222,normal
+GERMANY,(Unknown city),,,62.75.159.249,normal
+UNITED STATES,(Unknown city),,,68.228.243.20,normal
+FRANCE,(Unknown city),,,82.245.197.163,normal
+FRANCE,(Unknown city),,,212.83.158.5,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,198.199.119.74,normal
+NETHERLANDS,(Unknown city),,,212.64.32.68,normal
+FRANCE,(Unknown city),,,212.198.201.36,normal
+GERMANY,Berlin,52.5,13.4167,85.214.211.140,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,77.109.141.140,exit
+EGYPT,Gizeh,30.0033,31.1756,192.162.100.213,normal
+UNITED KINGDOM,(Unknown city),,,81.7.7.119 443 9030,normal
+FINLAND,(Unknown city),,,193.166.167.90,normal
+SWITZERLAND,Zurich,47.35,8.51667,195.202.196.109,normal
+FRANCE,Paris,48.8,2.33333,94.23.36.52,normal
+GERMANY,Eschborn,50.1333,8.55,88.77.180.176,normal
+JAPAN,Kyota,26.5414,127.969,217.115.10.134,exit
+UNITED STATES,"Reston, VA",38.95,-77.35,96.255.72.217,normal
+ITALY,(Unknown city),,,212.51.156.174,normal
+AUSTRALIA,Canberra,-35.2833,149.133,114.181.253.234,normal
+GERMANY,Berlin,52.5,13.4167,130.149.203.107,normal
+HUNGARY,(Unknown city),,,84.236.116.214,normal
+SWEDEN,(Unknown city),,,193.11.114.46,normal
+GERMANY,Karlsruhe,49.05,8.4,213.165.85.70,normal
+UNITED STATES,(Unknown city),,,67.82.240.175,normal
+GERMANY,Berlin,52.5,13.4167,146.0.42.58,normal
+UNITED STATES,(Unknown city),,,54.77.6.140,normal
+GERMANY,Karlsruhe,49.05,8.4,95.119.49.57,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.3.63,normal
+UNITED STATES,(Unknown city),,,68.233.235.217,exit
+BULGARIA,Sofia,42.6833,23.3167,62.44.127.184,normal
+UNITED KINGDOM,London,51.5,-0.1167,81.151.208.188,normal
+UNITED STATES,(Unknown city),,,206.55.74.1,normal
+UNITED STATES,"Tampa, FL",27.959,-82.4821,96.31.67.15,normal
+GERMANY,Darmstadt,49.8706,8.6494,217.224.53.15,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,70.113.118.232,exit
+NORWAY,(Unknown city),,,128.39.142.20,exit
+AUSTRIA,(Unknown city),,,193.80.80.112,normal
+UNITED STATES,(Unknown city),,,198.211.122.191,exit
+FRANCE,(Unknown city),,,195.154.83.60,normal
+EUROPEAN UNION,(Unknown city),,,151.31.160.178,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,162.243.72.198,normal
+FRANCE,(Unknown city),,,212.47.233.0,exit
+AUSTRALIA,(Unknown city),,,202.7.244.8,normal
+EUROPEAN UNION,(Unknown city),,,195.225.211.26,normal
+NORWAY,Oslo,59.95,10.7,193.157.115.250,normal
+ICELAND,(Unknown city),,,82.221.105.61,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.196.68,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,213.197.22.124,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,146.185.150.219,normal
+NETHERLANDS,(Unknown city),,,81.4.103.106,exit
+THAILAND,Bangkok,13.75,100.5,77.109.139.27,exit
+UNITED KINGDOM,Guernsey,49.45,-2.6,80.73.211.176,normal
+FRANCE,(Unknown city),,,195.154.126.43,exit
+UNITED STATES,"San Luis Obispo, CA",35.2729,-120.665,66.215.51.150,normal
+UNITED STATES,"Burlington, VT",44.4881,-73.2262,76.119.135.53,normal
+GREECE,(Unknown city),,,83.212.126.211,normal
+FRANCE,(Unknown city),,,212.47.232.29,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.255.236,exit
+PHILIPPINES,Manila,14.5833,120.95,89.18.172.139,normal
+GERMANY,Erfurt,50.9667,11.0167,87.118.112.173,exit
+GERMANY,(Unknown city),,,79.140.39.202,normal
+NETHERLANDS,(Unknown city),,,84.104.97.25,normal
+UNITED STATES,"New Port Richey, FL",28.2477,-82.7178,64.58.200.92 9001 9030,normal
+GERMANY,Berlin,52.5,13.4167,178.77.122.89,normal
+ITALY,(Unknown city),,,94.198.100.18,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.108.112.15,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.85.10.71,exit
+GERMANY,Essen,51.4667,7.01667,46.38.233.242,normal
+FRANCE,(Unknown city),,,62.4.13.13,normal
+UNITED STATES,(Unknown city),,,54.77.142.199,exit
+FRANCE,Genlis,47.2333,5.2167,88.174.124.101,normal
+UNITED STATES,(Unknown city),,,206.23.240.28,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,50.116.1.136,normal
+SWEDEN,(Unknown city),,,62.80.200.132 9001 9030,normal
+UNITED STATES,(Unknown city),,,24.131.142.185,normal
+GERMANY,Berlin,52.5,13.4167,78.101.217.117,normal
+GERMANY,Kaltenweide,52.4833,9.7333,79.201.253.106,normal
+GREECE,(Unknown city),,,83.212.84.24,normal
+GERMANY,Nrnberg,49.45,11.0833,88.198.25.76,normal
+FRANCE,(Unknown city),,,83.156.0.88,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.52.239,normal
+GERMANY,Frankfurt,50.1167,8.68333,178.162.194.210,normal
+SWITZERLAND,(Unknown city),,,80.218.136.26,normal
+GERMANY,Gladbeck,51.5667,6.9833,80.138.244.84,normal
+GERMANY,Berlin,52.5,13.4167,78.47.49.235,normal
+UNITED STATES,"Stanford, CA",37.424,-122.165,128.12.226.82,normal
+CANADA,"BARRIE, ON",44.3833,-79.7,206.248.167.46,normal
+FRANCE,Nantes,47.2167,-1.55,78.211.214.59,normal
+UNITED STATES,(Unknown city),,,67.205.112.74,normal
+GERMANY,Muenchen,48.15,11.5833,88.217.171.225 9001 0,normal
+NETHERLANDS,(Unknown city),,,81.4.126.121 9001 0,normal
+AUSTRIA,(Unknown city),,,128.130.204.91,normal
+SWEDEN,(Unknown city),,,83.253.138.44,exit
+GERMANY,Berlin,52.5,13.4167,78.55.29.29,normal
+SWEDEN,(Unknown city),,,109.74.0.88,normal
+AUSTRALIA,(Unknown city),,,203.206.140.86,normal
+UNITED STATES,(Unknown city),,,67.227.240.196,normal
+CANADA,"KITCHENER, ON",43.45,-80.4833,198.96.155.3,exit
+FRANCE,(Unknown city),,,195.154.175.20,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.53.18,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,70.114.1.145,exit
+UNITED STATES,(Unknown city),,,68.204.112.14,normal
+UNITED STATES,(Unknown city),,,54.66.217.36,normal
+UNITED STATES,"Richardson, TX",32.9728,-96.7098,76.217.13.148,normal
+FRANCE,(Unknown city),,,195.154.14.40 9001 9030,normal
+RUSSIAN FEDERATION,(Unknown city),,,217.114.218.18,normal
+UNITED STATES,(Unknown city),,,54.94.139.167,normal
+FINLAND,(Unknown city),,,82.181.176.64,normal
+GERMANY,(Unknown city),,,213.185.88.234,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.9 80 443,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,178.21.112.218,normal
+ITALY,(Unknown city),,,62.152.33.136,normal
+UNITED STATES,(Unknown city),,,24.185.62.80,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,94.242.58.70,normal
+UNITED STATES,(Unknown city),,,216.66.85.146 443 993,normal
+UNITED STATES,"Santa Monica, CA",34.0134,-118.493,98.112.63.250,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.131.197.18,normal
+UNITED STATES,"Sacramento, CA",38.5668,-121.467,209.162.33.207,exit
+GERMANY,Berlin,52.5,13.4167,78.54.145.124,exit
+NETHERLANDS,(Unknown city),,,81.4.109.208,normal
+FINLAND,(Unknown city),,,82.181.188.40,normal
+UNITED KINGDOM,London,51.5,-0.1167,92.233.120.11,normal
+UNITED KINGDOM,London,51.5,-0.1167,90.214.134.162,normal
+GERMANY,Hamburg,53.55,10.0333,92.225.91.170,normal
+NETHERLANDS,(Unknown city),,,84.84.56.103,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.18.214.123,normal
+UNITED KINGDOM,(Unknown city),,,83.167.185.35,normal
+UKRAINE,(Unknown city),,,62.16.16.124,normal
+POLAND,Gdansk,54.3833,18.8333,217.153.16.81,normal
+GERMANY,Berlin,52.5,13.4167,78.47.171.166,normal
+GERMANY,Berlin,52.5,13.4167,78.46.64.245,normal
+UNITED STATES,(Unknown city),,,130.253.21.123,normal
+UNITED STATES,(Unknown city),,,24.62.132.171,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.156.199,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,71.251.206.3,exit
+GERMANY,(Unknown city),,,84.147.207.125,normal
+SWITZERLAND,Zurich,47.35,8.51667,77.56.86.220,normal
+ITALY,(Unknown city),,,94.198.100.17,exit
+FRANCE,(Unknown city),,,212.198.227.145,normal
+FRANCE,(Unknown city),,,195.154.75.165,normal
+FRANCE,(Unknown city),,,195.154.118.172,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.8,normal
+FRANCE,(Unknown city),,,195.154.42.101 9001 9030,normal
+SAMOA,Apia,-13.8333,-171.733,208.111.35.80,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.211.41,normal
+DENMARK,Taastrup,54.9667,12.35,80.167.112.238,normal
+NETHERLANDS,(Unknown city),,,82.169.36.150,normal
+GERMANY,(Unknown city),,,85.181.169.152,normal
+ISRAEL,(Unknown city),,,212.117.143.74,normal
+UNITED KINGDOM,(Unknown city),,,82.145.52.194,normal
+SWEDEN,Skovde,58.3833,13.8833,62.181.238.186,normal
+FRANCE,(Unknown city),,,212.47.232.81,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,24.16.68.76,normal
+GERMANY,Fulda,50.55,9.6667,94.79.149.166,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.197.25,normal
+GERMANY,(Unknown city),,,84.62.230.192,normal
+GERMANY,Erfurt,50.9667,11.0167,87.118.105.112,normal
+UNITED STATES,(Unknown city),,,54.174.194.112,exit
+RUSSIAN FEDERATION,Moscow,55.75,37.6,77.37.218.145,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.26.56.228,normal
+IRAQ,Baghdd,33.3386,44.3939,97.107.139.108 9001 9030,normal
+UNITED STATES,(Unknown city),,,64.87.19.244,exit
+FINLAND,(Unknown city),,,82.128.227.184,normal
+JAPAN,Yokohama,35.45,139.65,107.191.108.203,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.162.89.90,normal
+UNITED STATES,(Unknown city),,,54.185.163.226,normal
+UNITED STATES,"Fort Collins, CO",40.5555,-105.068,199.254.238.52,normal
+NETHERLANDS,(Unknown city),,,77.247.181.163,exit
+UNITED STATES,"Jersey City, NJ",40.7113,-74.065,69.141.43.197,normal
+GERMANY,Nrnberg,49.45,11.0833,87.190.238.25,normal
+CZECH REPUBLIC,Karvin 4,49.8333,18.5667,217.195.170.145,normal
+GERMANY,(Unknown city),,,62.143.145.190,normal
+SWITZERLAND,(Unknown city),,,212.224.127.210,normal
+GERMANY,Nrnberg,49.45,11.0833,213.133.109.165,normal
+NETHERLANDS,Sneek,53.0333,5.6667,82.161.50.30,normal
+FRANCE,(Unknown city),,,62.210.170.27,exit
+FINLAND,(Unknown city),,,80.220.82.116,normal
+SWITZERLAND,(Unknown city),,,80.219.113.60,normal
+GERMANY,Berlin,52.5,13.4167,78.156.119.200,normal
+NETHERLANDS,(Unknown city),,,81.4.105.228,normal
+UNITED STATES,(Unknown city),,,167.114.41.11,normal
+CANADA,Montreal,45.5167,-73.5667,74.59.167.96,normal
+NETHERLANDS,(Unknown city),,,81.4.109.125,normal
+DENMARK,Copenhagen,55.6667,12.5667,87.72.73.231,normal
+AUSTRIA,(Unknown city),,,80.111.236.15,normal
+GERMANY,Berlin,52.5,13.4167,78.47.253.173,normal
+NORWAY,(Unknown city),,,85.166.130.192,exit
+GERMANY,(Unknown city),,,217.197.86.173,normal
+GERMANY,Berlin,52.5,13.4167,188.138.9.208,normal
+SWEDEN,Tyres,59.2333,18.3,85.224.104.162,normal
+GERMANY,Berlin,52.5,13.4167,78.27.110.87,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,95.84.198.52,normal
+UNITED STATES,(Unknown city),,,54.186.17.117,normal
+GERMANY,(Unknown city),,,84.200.73.238,normal
+SWITZERLAND,Nottwil,47.1333,8.1333,62.202.39.157,normal
+UNITED KINGDOM,(Unknown city),,,213.108.105.253,exit
+BULGARIA,(Unknown city),,,84.43.128.36,normal
+AUSTRIA,Graz,47.0667,15.45,149.154.152.32,normal
+ROMANIA,Bucharest,44.4167,26.1167,109.163.234.7,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.25.214,normal
+GERMANY,Berlin,52.5,13.4167,78.47.188.4,normal
+ARGENTINA,Buenos Aires,-34.5833,-58.3667,88.217.115.209,normal
+DENMARK,Jordrup,55.55,9.3167,87.104.133.98,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,77.37.136.165,normal
+UNITED STATES,"Salt Lake City, UT",40.7773,-111.93,166.70.15.14,exit
+FRANCE,(Unknown city),,,195.154.109.203 443 80,normal
+GERMANY,Berlin,52.5,13.4167,78.102.207.115,normal
+UNITED KINGDOM,(Unknown city),,,213.186.7.232,exit
+THAILAND,Bangkok,13.75,100.5,77.109.139.26,exit
+FRANCE,Roubaix,50.7,3.1667,188.165.213.156,normal
+FRANCE,(Unknown city),,,62.210.182.188,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.169.35.173,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,64.78.150.158,normal
+UNITED STATES,(Unknown city),,,54.77.143.74,exit
+FRANCE,Bordeaux,44.8333,-0.516667,5.39.89.124,normal
+GREECE,(Unknown city),,,83.212.113.133,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.251.199.174,normal
+FRANCE,(Unknown city),,,80.67.172.19,normal
+COTE D'IVOIRE,Abidjan,5.3167,-4.0333,69.162.139.9,exit
+GERMANY,Bremen,53.08,8.81,217.85.252.102,normal
+UNITED STATES,"Stanford, CA",37.424,-122.165,128.12.226.56,normal
+UNITED KINGDOM,(Unknown city),,,81.102.155.63,normal
+UNITED KINGDOM,(Unknown city),,,212.224.84.234,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.133.103.237,exit
+FRANCE,Paris,48.8,2.33333,94.23.56.31,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.47.53,exit
+ITALY,(Unknown city),,,212.51.156.90,normal
+UNITED KINGDOM,Woking,51.3167,-0.5333,77.99.159.131,normal
+UNITED KINGDOM,London,51.5,-0.1167,81.152.208.48,normal
+FRANCE,(Unknown city),,,195.154.10.155,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,71.35.177.34,normal
+ITALY,(Unknown city),,,212.71.249.69,normal
+GERMANY,Stuttgart,48.7667,9.18333,81.20.132.158,normal
+UNITED STATES,"Logan, UT",41.74,-111.835,129.123.7.39,normal
+SWEDEN,(Unknown city),,,193.183.99.84,normal
+FRANCE,(Unknown city),,,193.107.85.57,exit
+UNITED KINGDOM,Brighton,50.8333,-0.15,82.1.128.70,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.48.199.243,normal
+AFGHANISTAN,Kandahr,31.6167,65.7167,173.254.216.69,exit
+EUROPEAN UNION,(Unknown city),,,151.16.194.43,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.209.244,normal
+UNITED KINGDOM,(Unknown city),,,84.40.98.187,normal
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.146,normal
+SWEDEN,(Unknown city),,,213.100.97.215,normal
+UNITED STATES,"Lacey, WA",47.0331,-122.806,207.108.218.186,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.94.69,normal
+NETHERLANDS,(Unknown city),,,62.195.147.181,exit
+IRELAND,(Unknown city),,,84.211.70.74,normal
+SWEDEN,Tullinge,59.1833,17.9,82.182.180.15,normal
+NETHERLANDS,(Unknown city),,,192.42.116.161,normal
+UNITED STATES,(Unknown city),,,54.154.10.134,exit
+FRANCE,(Unknown city),,,82.229.138.31,normal
+SWITZERLAND,Zrich,47.3667,8.55,84.72.21.163,normal
+UNITED STATES,(Unknown city),,,192.3.180.38,exit
+GERMANY,Erlangen,49.6,11.0167,88.217.96.75,normal
+GERMANY,(Unknown city),,,81.169.209.58,normal
+UNITED KINGDOM,(Unknown city),,,193.164.133.53,normal
+UNITED STATES,"Lancaster, PA",40.0419,-76.3012,209.222.8.196 443 80,exit
+UNITED STATES,"Stillwater, OK",36.131,-97.0717,139.78.141.247,normal
+CANADA,(Unknown city),,,66.131.192.211,normal
+UNITED STATES,(Unknown city),,,8.28.87.108,exit
+UNITED STATES,"Portland, OR",45.5382,-122.656,24.22.107.72,normal
+SWEDEN,(Unknown city),,,83.255.102.69,normal
+BULGARIA,Sofia,42.6833,23.3167,79.132.30.160,normal
+UNITED STATES,(Unknown city),,,24.8.76.174,normal
+UNITED KINGDOM,(Unknown city),,,62.108.36.173,normal
+UNITED STATES,(Unknown city),,,192.0.157.41,normal
+PANAMA,Panam,8.9667,-79.5333,190.120.228.30,normal
+UNITED STATES,"San Francisco, CA",37.7749,-122.419,65.49.60.164,exit
+FRANCE,Nantes,47.2167,-1.55,78.193.40.205,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,107.21.133.30,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,95.84.148.173,normal
+UNITED STATES,(Unknown city),,,54.77.162.125,exit
+FRANCE,Verdun,42.8,1.6833,80.248.208.131,exit
+IRELAND,(Unknown city),,,84.215.42.172,normal
+GERMANY,(Unknown city),,,84.172.233.96,normal
+JAPAN,(Unknown city),,,220.57.66.142,normal
+SWITZERLAND,(Unknown city),,,83.78.122.10,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,5.79.78.97,exit
+UNITED KINGDOM,London,51.5,-0.1167,37.130.227.134 443 80,exit
+ITALY,(Unknown city),,,212.12.203.39,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.1.223.143,normal
+NETHERLANDS,Rotterdam,51.9167,4.48333,84.104.55.240,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,67.68.147.189,normal
+GERMANY,(Unknown city),,,84.156.160.49,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.60.142 9001 9030,normal
+FRANCE,(Unknown city),,,82.247.103.117,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.35.232,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,66.228.62.91,normal
+IRELAND,(Unknown city),,,83.167.228.107,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.79.144.28,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,78.107.237.16,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.231.129,normal
+GERMANY,Bren,49.3667,6.6667,84.139.114.126,normal
+GERMANY,Berlin,52.5,13.4167,78.47.93.200,normal
+NEW ZEALAND,(Unknown city),,,210.54.38.226,normal
+FRANCE,Paris,48.8,2.33333,94.23.30.53,exit
+AUSTRALIA,(Unknown city),,,202.189.69.148,exit
+GERMANY,Nuremberg,49.45,11.0667,213.239.217.228,normal
+HUNGARY,Budapest,47.5,19.0833,78.131.56.134 110 143,normal
+SWITZERLAND,Zurich,47.35,8.51667,62.228.117.133,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.209.229,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,76.74.178.246,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.239.0.140,exit
+GERMANY,Berlin,52.5,13.4167,81.169.130.214,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,131.72.136.199,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.252.41,exit
+ITALY,(Unknown city),,,217.146.75.36,normal
+GERMANY,Karlsruhe,49.05,8.4,212.227.38.247,exit
+SPAIN,Pontevedra,42.4333,-8.6333,77.228.175.74,normal
+UNITED STATES,(Unknown city),,,66.180.193.219,exit
+GERMANY,Erfurt,50.9667,11.0167,87.118.118.12,normal
+DENMARK,Copenhagen,55.6667,12.5667,192.38.109.144,normal
+NEW ZEALAND,(Unknown city),,,210.54.38.149,normal
+GERMANY,Hamburg,53.55,10.0333,92.224.199.170,normal
+UNITED KINGDOM,(Unknown city),,,82.10.114.182,normal
+UNITED STATES,"Fort Collins, CO",40.5555,-105.068,199.254.238.44,exit
+NETHERLANDS,Rotterdam,51.9167,4.48333,80.57.124.58,normal
+UNITED STATES,"St Louis, MO",38.6361,-90.2443,71.89.21.133,normal
+UNITED STATES,(Unknown city),,,54.148.31.225,normal
+UNITED STATES,(Unknown city),,,68.52.33.36,normal
+SWITZERLAND,(Unknown city),,,212.35.3.35,normal
+UNITED STATES,"Lake Forest, IL",42.2363,-87.8576,24.13.147.132,normal
+AUSTRALIA,Canberra,-35.2833,149.133,121.45.218.89,normal
+UNITED STATES,"Portland, OR",45.5382,-122.656,70.99.204.97,normal
+FRANCE,(Unknown city),,,62.210.215.60,normal
+TAIWAN,Hsin-chu,23.0167,120.267,140.113.110.11,exit
+RUSSIAN FEDERATION,(Unknown city),,,217.16.182.20,normal
+UNITED STATES,(Unknown city),,,167.114.2.192,normal
+UNITED STATES,"Westminster, CO",39.8815,-105.051,24.8.129.223,normal
+UNITED STATES,"Arlington, MA",42.4186,-71.1644,98.110.161.33,normal
+FRANCE,(Unknown city),,,195.154.15.188,exit
+NEW ZEALAND,Auckland,-36.8667,174.75,60.234.119.100,normal
+AUSTRIA,(Unknown city),,,213.143.122.2,normal
+SWEDEN,(Unknown city),,,193.11.166.194,normal
+SWEDEN,(Unknown city),,,83.250.160.191,normal
+GERMANY,Munich,48.1333,11.5833,178.26.198.187,normal
+FRANCE,(Unknown city),,,62.210.137.230,normal
+FRANCE,(Unknown city),,,82.234.141.197,normal
+JAPAN,Tokyo,35.6667,139.75,195.154.78.115,normal
+SWEDEN,Tingstad,57.7333,11.9833,83.233.11.119,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,109.120.182.17,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,98.216.168.108,normal
+UNITED STATES,"Kansas City, MO",39.1223,-94.552,192.187.106.146,normal
+UNITED STATES,"Brea, CA",33.9236,-117.867,173.236.250.211 443 80,normal
+GERMANY,Mlheim,49.9167,7.0167,80.152.239.23,normal
+ICELAND,Reykjavk,64.15,-21.95,37.235.49.124,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.27.216.191,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,188.255.112.224,exit
+GERMANY,(Unknown city),,,217.228.106.108,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.94.145.100,normal
+NETHERLANDS,(Unknown city),,,83.160.143.61,normal
+GERMANY,(Unknown city),,,217.160.24.166,exit
+UNITED KINGDOM,(Unknown city),,,81.7.14.246 443 80,normal
+EUROPEAN UNION,(Unknown city),,,151.3.17.235,exit
+FRANCE,(Unknown city),,,195.154.81.227,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.249.219,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.237.104,normal
+SPAIN,Madrid,40.4333,-3.7,81.61.8.243,normal
+GERMANY,Berlin,52.5,13.4167,78.8.164.38,exit
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.26.183,normal
+FRANCE,Paris,48.8,2.33333,37.59.67.101,exit
+UNITED STATES,(Unknown city),,,192.30.34.248 9001 0,normal
+SWEDEN,(Unknown city),,,83.177.167.50,exit
+GERMANY,(Unknown city),,,213.9.93.174,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.49.113,exit
+BELGIUM,(Unknown city),,,83.101.67.31,normal
+FRANCE,(Unknown city),,,212.47.229.71,normal
+FRANCE,(Unknown city),,,80.255.3.101,exit
+ITALY,(Unknown city),,,94.198.100.24,normal
+UNITED STATES,(Unknown city),,,154.35.32.5,normal
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,71.75.201.64,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.182.90.70,normal
+GERMANY,Muenchen,48.15,11.5833,93.104.209.158,normal
+SWITZERLAND,(Unknown city),,,62.220.148.97,normal
+GERMANY,Berlin,52.5,13.4167,85.214.126.249,normal
+UNITED KINGDOM,London,51.5,-0.1167,88.208.205.138 443 80,normal
+GERMANY,Berlin,52.5,13.4167,78.46.151.11,normal
+UNITED STATES,(Unknown city),,,54.173.104.144,normal
+RUSSIAN FEDERATION,Volkhov,58.3333,33.5333,194.48.218.49,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.62.18.215,normal
+UNITED STATES,(Unknown city),,,54.88.165.229,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.149.213,normal
+NORWAY,(Unknown city),,,128.39.142.21,exit
+GERMANY,Nrnberg,49.45,11.0833,87.178.224.18,normal
+UNITED STATES,(Unknown city),,,69.164.211.18,normal
+GERMANY,Nrnberg,49.45,11.0833,91.4.59.103,normal
+FRANCE,(Unknown city),,,212.83.162.152,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.0.220.129,normal
+POLAND,(Unknown city),,,89.248.166.121,exit
+UNITED STATES,(Unknown city),,,38.124.124.141,normal
+UNITED STATES,"Salt Lake City, UT",40.7773,-111.93,199.192.96.113,normal
+RUSSIAN FEDERATION,(Unknown city),,,212.24.36.205,normal
+UNITED STATES,"San Francisco, CA",37.7749,-122.419,69.181.126.27,normal
+UNITED STATES,(Unknown city),,,66.220.3.179,exit
+UNITED STATES,(Unknown city),,,69.250.18.13,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.193.135 110 0,normal
+FRANCE,Nantes,47.2167,-1.55,78.192.241.75,normal
+SWEDEN,(Unknown city),,,81.232.45.197,normal
+UNITED STATES,(Unknown city),,,192.34.59.48,exit
+EGYPT,Ramadan City,30.25,31.75,41.223.53.141,exit
+POLAND,(Unknown city),,,94.100.18.162,normal
+NORWAY,(Unknown city),,,134.119.3.164,normal
+FINLAND,Helsinki,60.2667,25,82.181.47.162,normal
+GERMANY,Eschborn,50.1333,8.55,88.73.43.237,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.153.242,normal
+FRANCE,(Unknown city),,,212.83.148.205,normal
+GERMANY,(Unknown city),,,213.95.21.59,exit
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.50.138,normal
+UNITED STATES,"Tempe, AZ",33.3884,-111.931,66.85.131.72,exit
+UNITED STATES,(Unknown city),,,66.228.54.195,normal
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,94.242.58.190,normal
+SWITZERLAND,(Unknown city),,,84.72.213.221,normal
+BELGIUM,Vilvoorde,50.9333,4.43333,84.198.99.115,normal
+UNITED STATES,"San Mateo, CA",37.5613,-122.312,64.254.175.3,normal
+GERMANY,Lollar,50.65,8.7,85.212.25.227,normal
+ITALY,Rome,41.9,12.45,79.24.58.195,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.81.105.219,normal
+UNITED STATES,"Miami, FL",25.7757,-80.2108,149.9.0.27,normal
+GERMANY,Freising,48.4,11.7333,84.56.51.222,normal
+CANADA,Montreal,45.5167,-73.5667,198.245.62.104,normal
+FRANCE,(Unknown city),,,212.129.16.182,normal
+GERMANY,Nrnberg,49.45,11.0833,87.150.147.162,normal
+MALAYSIA,(Unknown city),,,210.186.141.195,normal
+AUSTRALIA,Melbourne,-37.7833,144.967,58.96.78.93,normal
+FRANCE,(Unknown city),,,195.88.84.59,normal
+UNITED STATES,(Unknown city),,,24.90.197.246,exit
+RUSSIAN FEDERATION,Davydovo,46.7,142.733,64.22.71.226,normal
+UNITED STATES,"Kansas City, KS",39.1184,-94.727,192.200.236.32,normal
+NETHERLANDS,(Unknown city),,,82.157.147.128,normal
+UNITED STATES,(Unknown city),,,24.255.140.138,normal
+FRANCE,(Unknown city),,,195.154.114.185,normal
+GERMANY,Nrnberg,49.45,11.0833,213.239.212.20,normal
+UNITED STATES,(Unknown city),,,69.164.207.234,exit
+GERMANY,Nrnberg,49.45,11.0833,87.156.87.68,normal
+NETHERLANDS,(Unknown city),,,81.4.111.129,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.20.171.7,normal
+GERMANY,Berlin,52.5,13.4167,188.138.9.49,exit
+UNITED STATES,"Herndon, VA",38.9692,-77.3873,74.77.36.63,normal
+VIET NAM,Ho Chi Minh City,10.75,106.667,203.113.172.149,normal
+PORTUGAL,(Unknown city),,,84.39.19.32,normal
+UNITED STATES,(Unknown city),,,209.44.114.178,normal
+AFGHANISTAN,Kandahr,31.6167,65.7167,173.254.216.68,exit
+UNITED STATES,(Unknown city),,,153.90.6.12,normal
+FRANCE,(Unknown city),,,195.154.117.163,normal
+FRANCE,Paris,48.8,2.33333,94.23.236.187,normal
+UNITED STATES,"Quincy, MA",42.2613,-71.007,37.221.165.246,normal
+BELGIUM,(Unknown city),,,81.164.238.33,normal
+CANADA,Montreal,45.5167,-73.5667,198.50.158.69,normal
+SWEDEN,(Unknown city),,,83.248.132.65,normal
+FRANCE,(Unknown city),,,82.235.183.98,normal
+RUSSIAN FEDERATION,Vologda,59.2,39.9167,95.53.136.115,normal
+NETHERLANDS,(Unknown city),,,80.90.43.129,normal
+GERMANY,Berlin,52.5,13.4167,78.0.103.58,normal
+LATVIA,(Unknown city),,,95.215.44.110,normal
+UNITED STATES,(Unknown city),,,64.126.43.84,normal
+GERMANY,Berlin,52.5,13.4167,78.159.60.195,normal
+GERMANY,Koeln,50.9333,6.98333,87.230.17.245,normal
+GERMANY,(Unknown city),,,192.124.250.83,normal
+UNITED STATES,"Concord, NC",35.4073,-80.5943,166.82.21.200,normal
+SWEDEN,(Unknown city),,,81.170.149.240,normal
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.151,normal
+UNITED STATES,"Canton, GA",34.249,-84.4902,69.164.216.82 443 80,normal
+CZECH REPUBLIC,Brno,49.2,16.6333,147.229.8.26,normal
+UNITED STATES,"New Brunswick, NJ",40.4864,-74.4451,128.6.224.107 443 80,exit
+UNITED STATES,"Irvine, CA",33.6621,-117.796,68.4.64.198 9001 9030,normal
+RUSSIAN FEDERATION,(Unknown city),,,212.16.16.184,exit
+UNITED STATES,(Unknown city),,,54.228.65.96,normal
+UNITED STATES,(Unknown city),,,69.13.38.35,normal
+THAILAND,Ban Kok Ke,7.4833,100.183,89.160.52.29,normal
+FRANCE,Nantes,47.2167,-1.55,78.214.114.124,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.2.221.48,normal
+UNITED STATES,"La Verne, CA",34.1182,-117.771,4.34.200.253,normal
+CANADA,"POINTE-CLAIRE, QC",45.4333,-73.75,70.24.207.46,exit
+UNITED STATES,"New York, NY",40.6698,-73.9438,198.199.119.74,normal
+UNITED KINGDOM,(Unknown city),,,81.7.10.29 8443 8080,normal
+GERMANY,Hamburg,53.55,10.0333,80.171.127.62,normal
+FINLAND,Tampere,61.5,23.75,83.145.237.224,normal
+GERMANY,Berlin,52.5,13.4167,78.47.168.68,normal
+GERMANY,Berlin,52.5,13.4167,78.52.9.231,normal
+AUSTRALIA,Melbourne,-37.7833,144.967,150.101.157.250,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.190.252,normal
+UNITED STATES,"ABSECON, NJ",39.4252,-74.4956,173.255.209.232,normal
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.183,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.228.8,normal
+NETHERLANDS,(Unknown city),,,195.169.125.226,normal
+UNITED STATES,"Rochester, NY",43.1687,-77.6158,74.37.202.80,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,93.80.155.97,normal
+UNITED STATES,(Unknown city),,,54.154.16.253,exit
+NETHERLANDS,Groenlo,52.05,6.6167,77.249.103.86,normal
+SWEDEN,Stockholm,59.2833,18.05,83.227.52.227 9001 9030,normal
+UNITED KINGDOM,Jersey,49.2167,-2.1167,82.112.152.95,exit
+GERMANY,Berlin,52.5,13.4167,78.46.96.141 9001 9030,normal
+GERMANY,Oldenburg,53.1333,8.21667,134.106.3.254,normal
+SWITZERLAND,(Unknown city),,,62.220.136.253,normal
+UNITED STATES,(Unknown city),,,68.90.9.134,normal
+DENMARK,Horbelev,54.8167,12.0667,2.110.136.110,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.149.191,normal
+AUSTRALIA,(Unknown city),,,203.143.87.75,exit
+ICELAND,(Unknown city),,,82.221.100.201,exit
+GERMANY,Berlin,52.5,13.4167,78.141.80.236,normal
+GERMANY,(Unknown city),,,213.21.26.173,normal
+UNITED STATES,(Unknown city),,,67.85.133.59,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,76.73.3.174,normal
+BELGIUM,(Unknown city),,,213.49.112.242,normal
+UNITED STATES,(Unknown city),,,167.114.67.120,normal
+CANADA,(Unknown city),,,204.174.81.9,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.103.29.21,normal
+UNITED KINGDOM,(Unknown city),,,217.40.85.194,normal
+FRANCE,Paris,48.8,2.33333,94.23.25.78,normal
+UNITED KINGDOM,(Unknown city),,,84.45.76.13 9001 0,normal
+FRANCE,(Unknown city),,,81.166.64.55 9002 9031,normal
+UNITED STATES,(Unknown city),,,54.77.59.42,exit
+UNITED STATES,"Oakland, CA",37.7715,-122.225,192.160.193.110,normal
+ESTONIA,(Unknown city),,,195.250.163.177,normal
+SOUTH AFRICA,Cape Town,-33.9167,18.3667,41.185.17.18,normal
+FRANCE,(Unknown city),,,62.210.209.105,normal
+UNITED STATES,(Unknown city),,,24.233.74.111,normal
+FINLAND,(Unknown city),,,83.102.63.92,exit
+SWITZERLAND,(Unknown city),,,80.240.134.246,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.20.168.205,exit
+GERMANY,Karlsruhe,49.05,8.4,213.165.79.34,normal
+CANADA,(Unknown city),,,216.221.52.41,normal
+EUROPEAN UNION,(Unknown city),,,193.35.52.53,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.230.124.207,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.208.188.203,normal
+FRANCE,Villeurbanne,45.7667,4.8833,82.239.197.205 9001 9030,exit
+COTE D'IVOIRE,Buyo,6.2667,-7.05,208.80.154.39,normal
+UNITED KINGDOM,London,51.5,-0.1167,178.73.210.154,normal
+CANADA,"NEWMARKET, ON",44.05,-79.4667,216.154.100.114,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.27.10,normal
+GERMANY,Nuremberg,49.45,11.0667,213.133.123.151,normal
+"KOREA, REPUBLIC OF",(Unknown city),,,210.223.88.179,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,185.45.192.105 443 0,exit
+NETHERLANDS,(Unknown city),,,62.212.84.229,normal
+NETHERLANDS,(Unknown city),,,83.85.252.91,normal
+UNITED STATES,(Unknown city),,,67.244.54.57,normal
+CANADA,(Unknown city),,,137.117.209.160,normal
+NEW ZEALAND,(Unknown city),,,203.118.133.156,exit
+GERMANY,Berlin,52.5,13.4167,78.46.53.11 9001 9030,normal
+NETHERLANDS,(Unknown city),,,81.4.108.199,normal
+UNITED STATES,"Newark, NJ",40.7241,-74.1732,192.95.23.173,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.21.77,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.209.120,normal
+ICELAND,Reykjavk,64.15,-21.95,37.235.49.34 9001 0,normal
+GERMANY,Berlin,52.5,13.4167,78.46.51.124 443 80,exit
+UNITED STATES,(Unknown city),,,54.208.95.143,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.198.236,normal
+SWEDEN,(Unknown city),,,217.27.182.15,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,146.185.131.239,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.241.212.16,normal
+UNITED STATES,"San Diego, CA",32.8149,-117.136,216.17.99.144,normal
+BELGIUM,(Unknown city),,,192.135.168.251,exit
+UNITED STATES,(Unknown city),,,192.3.24.186,exit
+GERMANY,(Unknown city),,,84.200.8.175,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.222.27,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.222.147,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.20 443 80,exit
+UNITED STATES,(Unknown city),,,54.165.129.40,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,69.197.175.35,normal
+UKRAINE,Kharkiv,50,36.25,5.34.183.205,normal
+JAPAN,(Unknown city),,,220.157.195.243,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.81.176,normal
+GERMANY,Nrnberg,49.45,11.0833,87.159.170.89,normal
+NETHERLANDS,Hillegom,52.3,4.5833,82.139.92.120,normal
+ITALY,(Unknown city),,,195.191.233.221,normal
+GERMANY,Stuttgart,48.7667,9.18333,141.70.105.17,normal
+GERMANY,(Unknown city),,,213.73.81.210,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.193.184,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.77.77,normal
+UNITED STATES,(Unknown city),,,192.81.251.11,exit
+GERMANY,Erlangen,49.6,11.0167,131.188.24.14,normal
+UNITED STATES,(Unknown city),,,167.114.66.61,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.110.152,normal
+GERMANY,Munich,48.1333,11.5833,91.205.173.82,normal
+FRANCE,Paris,48.8,2.33333,91.121.16.67,normal
+GERMANY,Nrnberg,49.45,11.0833,87.172.34.91,normal
+GERMANY,Karlsruhe,49.05,8.4,93.132.115.237,normal
+AUSTRALIA,(Unknown city),,,203.161.103.17,exit
+JAPAN,(Unknown city),,,157.7.210.36,exit
+NETHERLANDS,(Unknown city),,,213.127.146.27,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,93.174.93.63,exit
+IRELAND,(Unknown city),,,84.209.73.36,normal
+UNITED STATES,"Nashville, TN",36.12,-86.68,65.19.178.177,normal
+IRELAND,(Unknown city),,,84.208.120.90,normal
+GERMANY,Karlsruhe,49.05,8.4,95.112.206.197,normal
+UNITED KINGDOM,Southampton,50.9,-1.4,212.159.112.196,normal
+UNITED STATES,"Cambridge, MA",42.3758,-71.1187,18.228.0.188,normal
+POLAND,(Unknown city),,,83.144.105.58,normal
+FINLAND,(Unknown city),,,82.203.195.64 443 80,normal
+UNITED STATES,(Unknown city),,,216.115.3.26,exit
+UNITED STATES,(Unknown city),,,54.68.29.170,exit
+NETHERLANDS,(Unknown city),,,192.87.224.189,normal
+UNITED STATES,"Washington, DC",38.905,-77.0162,38.229.70.34,normal
+UNITED STATES,(Unknown city),,,54.77.247.141,exit
+CZECH REPUBLIC,(Unknown city),,,212.24.144.188,exit
+AUSTRIA,(Unknown city),,,81.223.215.102,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.253.78.107,normal
+GERMANY,Berlin,52.5,13.4167,85.214.115.214,normal
+GERMANY,Dsseldorf,51.2167,6.7667,89.163.224.168,normal
+UNITED STATES,(Unknown city),,,54.79.126.197,normal
+NETHERLANDS,Daarle,52.4333,6.5333,94.23.145.233,normal
+UNITED STATES,(Unknown city),,,54.194.90.176,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,98.217.157.76,normal
+GERMANY,Karlsruhe,49.05,8.4,82.165.137.178,exit
+JAPAN,Tokyo,35.6667,139.75,106.187.92.163,normal
+UNITED KINGDOM,(Unknown city),,,80.229.0.210,normal
+UNITED STATES,"Atlanta, GA",33.7629,-84.4226,98.65.206.92,normal
+ITALY,(Unknown city),,,81.174.37.136,normal
+CANADA,(Unknown city),,,68.151.221.2,normal
+FRANCE,Paris,48.8,2.33333,94.23.46.32,normal
+POLAND,(Unknown city),,,84.10.111.10,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.177.23.254,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,209.51.163.25,normal
+UNITED KINGDOM,(Unknown city),,,83.170.70.90,normal
+FRANCE,Paris,48.8,2.33333,62.210.74.137,exit
+NORWAY,(Unknown city),,,80.212.26.157,normal
+GERMANY,(Unknown city),,,144.76.131.42,normal
+FRANCE,Nantes,47.2167,-1.55,78.224.240.196,normal
+FRANCE,Paris,48.8,2.33333,81.57.229.242,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.200.101 9001 9030,normal
+NETHERLANDS,(Unknown city),,,195.169.196.188,normal
+PORTUGAL,(Unknown city),,,217.23.1.27,normal
+GERMANY,Dsseldorf,51.2167,6.7667,5.199.142.195 9001 9030,exit
+UNITED KINGDOM,London,51.5,-0.1167,37.130.227.133 443 80,exit
+NETHERLANDS,(Unknown city),,,82.95.107.51,normal
+NEW ZEALAND,(Unknown city),,,219.89.196.202,normal
+GERMANY,Frankfurt,50.1167,8.68333,46.105.232.188,normal
+GERMANY,Berlin,52.5,13.4167,78.51.247.129,normal
+SEYCHELLES,Victoria,-4.6167,55.45,193.107.19.30,exit
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.72.139.56,normal
+GERMANY,Freiberg,48.1167,12.2667,95.168.142.53,normal
+CANADA,Montreal,45.5167,-73.5667,198.100.144.75,exit
+UNITED STATES,"Denver, CO",39.768,-104.873,71.219.197.49,exit
+NETHERLANDS,(Unknown city),,,83.163.3.67,normal
+EUROPEAN UNION,(Unknown city),,,81.169.200.218,exit
+AUSTRIA,(Unknown city),,,80.78.246.86,exit
+NETHERLANDS,(Unknown city),,,83.162.247.90,normal
+GERMANY,Berlin,52.5,13.4167,85.178.247.120,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,85.17.81.185,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.138.181,normal
+JAPAN,Mexico City,19.4333,-99.1167,219.165.48.21,normal
+NORWAY,(Unknown city),,,85.164.17.84,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,69.172.231.39,exit
+UNITED STATES,(Unknown city),,,192.3.117.104,normal
+"IRAN, ISLAMIC REPUBLIC OF",(Unknown city),,,83.169.22.7,normal
+SWITZERLAND,(Unknown city),,,80.218.217.78,normal
+UNITED STATES,"Brea, CA",33.9236,-117.867,173.236.249.56 443 80,normal
+FRANCE,Paris,48.8,2.33333,88.165.244.169,normal
+GERMANY,Berlin,52.5,13.4167,78.46.80.247,normal
+GERMANY,Munich,48.1333,11.5833,193.164.131.13,normal
+NETHERLANDS,(Unknown city),,,217.122.202.29,normal
+UNITED STATES,"Elk Grove, CA",38.4008,-121.367,24.23.53.28,normal
+UNITED STATES,(Unknown city),,,167.88.116.42 9001 0,normal
+FRANCE,(Unknown city),,,82.126.11.70,normal
+UNITED STATES,"Sandy, UT",40.5697,-111.854,166.70.207.2,exit
+ITALY,(Unknown city),,,212.51.156.81,normal
+UNITED STATES,(Unknown city),,,24.34.142.45,normal
+GERMANY,Berlin,52.5,13.4167,78.47.44.212,normal
+UNITED KINGDOM,(Unknown city),,,82.20.87.20,normal
+UNITED KINGDOM,(Unknown city),,,109.169.0.29,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.100.232,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,89.102.147.147,normal
+UNITED STATES,(Unknown city),,,67.253.245.39,normal
+FRANCE,Paris,48.8,2.33333,94.23.244.72,exit
+SWEDEN,(Unknown city),,,192.71.245.36,normal
+FRANCE,(Unknown city),,,195.154.91.139,normal
+UNITED STATES,"Cumming, GA",34.2088,-84.1351,69.164.221.78 443 8080,normal
+GERMANY,Berlin,52.5,13.4167,85.214.40.145,normal
+UNITED STATES,"St Louis, MO",38.6361,-90.2443,71.90.195.147,normal
+UNITED KINGDOM,Wigan,53.5333,-2.6167,89.238.172.108,normal
+TAIWAN,(Unknown city),,,61.219.119.37,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.198.51,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.47.180,normal
+UKRAINE,Kiev,50.4333,30.5167,95.132.89.143,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,72.64.101.115,normal
+UNITED STATES,"Irvine, CA",33.6621,-117.796,70.190.208.67,normal
+"IRAN, ISLAMIC REPUBLIC OF",(Unknown city),,,83.169.45.231,normal
+GERMANY,Kln,50.9333,6.95,87.79.155.92,normal
+AUSTRALIA,Canberra,-35.2833,149.133,114.152.158.174,exit
+GERMANY,Berlin,52.5,13.4167,78.47.219.166,normal
+FRANCE,Roubaix,50.7,3.1667,176.31.50.61,normal
+FRANCE,Evry,48.6333,2.45,82.227.12.18,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.73.237,normal
+NETHERLANDS,Leiden,52.15,4.5,82.161.53.38,normal
+UNITED STATES,"Lansing, MI",42.7091,-84.554,69.89.100.133,exit
+FINLAND,(Unknown city),,,80.220.244.107,normal
+NETHERLANDS,Groningen,53.2167,6.56667,217.123.254.238,normal
+TAIWAN,(Unknown city),,,140.121.80.42,exit
+FRANCE,(Unknown city),,,212.47.238.166,normal
+NETHERLANDS,(Unknown city),,,89.105.197.132,normal
+UNITED STATES,(Unknown city),,,216.195.133.27,normal
+EUROPEAN UNION,(Unknown city),,,217.71.141.117,normal
+HUNGARY,(Unknown city),,,193.91.78.20,exit
+GERMANY,Nuremberg,49.45,11.0667,88.198.117.101,normal
+GERMANY,(Unknown city),,,85.88.11.243,normal
+SWITZERLAND,(Unknown city),,,83.228.182.63,normal
+NORWAY,(Unknown city),,,128.39.8.68,normal
+UNITED STATES,(Unknown city),,,167.88.43.246,normal
+NORWAY,(Unknown city),,,80.212.145.117,exit
+GERMANY,Nrnberg,49.45,11.0833,87.149.27.178,normal
+CANADA,(Unknown city),,,68.148.162.216,normal
+FRANCE,Roubaix,50.7,3.1667,188.165.232.40,normal
+GERMANY,(Unknown city),,,194.126.198.228,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.87.172,exit
+RUSSIAN FEDERATION,(Unknown city),,,217.12.208.117 443 80,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.195.219.7,normal
+UNITED STATES,(Unknown city),,,54.174.189.6,exit
+SLOVAKIA,Bratislava,48.15,17.1167,188.167.69.224,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.248.57 443 80,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,162.243.100.225,normal
+GERMANY,(Unknown city),,,217.234.101.107,normal
+GERMANY,(Unknown city),,,81.173.130.34,normal
+UNITED STATES,(Unknown city),,,149.91.82.97,normal
+FINLAND,(Unknown city),,,193.166.167.82,normal
+SWEDEN,(Unknown city),,,193.11.137.201,exit
+LATVIA,Rogai,56.1,27.3,217.195.49.103,normal
+GERMANY,(Unknown city),,,80.147.33.157,normal
+BRAZIL,(Unknown city),,,201.6.137.127,normal
+UNITED STATES,(Unknown city),,,54.174.198.188,exit
+GERMANY,Haarth,50.2167,10.9667,85.25.150.120,normal
+UNITED STATES,(Unknown city),,,54.149.127.144,exit
+RUSSIAN FEDERATION,(Unknown city),,,81.176.228.54,exit
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.132.146.71,normal
+FRANCE,(Unknown city),,,212.198.44.239,normal
+UNITED KINGDOM,London,51.5,-0.1167,176.58.100.98,exit
+FRANCE,(Unknown city),,,82.239.104.165,normal
+GERMANY,Berlin,52.5,13.4167,85.214.195.198,normal
+AUSTRIA,Salzburg,47.8,13.0333,86.59.21.251,normal
+UNITED KINGDOM,Maidenhead,51.5167,-0.7,95.154.200.205,exit
+NETHERLANDS,Amsterdam,52.3667,4.88333,83.149.126.29,exit
+GERMANY,Berlin,52.5,13.4167,78.56.40.22,normal
+SLOVAKIA,Nitra,48.3167,18.0833,92.245.194.234,normal
+ITALY,(Unknown city),,,212.71.238.203,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,205.185.115.234,normal
+GERMANY,Berlin,52.5,13.4167,217.172.179.146,normal
+GERMANY,Nrnberg,49.45,11.0833,91.18.60.151,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.137.12,normal
+SWEDEN,(Unknown city),,,192.71.245.137,normal
+UNITED KINGDOM,London,51.5,-0.1167,109.74.195.190,normal
+GERMANY,Karlsruhe,49.05,8.4,217.160.19.236,normal
+SWEDEN,Stockholm,59.2833,18.05,31.220.7.201 9001 9030,normal
+AFGHANISTAN,Kandahr,31.6167,65.7167,173.254.216.66,exit
+UNITED KINGDOM,(Unknown city),,,84.40.77.85,normal
+UNITED STATES,"South Hadley, MA",42.2556,-72.5803,138.110.45.38,normal
+UNITED STATES,"Mount Laurel, NJ",39.9499,-74.9072,71.202.184.229,normal
+SWEDEN,Uppsala,59.8667,17.6333,90.225.80.219,normal
+UNITED STATES,"Paulding, OH",41.1368,-84.5827,69.162.107.5,exit
+CANADA,(Unknown city),,,209.148.85.118,normal
+GERMANY,Ismaning,48.2333,11.6833,109.239.48.174,normal
+AUSTRIA,(Unknown city),,,81.10.164.17,normal
+GERMANY,Nrnberg,49.45,11.0833,87.152.227.79,normal
+GERMANY,Berlin,52.5,13.4167,78.85.160.32,exit
+"KOREA, REPUBLIC OF",(Unknown city),,,211.202.41.31,normal
+UNITED STATES,"Vallejo, CA",38.1075,-122.264,75.110.124.175,normal
+FRANCE,Paris,48.8,2.33333,37.59.162.218,exit
+GERMANY,Hamburg,53.55,10.0333,85.176.8.199,normal
+FRANCE,(Unknown city),,,212.83.176.125,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.41.133.105,normal
+UNITED STATES,(Unknown city),,,167.114.72.162,normal
+GERMANY,Hannover,52.4,9.73333,130.75.81.251,normal
+GERMANY,Berlin,52.5,13.4167,85.214.71.72,normal
+UNITED STATES,(Unknown city),,,54.174.0.169,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.0.156.143,normal
+GERMANY,Ismaning,48.2333,11.6833,109.239.48.26,normal
+GERMANY,Berlin,52.5,13.4167,78.47.150.61 443 110,normal
+FRANCE,(Unknown city),,,82.230.131.41,normal
+UNITED STATES,(Unknown city),,,170.75.162.87,normal
+GERMANY,Berlin,52.5,13.4167,91.65.184.50,normal
+GERMANY,Berlin,52.5,13.4167,78.53.215.226,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,80.82.78.164,exit
+TAIWAN,(Unknown city),,,61.230.167.212,exit
+UNITED STATES,"Seattle, WA",47.6218,-122.35,76.26.203.243,normal
+SINGAPORE,(Unknown city),,,202.83.106.139,normal
+CANADA,(Unknown city),,,154.5.174.163,normal
+GERMANY,(Unknown city),,,131.188.40.188,normal
+UNITED STATES,"St Louis, MO",38.6361,-90.2443,69.64.34.85,normal
+GERMANY,Berlin,52.5,13.4167,46.165.197.96,normal
+ICELAND,Reykjavk,64.15,-21.95,37.235.49.138,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.246.24,exit
+FRANCE,Nantes,47.2167,-1.55,78.226.160.96,normal
+GERMANY,Nuremberg,49.45,11.0667,213.239.218.211,normal
+HUNGARY,Budapest,47.5,19.0833,91.219.237.218,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,198.52.247.247,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.13.245.62,normal
+EUROPEAN UNION,(Unknown city),,,171.25.193.235,exit
+FRANCE,Paris,48.8,2.33333,195.154.243.53,exit
+UNITED ARAB EMIRATES,Dubai,25.2522,55.28,72.52.91.29,exit
+UNITED STATES,(Unknown city),,,66.172.33.220,normal
+POLAND,(Unknown city),,,91.196.48.203,exit
+GERMANY,Dsseldorf,51.2167,6.7667,89.163.224.187,normal
+GREECE,(Unknown city),,,83.212.102.18,normal
+UNITED STATES,"Ashburn, VA",39.05,-77.4833,74.109.249.129,normal
+GERMANY,Berlin,52.5,13.4167,85.214.23.188,normal
+GERMANY,(Unknown city),,,212.114.254.91,normal
+UNITED STATES,(Unknown city),,,168.235.156.162,normal
+NETHERLANDS,(Unknown city),,,192.87.28.28,normal
+MALTA,(Unknown city),,,195.71.68.84,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,209.141.36.42,normal
+UNITED STATES,(Unknown city),,,66.235.30.217,normal
+UNITED STATES,"Seattle, WA",47.6218,-122.35,24.22.182.176,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.20.78.135,normal
+CANADA,Montreal,45.5167,-73.5667,198.100.148.112,normal
+UNITED STATES,(Unknown city),,,54.174.231.2,exit
+CANADA,(Unknown city),,,142.4.208.167,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.203.208,exit
+FRANCE,(Unknown city),,,213.222.94.104,exit
+LATVIA,(Unknown city),,,92.63.88.45,normal
+GERMANY,Nrnberg,49.45,11.0833,87.174.62.158,normal
+GERMANY,Berlin,52.5,13.4167,78.155.169.122,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.120.155,exit
+AUSTRIA,Vienna,48.2333,16.3333,80.108.111.201,normal
+UNITED STATES,"Framingham, MA",42.3059,-71.4379,209.6.133.238,normal
+FRANCE,Nantes,47.2167,-1.55,78.233.101.151,normal
+GERMANY,Nrnberg,49.45,11.0833,87.160.202.230,normal
+POLAND,(Unknown city),,,91.121.233.242,normal
+BELARUS,Minsk,53.9,27.5667,81.25.47.48,normal
+UNITED STATES,(Unknown city),,,67.249.138.113,normal
+UNITED STATES,"La Verne, CA",34.1182,-117.771,4.34.200.253,normal
+GERMANY,Berlin,52.5,13.4167,78.46.176.169,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,188.40.107.205,normal
+UNITED KINGDOM,(Unknown city),,,82.25.187.151,normal
+CANADA,(Unknown city),,,142.4.213.25,exit
+UNITED STATES,"Brea, CA",33.9236,-117.867,69.163.166.63,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,204.45.182.226,normal
+UNITED STATES,(Unknown city),,,206.188.68.239,normal
+UNITED STATES,(Unknown city),,,24.151.167.5,normal
+UKRAINE,(Unknown city),,,217.12.203.162,normal
+UNITED STATES,(Unknown city),,,24.12.250.200,exit
+FRANCE,Mandelieu,43.55,6.9333,88.167.44.220,normal
+UNITED STATES,(Unknown city),,,66.116.108.179,normal
+AUSTRIA,Marchtrenk,48.1833,14.1167,90.146.29.56,exit
+FRANCE,Roubaix,50.7,3.1667,188.165.138.181,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,192.43.244.42,normal
+FRANCE,Paris,48.8,2.33333,91.121.146.117,normal
+UNITED STATES,(Unknown city),,,68.193.243.103,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,173.230.154.90,normal
+RUSSIAN FEDERATION,Omsk,55,73.4,188.232.26.237,normal
+NETHERLANDS,(Unknown city),,,213.127.133.167,normal
+PHILIPPINES,Manila,14.5833,120.95,89.18.172.112,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.196.12 443 80,normal
+SWITZERLAND,(Unknown city),,,81.13.179.130,normal
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.34.242,normal
+UNITED STATES,(Unknown city),,,149.154.159.87,normal
+FINLAND,(Unknown city),,,193.166.167.73,normal
+UNITED STATES,(Unknown city),,,207.189.114.215,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.193.85,normal
+GERMANY,Nrnberg,49.45,11.0833,87.173.91.20,normal
+UNITED STATES,"Woodinville, WA",47.7462,-122.112,198.252.153.107,normal
+DENMARK,Kongens Lyngby,55.7667,12.5167,82.211.223.3,exit
+UNITED STATES,(Unknown city),,,67.23.181.237,exit
+UNITED STATES,"Reston, VA",38.95,-77.35,72.93.245.151,normal
+UNITED STATES,"RAHWAY, NJ",40.607,-74.2814,54.172.20.148,exit
+RUSSIAN FEDERATION,(Unknown city),,,212.33.245.129,exit
+NETHERLANDS,(Unknown city),,,80.100.189.3,normal
+UNITED STATES,"Dallas, TX",32.7942,-96.7653,69.164.195.87,normal
+GERMANY,Munich,48.1333,11.5833,193.37.152.241,exit
+UNITED KINGDOM,(Unknown city),,,82.70.39.35,normal
+CANADA,Montreal,45.5167,-73.5667,192.99.8.82,normal
+GERMANY,Munich,48.1333,11.5833,83.133.127.145,normal
+GERMANY,(Unknown city),,,131.188.40.189 443 80,normal
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.243.162,normal
+UNITED STATES,(Unknown city),,,68.70.94.109,normal
+GERMANY,(Unknown city),,,81.169.215.47,normal
+UNITED STATES,"Miami, FL",25.7757,-80.2108,149.9.0.60,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.98.189,normal
+UNITED STATES,(Unknown city),,,54.146.203.125,normal
+GERMANY,Hamburg,53.55,10.0333,92.229.128.2,normal
+FRANCE,(Unknown city),,,212.129.26.246,normal
+GERMANY,Berlin,52.5,13.4167,78.47.41.125,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.1.232.245,normal
+FRANCE,(Unknown city),,,80.8.69.62,normal
+FRANCE,Paris,48.8,2.33333,91.121.159.196,exit
+UNITED STATES,"Denver, CO",39.768,-104.873,204.45.30.122,normal
+AFGHANISTAN,Kbol,34.5167,69.1833,109.163.233.177,exit
+UNITED STATES,(Unknown city),,,24.193.233.71,normal
+FRANCE,(Unknown city),,,195.154.105.53,normal
+GERMANY,Potsdam,52.4,13.0667,93.219.89.244,normal
+UNITED STATES,"Middletown, CT",41.5484,-72.6543,129.133.8.31,normal
+GERMANY,Berlin,52.5,13.4167,176.9.0.187,normal
+GERMANY,Frankfurt,50.1167,8.68333,85.212.34.155,normal
+AUSTRALIA,(Unknown city),,,129.127.254.213,exit
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.45.93.86,normal
+UNITED STATES,(Unknown city),,,54.154.11.227,exit
+GERMANY,Gunzenhausen,47.9833,9.3833,46.4.39.235,normal
+ITALY,(Unknown city),,,82.48.61.153,normal
+AUSTRIA,(Unknown city),,,193.33.216.23,exit
+CANADA,(Unknown city),,,204.83.70.56,normal
+CANADA,(Unknown city),,,209.148.94.129,normal
+GREECE,(Unknown city),,,83.212.84.223,normal
+UNITED STATES,"Elk Grove Village, IL",42.0057,-87.9926,67.173.76.25,normal
+GERMANY,(Unknown city),,,217.247.227.20,normal
+UNITED STATES,(Unknown city),,,138.128.169.236,normal
+UNITED KINGDOM,Manchester,53.5,-2.2167,92.18.102.198,normal
+SWITZERLAND,(Unknown city),,,80.219.2.68,normal
+NETHERLANDS,(Unknown city),,,80.100.204.4,normal
+SWEDEN,(Unknown city),,,85.224.13.227,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.130.154,normal
+DENMARK,Odense,55.4,10.3833,85.218.139.135,normal
+UNITED STATES,"Louisville, KY",38.2248,-85.7412,74.142.74.158,exit
+CANADA,"OTTAWA, ON",45.4167,-75.7,184.175.40.115,normal
+GERMANY,Nrnberg,49.45,11.0833,87.180.126.51,normal
+UNITED STATES,(Unknown city),,,206.174.112.84,normal
+IRELAND,Dublin,53.3333,-6.25,79.97.42.91,normal
+GERMANY,Dsseldorf,51.2167,6.7667,5.199.142.236,normal
+EUROPEAN UNION,(Unknown city),,,193.150.121.66,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.130.212,normal
+JAPAN,(Unknown city),,,157.7.73.88,normal
+FRANCE,Paris,48.8,2.33333,91.121.169.33,exit
+JAPAN,(Unknown city),,,157.7.237.206,normal
+INDIA,Mumbai,18.9667,72.8333,123.108.224.70,exit
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.147.161,normal
+UNITED STATES,"Pittsburgh, PA",40.4392,-79.9767,128.2.211.115,normal
+AUSTRIA,(Unknown city),,,62.182.61.153,normal
+GERMANY,Berlin,52.5,13.4167,80.81.243.120 443 0,normal
+NORWAY,Bergen,60.3833,5.33333,80.202.237.103,normal
+FRANCE,Boulogne Billancourt,48.8333,2.25,77.196.193.10,normal
+GERMANY,Berlin,52.5,13.4167,78.46.43.221,normal
+BELGIUM,Kapellen,50.2667,6.0333,81.82.64.246,normal
+UNITED STATES,"Ocala, FL",29.1875,-82.1308,209.208.26.41,normal
+NETHERLANDS,(Unknown city),,,81.4.109.250,normal
+UNITED STATES,(Unknown city),,,54.88.110.89,normal
+FRANCE,(Unknown city),,,62.210.137.230,normal
+SWEDEN,(Unknown city),,,84.244.43.15,normal
+ISRAEL,(Unknown city),,,213.183.56.33,normal
+NETHERLANDS,(Unknown city),,,84.27.94.247,normal
+GERMANY,Berlin,52.5,13.4167,146.0.42.110 22 21,normal
+GERMANY,Berlin,52.5,13.4167,78.52.88.100,normal
+GERMANY,Haarth,50.2167,10.9667,85.25.201.119,normal
+UNITED STATES,"Syracuse, NY",43.0411,-76.1441,69.67.252.135,normal
+FRANCE,Antibes,43.5833,7.1167,82.228.252.20,exit
+UNITED KINGDOM,(Unknown city),,,82.68.31.126,exit
+NETHERLANDS,(Unknown city),,,77.247.181.165,exit
+LUXEMBOURG,Steinsel,49.6769,6.1239,94.242.246.23,exit
+UNITED STATES,(Unknown city),,,54.174.226.99,exit
+CZECH REPUBLIC,Prague,50.0833,14.4333,78.41.23.162,normal
+GERMANY,Nrnberg,49.45,11.0833,87.185.106.132,normal
+UNITED STATES,"Denver, CO",39.768,-104.873,204.45.30.125,normal
+JAPAN,(Unknown city),,,61.195.98.59 443 0,normal
+GERMANY,(Unknown city),,,62.176.239.229,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.20.163.104,normal
+UNITED STATES,(Unknown city),,,209.123.162.66,normal
+UNITED STATES,(Unknown city),,,217.11.57.226,normal
+NETHERLANDS,(Unknown city),,,82.72.61.81,normal
+FRANCE,(Unknown city),,,195.154.116.43,normal
+GREECE,(Unknown city),,,83.212.104.145,normal
+GERMANY,(Unknown city),,,85.93.18.89,normal
+GERMANY,Nrnberg,49.45,11.0833,87.150.195.37,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,162.243.48.137,normal
+BELGIUM,Antwerp,51.2167,4.41667,80.200.219.0,normal
+GERMANY,(Unknown city),,,62.176.253.150,normal
+SLOVAKIA,(Unknown city),,,217.67.21.77,normal
+NETHERLANDS,(Unknown city),,,82.73.223.157,normal
+ESTONIA,(Unknown city),,,84.50.21.55,normal
+UNITED STATES,"Chicago, IL",41.8371,-87.685,50.7.8.114,normal
+GERMANY,(Unknown city),,,139.14.13.198,normal
+FRANCE,(Unknown city),,,195.154.75.84,normal
+UNITED STATES,"Los Angeles, CA",34.1121,-118.411,108.54.164.175,normal
+GERMANY,Nuremberg,49.45,11.0667,88.198.184.233,normal
+GERMANY,(Unknown city),,,62.75.157.197,normal
+FINLAND,(Unknown city),,,82.181.219.197,exit
+UNITED STATES,"Reston, VA",38.95,-77.35,72.64.96.223,normal
+UNITED STATES,"San Francisco, CA",37.7749,-122.419,98.210.164.198,normal
+NETHERLANDS,(Unknown city),,,195.169.207.54,normal
+GERMANY,Kln,50.9333,6.95,178.77.98.124,normal
+FRANCE,(Unknown city),,,195.154.114.106,normal
+FRANCE,(Unknown city),,,81.53.253.152,normal
+GERMANY,(Unknown city),,,217.189.253.147,normal
+GERMANY,Berlin,52.5,13.4167,78.47.18.110,normal
+POLAND,(Unknown city),,,82.177.238.240,normal
+NETHERLANDS,Groenlo,52.05,6.6167,77.251.48.207,normal
+UNITED STATES,(Unknown city),,,209.181.227.131,normal
+GERMANY,Bad Hersfeld,50.8667,9.7,84.171.79.146,normal
+ROMANIA,Bucharest,44.4167,26.1167,81.89.0.199,exit
+GERMANY,Berlin,52.5,13.4167,193.174.6.20,normal
+UNITED STATES,"COVINA, CA",34.0901,-117.881,69.50.171.238,normal
+FRANCE,(Unknown city),,,212.198.178.76,exit
+NETHERLANDS,(Unknown city),,,80.101.116.13,normal
+GERMANY,Berlin,52.5,13.4167,78.48.188.19,normal
+SINGAPORE,(Unknown city),,,202.83.106.179,normal
+UNITED STATES,(Unknown city),,,216.12.198.83,normal
+PORTUGAL,(Unknown city),,,212.48.84.53,exit
+UNITED STATES,(Unknown city),,,38.229.0.28,normal
+NETHERLANDS,Venlo,51.3667,6.1667,217.120.67.202,normal
+GERMANY,(Unknown city),,,84.139.116.215,normal
+UNITED STATES,"Reston, VA",38.95,-77.35,96.241.232.84,normal
+GERMANY,Nrnberg,49.45,11.0833,91.10.76.46,normal
+NETHERLANDS,Maasdijk,51.8,4.4667,109.236.80.170,normal
+UNITED STATES,(Unknown city),,,192.30.32.44,normal
+FRANCE,(Unknown city),,,195.154.8.224,exit
+BULGARIA,Sofia,42.6833,23.3167,87.121.52.242,normal
+GERMANY,Berlin,52.5,13.4167,78.72.179.147,normal
+UNITED STATES,"Westminster, MD",39.5788,-77.0077,68.65.98.123,normal
+GERMANY,(Unknown city),,,213.95.21.200,normal
+UNITED STATES,"Bedford, MA",42.47,-71.28,173.48.182.23,normal
+UNITED STATES,"Houston, TX",29.7687,-95.3867,207.201.223.196,exit
+RUSSIAN FEDERATION,Saint Petersburg,59.8944,30.2642,94.242.58.204,normal
+FINLAND,(Unknown city),,,80.223.182.112,normal
+UNITED STATES,"Boston, MA",42.336,-71.0179,207.172.209.89,normal
+GERMANY,(Unknown city),,,144.76.199.40,normal
+AUSTRALIA,Canberra,-35.2833,149.133,114.134.6.21,normal
+RUSSIAN FEDERATION,Ekaterinburg,56.85,60.6,188.16.3.63,normal
+FINLAND,(Unknown city),,,193.166.167.92,normal
+GERMANY,Berlin,52.5,13.4167,78.47.95.156,normal
+UNITED STATES,"Boulder, CO",40.0269,-105.251,192.43.244.8,normal
+CANADA,"TORONTO, ON",43.65,-79.3833,69.197.175.36,normal
+AUSTRIA,Vienna,48.2333,16.3333,86.59.119.83,normal
+CZECH REPUBLIC,Prague,50.0833,14.4333,46.167.245.172,exit
+AUSTRIA,Vienna,48.2333,16.3333,91.119.114.138,normal
+SWITZERLAND,Sankt Gallen,47.4667,9.4,213.196.137.227,normal
+GERMANY,Nrnberg,49.45,11.0833,87.156.87.68,normal
+RUSSIAN FEDERATION,(Unknown city),,,213.141.141.147,normal
+UNITED STATES,"Redwood City, CA",37.5164,-122.206,149.20.54.218,normal
+GERMANY,Dsseldorf,51.2167,6.7667,188.138.121.118,normal
+UNITED STATES,"New York, NY",40.6698,-73.9438,72.51.35.80,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.154.35,exit
+UNITED STATES,"Chicago, IL",41.8371,-87.685,82.66.131.125,normal
+GERMANY,Frth,49.4167,7.2333,85.212.31.111,normal
+GERMANY,Nrnberg,49.45,11.0833,88.198.25.92,normal
+UNITED STATES,(Unknown city),,,54.88.59.45,normal
+SWITZERLAND,(Unknown city),,,80.218.159.87,normal
+NETHERLANDS,Amsterdam,52.3667,4.88333,95.211.205.151,exit
+UNITED STATES,(Unknown city),,,130.184.75.118,normal
+AUSTRIA,Salzburg,47.8,13.0333,86.59.21.163 9001 9030,normal
+UNITED STATES,"Fremont, CA",37.5285,-121.997,173.230.154.184,normal
+JAPAN,Tokyo,35.6667,139.75,106.187.92.163,normal
+UNITED STATES,"Goshen, IN",41.5785,-85.8351,98.226.132.116,normal
+EUROPEAN UNION,(Unknown city),,,193.150.121.26,normal
+GERMANY,Berlin,52.5,13.4167,78.47.163.36,normal
+UNITED STATES,(Unknown city),,,69.164.217.10,normal
+LATVIA,(Unknown city),,,95.215.44.145,normal
+UNITED STATES,"New Haven, CT",41.3101,-72.9241,130.132.94.65,normal
+SWEDEN,(Unknown city),,,130.243.214.101,normal
+RUSSIAN FEDERATION,Moscow,55.75,37.6,89.175.27.163,normal
+AUSTRALIA,(Unknown city),,,203.214.37.243,normal
+UNITED KINGDOM,(Unknown city),,,84.51.134.68,normal
+GERMANY,Bremen,53.08,8.81,134.102.200.101,normal
+EUROPEAN UNION,(Unknown city),,,193.7.177.223,normal
+FRANCE,Rennes,48.0833,-1.68333,195.154.136.121,normal
+UNITED STATES,"Fort Worth, TX",32.7539,-97.3363,66.228.39.82,normal
+GERMANY,(Unknown city),,,144.76.50.37,normal
+TAIWAN,(Unknown city),,,140.121.80.34,normal
+UNITED STATES,"Philadelphia, PA",40.0068,-75.1347,87.106.249.118,normal
+SWEDEN,(Unknown city),,,193.11.164.243 9001 9030,normal
+GREECE,(Unknown city),,,194.219.35.30,normal
+EUROPEAN UNION,(Unknown city),,,193.150.14.45,normal
+FRANCE,Paris,48.8,2.33333,91.121.184.87,normal
+SWEDEN,(Unknown city),,,85.229.101.8,normal
+GERMANY,Nuremberg,49.45,11.0667,85.10.196.9,normal
