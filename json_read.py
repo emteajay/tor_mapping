@@ -17,7 +17,6 @@ for i in data['relays']:
 	ip_list.append((i['ip'], "type: " + i['type']))
 # ip_list_to_use = ip_list[128]
 ###
-
 """ping Hostip API"""
 for i in ip_list:
 	response = urllib.urlopen('http://api.hostip.info/get_html.php?ip='+str(i[0])+'&position=True').read()
@@ -28,7 +27,7 @@ def check_string(search_string):
 	if search_string == -1:
 		return None, 0
 
-b = open("output.csv", "w")
+b = open("output_3.csv", "w")
 filewrite = csv.writer(b)
 
 """find Country, City, Laitude, Longitude, IP, and exit node type"""
@@ -36,8 +35,10 @@ for i in lat_long:
 	if "(Unknown Country?)" in i:
 		None
 	elif "(Private Address)" in i:
-		None	
-	else:	
+		None
+	elif "(Unknown city)" in i:
+		None
+	else:
 		# finders
 		find_country = i.find("Country:")
 		find_city = i.find("City:")
